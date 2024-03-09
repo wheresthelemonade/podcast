@@ -3,8 +3,8 @@ layout: posts
 title: "#2.2 Getting Organized in the New Year"
 number: 202
 permalink: episode-WTL202
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 202
 tags:
 

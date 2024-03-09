@@ -3,8 +3,8 @@ layout: posts
 title: "#2.17 When Kids get Married in a Blended Family"
 number: 217
 permalink: episode-WTL217
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 217
 tags:
 

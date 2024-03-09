@@ -3,8 +3,8 @@ layout: posts
 title: "#1.27 Back to School Boohoo Woohoo"
 number: 127
 permalink: episode-WTL127
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 127
 tags:
 

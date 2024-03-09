@@ -3,8 +3,8 @@ layout: posts
 title: "#1.2 Spending Time Alone (Together)"
 number: 102
 permalink: episode-WTL102
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 102
 tags:
 

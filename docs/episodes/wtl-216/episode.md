@@ -3,8 +3,8 @@ layout: posts
 title: "#2.16 Taking a Break from COVID"
 number: 216
 permalink: episode-WTL216
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 216
 tags:
 

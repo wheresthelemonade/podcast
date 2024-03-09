@@ -3,8 +3,8 @@ layout: posts
 title: "#4.10 How to handle co-parenting with an ex you don't see eye to eye with."
 number: 410
 permalink: episode-WTL410
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 410
 tags:
 

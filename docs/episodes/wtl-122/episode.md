@@ -3,8 +3,8 @@ layout: posts
 title: "#1.22 Preparing for the Worst Day of Your Life - Navigate Kids Through the Separation."
 number: 122
 permalink: episode-WTL122
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 122
 tags:
 

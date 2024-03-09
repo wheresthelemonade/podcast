@@ -3,8 +3,8 @@ layout: posts
 title: "#1.34 Retrospective on 8 years of Blending families"
 number: 134
 permalink: episode-WTL134
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 134
 tags:
 

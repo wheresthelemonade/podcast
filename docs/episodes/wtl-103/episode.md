@@ -3,8 +3,8 @@ layout: posts
 title: "#1.3 Egg's Benedict and Sausage Fondue - Building foundations through traditions"
 number: 103
 permalink: episode-WTL103
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 103
 tags:
 

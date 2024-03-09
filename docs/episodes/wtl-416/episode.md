@@ -3,8 +3,8 @@ layout: posts
 title: "#4.16 It's Summer Time!! Screen Time How Much is Too Much?"
 number: 416
 permalink: episode-WTL416
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 416
 tags:
 

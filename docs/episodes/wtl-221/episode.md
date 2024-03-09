@@ -3,8 +3,8 @@ layout: posts
 title: "#2.21 Even Stevens in a Blended Family"
 number: 221
 permalink: episode-WTL221
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 221
 tags:
 

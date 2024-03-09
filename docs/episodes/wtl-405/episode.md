@@ -3,8 +3,8 @@ layout: posts
 title: "#4.5 Balancing Act Between Fun and Strict Parenting"
 number: 405
 permalink: episode-WTL405
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 405
 tags:
 

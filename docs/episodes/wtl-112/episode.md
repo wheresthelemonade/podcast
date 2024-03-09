@@ -3,8 +3,8 @@ layout: posts
 title: "#1.12 Compromise in Blended Families- Know when the hold'm, fold'm and walk away"
 number: 112
 permalink: episode-WTL112
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 112
 tags:
 

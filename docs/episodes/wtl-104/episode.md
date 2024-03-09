@@ -3,8 +3,8 @@ layout: posts
 title: "#1.4 There is No Step in Grandma and Grandpa - Extending the blended family across multiple generations"
 number: 104
 permalink: episode-WTL104
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 104
 tags:
 

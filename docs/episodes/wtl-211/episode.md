@@ -3,8 +3,8 @@ layout: posts
 title: "#2.11 Episode 2:11- Dealing with Stress (Covid-19 Week 3)"
 number: 211
 permalink: episode-WTL211
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 211
 tags:
 

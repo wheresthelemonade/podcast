@@ -3,8 +3,8 @@ layout: posts
 title: "#1.5 Family Road-trips survival of the fittest"
 number: 105
 permalink: episode-WTL105
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 105
 tags:
 

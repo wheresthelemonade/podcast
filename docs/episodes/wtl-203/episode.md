@@ -3,8 +3,8 @@ layout: posts
 title: "#2.3 Dating your Spouse"
 number: 203
 permalink: episode-WTL203
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 203
 tags:
 

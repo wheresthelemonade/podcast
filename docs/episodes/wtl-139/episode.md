@@ -3,8 +3,8 @@ layout: posts
 title: "#1.39 Managing Christmas Stress"
 number: 139
 permalink: episode-WTL139
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 139
 tags:
 

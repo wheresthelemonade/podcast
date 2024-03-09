@@ -3,8 +3,8 @@ layout: posts
 title: "#1.30 Managing Unsolvable and Solvable Problems"
 number: 130
 permalink: episode-WTL130
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 130
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#2.15 COVID the Great Divide"
 number: 215
 permalink: episode-WTL215
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 215
 tags:
 

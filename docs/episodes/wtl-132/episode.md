@@ -3,8 +3,8 @@ layout: posts
 title: "#1.32 Making your own Lemonade, Overcoming hardship"
 number: 132
 permalink: episode-WTL132
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 132
 tags:
 

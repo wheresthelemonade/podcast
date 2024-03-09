@@ -3,8 +3,8 @@ layout: posts
 title: "#1.18 Discipline in Blended Families"
 number: 118
 permalink: episode-WTL118
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 118
 tags:
 

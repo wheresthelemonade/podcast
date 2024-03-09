@@ -3,8 +3,8 @@ layout: posts
 title: "#1.8 Transparency or Privacy in Marriage"
 number: 108
 permalink: episode-WTL108
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 108
 tags:
 

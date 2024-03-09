@@ -3,8 +3,8 @@ layout: posts
 title: "#1.15 From Bad to Worse. Still Found a Couple Lemon Squares"
 number: 115
 permalink: episode-WTL115
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 115
 tags:
 

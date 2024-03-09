@@ -3,8 +3,8 @@ layout: posts
 title: "#1.33 Decorating for the Holidays with going Insane"
 number: 133
 permalink: episode-WTL133
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 133
 tags:
 

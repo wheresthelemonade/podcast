@@ -3,8 +3,8 @@ layout: posts
 title: "#2.6 Valentine's Day Expectations vs Reality"
 number: 206
 permalink: episode-WTL206
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 206
 tags:
 

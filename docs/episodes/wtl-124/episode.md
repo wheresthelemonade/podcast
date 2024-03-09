@@ -3,8 +3,8 @@ layout: posts
 title: "#1.24 Dealing with Child Support and Alimony"
 number: 124
 permalink: episode-WTL124
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 124
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#5.6 You Asked, We Answered"
 number: 506
 permalink: episode-WTL506
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 506
 tags:
     - blended

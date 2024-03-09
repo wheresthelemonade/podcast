@@ -3,8 +3,8 @@ layout: posts
 title: "What a year 2020 in review"
 number: 223
 permalink: episode-WTL223
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 223
 tags:
 

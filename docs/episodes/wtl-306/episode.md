@@ -3,8 +3,8 @@ layout: posts
 title: "#3.6 Valentine's Day Reboot"
 number: 306
 permalink: episode-WTL306
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 306
 tags:
 

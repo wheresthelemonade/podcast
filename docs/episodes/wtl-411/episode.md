@@ -3,8 +3,8 @@ layout: posts
 title: "#4.11 Why is Mother's Day so hard??"
 number: 411
 permalink: episode-WTL411
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 411
 tags:
 

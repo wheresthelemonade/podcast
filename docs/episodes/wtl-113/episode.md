@@ -3,8 +3,8 @@ layout: posts
 title: "#1.13 You Previous Life in your current marriage"
 number: 113
 permalink: episode-WTL113
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 113
 tags:
 

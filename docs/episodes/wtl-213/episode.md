@@ -3,8 +3,8 @@ layout: posts
 title: "#2.13 Quarantine Fatigue (Week 8 of COVID Pandemic)"
 number: 213
 permalink: episode-WTL213
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 213
 tags:
 

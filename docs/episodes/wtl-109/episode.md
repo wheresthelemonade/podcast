@@ -3,8 +3,8 @@ layout: posts
 title: "#1.9 Working together thru Depression and Anxiety"
 number: 109
 permalink: episode-WTL109
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 109
 tags:
 

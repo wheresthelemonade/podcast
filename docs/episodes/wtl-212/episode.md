@@ -3,8 +3,8 @@ layout: posts
 title: "#2.12 Feeling like Multiple Families"
 number: 212
 permalink: episode-WTL212
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 212
 tags:
 

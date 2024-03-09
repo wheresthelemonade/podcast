@@ -3,8 +3,8 @@ layout: posts
 title: "#2.9 Adjusting to Everyone at Home (Covid 19)"
 number: 209
 permalink: episode-WTL209
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 209
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#3.9 The Silent Ex Spouse"
 number: 309
 permalink: episode-WTL309
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 309
 tags:
 

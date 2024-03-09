@@ -3,8 +3,8 @@ layout: posts
 title: "#2.4 Using Counseling to Strengthen Your Marriage"
 number: 204
 permalink: episode-WTL204
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 204
 tags:
 

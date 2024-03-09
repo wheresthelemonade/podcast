@@ -3,8 +3,8 @@ layout: posts
 title: "#2.18 Back to School with COVID and Blended Families"
 number: 218
 permalink: episode-WTL218
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 218
 tags:
 

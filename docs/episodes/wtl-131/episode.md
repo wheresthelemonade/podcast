@@ -3,8 +3,8 @@ layout: posts
 title: "#1.31 Surviving Middle School Kids in a Blended Family"
 number: 131
 permalink: episode-WTL131
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 131
 tags:
 

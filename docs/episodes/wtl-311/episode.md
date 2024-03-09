@@ -3,8 +3,8 @@ layout: posts
 title: "#3.11 The Over Communicative Ex"
 number: 311
 permalink: episode-WTL311
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 311
 tags:
 

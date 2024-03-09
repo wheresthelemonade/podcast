@@ -3,8 +3,8 @@ layout: posts
 title: "#1.19 Flexibility in Travelling Together"
 number: 119
 permalink: episode-WTL119
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 119
 tags:
 

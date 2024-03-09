@@ -3,8 +3,8 @@ layout: posts
 title: "#1.20 Triggers, How to Avoid and Deal with Them"
 number: 120
 permalink: episode-WTL120
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 120
 tags:
 

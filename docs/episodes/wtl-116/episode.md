@@ -3,8 +3,8 @@ layout: posts
 title: "#1.16 Step Mother's Day"
 number: 116
 permalink: episode-WTL116
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 116
 tags:
 

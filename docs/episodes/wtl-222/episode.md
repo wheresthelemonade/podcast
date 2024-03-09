@@ -3,8 +3,8 @@ layout: posts
 title: "#2.22 Don't Judge Me"
 number: 222
 permalink: episode-WTL222
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 222
 tags:
 

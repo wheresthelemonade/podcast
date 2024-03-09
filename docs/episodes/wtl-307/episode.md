@@ -3,8 +3,8 @@ layout: posts
 title: "#3.7 (Don't) Die hard in Traditions"
 number: 307
 permalink: episode-WTL307
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 307
 tags:
 

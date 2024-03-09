@@ -3,8 +3,8 @@ layout: posts
 title: "#2.5 Why Blended Families Fail"
 number: 205
 permalink: episode-WTL205
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 205
 tags:
 

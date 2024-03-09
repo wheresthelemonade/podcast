@@ -3,8 +3,8 @@ layout: posts
 title: "#2.19 Unity not Equality in Marriage"
 number: 219
 permalink: episode-WTL219
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 219
 tags:
 

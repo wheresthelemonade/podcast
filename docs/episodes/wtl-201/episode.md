@@ -3,8 +3,8 @@ layout: posts
 title: "#2.1 Goal Setting in a Blended Family"
 number: 201
 permalink: episode-WTL201
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 201
 tags:
 

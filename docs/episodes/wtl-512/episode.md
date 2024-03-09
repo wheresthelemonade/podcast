@@ -3,8 +3,8 @@ layout: posts
 title: "#5.12 Event Etiquette in Co-Parenting"
 number: 512
 permalink: episode-WTL512
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 512
 tags:
 

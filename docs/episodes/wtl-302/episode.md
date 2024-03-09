@@ -3,8 +3,8 @@ layout: posts
 title: "#3.2 The Lemonade of Blended Families"
 number: 302
 permalink: episode-WTL302
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 302
 tags:
 

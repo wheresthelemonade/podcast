@@ -3,8 +3,8 @@ layout: posts
 title: "#2.20 Resolving Conflict in Marriage"
 number: 220
 permalink: episode-WTL220
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 220
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#4.14 Travel Tips from Portugal"
 number: 414
 permalink: episode-WTL414
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 414
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#1.29 Girl's Trips? Heck yes!"
 number: 129
 permalink: episode-WTL129
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 129
 tags:
 

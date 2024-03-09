@@ -3,8 +3,8 @@ layout: posts
 title: "#1.14 Sandwiches (Mustard/Mayo) - Making kids feel special in a Large Family"
 number: 114
 permalink: episode-WTL114
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 114
 tags:
 

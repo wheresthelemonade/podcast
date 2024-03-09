@@ -3,8 +3,8 @@ layout: posts
 title: "#4.6 How to Reconnect With Your Spouse"
 number: 406
 permalink: episode-WTL406
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 406
 tags:
 

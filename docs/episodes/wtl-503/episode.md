@@ -3,8 +3,8 @@ layout: posts
 title: "#5.3 Why is our Marriage Boring????"
 number: 503
 permalink: episode-WTL503
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 503
 tags:
     - relationships

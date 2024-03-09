@@ -3,8 +3,8 @@ layout: posts
 title: "#1.35 Our time to reconnect in Greece"
 number: 135
 permalink: episode-WTL135
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 135
 tags:
 

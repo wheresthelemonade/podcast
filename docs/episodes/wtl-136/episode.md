@@ -3,8 +3,8 @@ layout: posts
 title: "#1.36 Step Parent Boundries"
 number: 136
 permalink: episode-WTL136
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 136
 tags:
 

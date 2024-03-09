@@ -3,8 +3,8 @@ layout: posts
 title: "#5.9 Two Households, Two Sets of Rules"
 number: 509
 permalink: episode-WTL509
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 509
 tags:
     - blended

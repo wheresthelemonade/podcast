@@ -3,8 +3,8 @@ layout: posts
 title: "#1.7 Being part of a Bigger Extended Family (Blending into your spouse's family)"
 number: 107
 permalink: episode-WTL107
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 107
 tags:
 

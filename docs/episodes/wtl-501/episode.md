@@ -3,8 +3,8 @@ layout: posts
 title: "#5.1 What happened in 2022"
 number: 501
 permalink: episode-WTL501
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 501
 tags:
     - news

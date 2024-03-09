@@ -3,8 +3,8 @@ layout: posts
 title: "#1.23 Divorce Dog, Disneyland and Skydiving"
 number: 123
 permalink: episode-WTL123
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 123
 tags:
 

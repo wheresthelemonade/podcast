@@ -3,8 +3,8 @@ layout: posts
 title: "#1.17 Custody Scheduling Nightmares and Successes"
 number: 117
 permalink: episode-WTL117
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 117
 tags:
 

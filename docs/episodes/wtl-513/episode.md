@@ -3,8 +3,8 @@ layout: posts
 title: "#5.13 How Young is too Young to Leave Your Kids Alone? "
 number: 513
 permalink: episode-WTL513
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 513
 tags:
 

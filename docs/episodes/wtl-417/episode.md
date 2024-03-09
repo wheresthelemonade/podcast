@@ -3,8 +3,8 @@ layout: posts
 title: "#4.17 Understanding the Differences between Men and Women"
 number: 417
 permalink: episode-WTL417
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 417
 tags:
 

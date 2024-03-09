@@ -3,8 +3,8 @@ layout: posts
 title: "#3.10 Kindness in Marriage"
 number: 310
 permalink: episode-WTL310
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 310
 tags:
 

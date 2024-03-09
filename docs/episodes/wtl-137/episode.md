@@ -3,8 +3,8 @@ layout: posts
 title: "#1.37 Competing with your Ex to be the Favorite"
 number: 137
 permalink: episode-WTL137
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 137
 tags:
 

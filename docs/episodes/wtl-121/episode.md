@@ -3,8 +3,8 @@ layout: posts
 title: "#1.21 Open Communication with your Spouse, Kids, and Exes"
 number: 121
 permalink: episode-WTL121
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 121
 tags:
 

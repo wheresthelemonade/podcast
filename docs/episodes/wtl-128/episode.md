@@ -3,8 +3,8 @@ layout: posts
 title: "#1.28 Identifying and Avoiding Toxic Behavior"
 number: 128
 permalink: episode-WTL128
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 128
 tags:
 

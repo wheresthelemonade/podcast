@@ -3,8 +3,8 @@ layout: posts
 title: "#2.14 Fighting the Stereotypes of Divorce and Blended Families"
 number: 214
 permalink: episode-WTL214
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 214
 tags:
 

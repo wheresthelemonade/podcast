@@ -3,8 +3,8 @@ layout: posts
 title: "#5.8 Spending Too Much Time Together"
 number: 508
 permalink: episode-WTL508
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 508
 tags:
     - relationships

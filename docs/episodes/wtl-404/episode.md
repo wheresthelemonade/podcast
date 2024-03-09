@@ -3,8 +3,8 @@ layout: posts
 title: "#4.4 Living in Two Households"
 number: 404
 permalink: episode-WTL404
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 404
 tags:
 

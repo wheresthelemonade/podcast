@@ -3,8 +3,8 @@ layout: posts
 title: "#5.11 Nacho Parenting"
 number: 511
 permalink: episode-WTL511
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 511
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#4.1 We're Back!! Kick off to 2022 "
 number: 401
 permalink: episode-WTL401
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 401
 tags:
 

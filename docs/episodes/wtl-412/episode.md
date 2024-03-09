@@ -3,8 +3,8 @@ layout: posts
 title: "#4.12 Success In Marriage"
 number: 412
 permalink: episode-WTL412
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 412
 tags:
 

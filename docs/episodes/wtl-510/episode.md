@@ -3,8 +3,8 @@ layout: posts
 title: "#5.10 Marriage Myth: Don't Go To Bed Angry"
 number: 510
 permalink: episode-WTL510
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 510
 tags:
 

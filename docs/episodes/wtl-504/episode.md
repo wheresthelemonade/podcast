@@ -3,8 +3,8 @@ layout: posts
 title: "#5.4 The Horrible First Year Revisited"
 number: 504
 permalink: episode-WTL504
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 504
 tags:
     - relationships

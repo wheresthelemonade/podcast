@@ -3,8 +3,8 @@ layout: posts
 title: "#4.15 What Not To Do When you Travel"
 number: 415
 permalink: episode-WTL415
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 415
 tags:
 

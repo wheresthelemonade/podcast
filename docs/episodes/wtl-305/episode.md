@@ -3,8 +3,8 @@ layout: posts
 title: "#3.5 Disneyland Dad Syndrome "
 number: 305
 permalink: episode-WTL305
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 305
 tags:
 

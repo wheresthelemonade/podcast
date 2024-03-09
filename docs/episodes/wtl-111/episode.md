@@ -3,8 +3,8 @@ layout: posts
 title: "Put the Title Right Here"
 number: 111
 permalink: episode-WTL111
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 111
 tags:
     - edt111

@@ -3,8 +3,8 @@ layout: posts
 title: "#1.10 Family Heritage Tour"
 number: 110
 permalink: episode-WTL110
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 110
 tags:
 

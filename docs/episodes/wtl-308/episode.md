@@ -3,8 +3,8 @@ layout: posts
 title: "#3.8 30 Day Relationship Challenge"
 number: 308
 permalink: episode-WTL308
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 308
 tags:
 

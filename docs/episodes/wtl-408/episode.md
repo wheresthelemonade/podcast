@@ -3,8 +3,8 @@ layout: posts
 title: "#4.8 Selfishness in Marriage"
 number: 408
 permalink: episode-WTL408
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 408
 tags:
 

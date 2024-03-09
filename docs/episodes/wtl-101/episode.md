@@ -3,8 +3,8 @@ layout: posts
 title: "#1.1 When life gives you lemons"
 number: 101
 permalink: episode-WTL101
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 101
 tags:
 

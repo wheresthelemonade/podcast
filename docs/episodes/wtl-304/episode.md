@@ -3,8 +3,8 @@ layout: posts
 title: "#3.4 It all began in Panama"
 number: 304
 permalink: episode-WTL304
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 304
 tags:
 

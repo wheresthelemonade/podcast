@@ -3,8 +3,8 @@ layout: posts
 title: "#6.1 We're back and we are not stuck in a rut, or are we?"
 number: 601
 permalink: episode-WTL601
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 601
 tags:
     - relationships

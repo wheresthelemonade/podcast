@@ -3,8 +3,8 @@ layout: posts
 title: "#2.7 How to Destroy Your Marriage"
 number: 207
 permalink: episode-WTL207
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 207
 tags:
 

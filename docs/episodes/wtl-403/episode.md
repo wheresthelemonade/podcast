@@ -3,8 +3,8 @@ layout: posts
 title: "#4.3 Stop Having Fun Without Me!"
 number: 403
 permalink: episode-WTL403
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 403
 tags:
 

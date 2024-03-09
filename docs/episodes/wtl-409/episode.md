@@ -3,8 +3,8 @@ layout: posts
 title: "#4.9 Perspective...Hard to Maintain!!"
 number: 409
 permalink: episode-WTL409
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 409
 tags:
 

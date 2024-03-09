@@ -3,8 +3,8 @@ layout: posts
 title: "#1.26 Protecting Your Marriage when You're Apart"
 number: 126
 permalink: episode-WTL126
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 126
 tags:
 

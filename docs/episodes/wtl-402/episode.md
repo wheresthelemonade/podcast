@@ -3,8 +3,8 @@ layout: posts
 title: "#4.2 Expectations in Marriage: What to do with them"
 number: 402
 permalink: episode-WTL402
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 402
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#4.7 K-Drama"
 number: 407
 permalink: episode-WTL407
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 407
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#5.7 Let's Stay in Love"
 number: 507
 permalink: episode-WTL507
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 507
 tags:
     - relationships

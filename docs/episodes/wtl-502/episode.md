@@ -3,8 +3,8 @@ layout: posts
 title: "#5.2 Coping with Uncertainty"
 number: 502
 permalink: episode-WTL502
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 502
 tags:
     - news

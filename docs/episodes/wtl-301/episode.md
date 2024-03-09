@@ -3,8 +3,8 @@ layout: posts
 title: "#3.1 What a year 2020 in review"
 number: 301
 permalink: episode-WTL301
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 301
 tags:
 

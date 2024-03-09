@@ -3,8 +3,8 @@ layout: posts
 title: "#1.25 Friends and Divorce"
 number: 125
 permalink: episode-WTL125
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 125
 tags:
 

@@ -3,8 +3,8 @@ layout: posts
 title: "#2.10 Week 2 of COVID-19 (Finding lemonade)"
 number: 210
 permalink: episode-WTL210
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 210
 tags:
 

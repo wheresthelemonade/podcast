@@ -3,8 +3,8 @@ layout: posts
 title: "#1.6 The Horrible First Year - Overcoming obstacles when blending families"
 number: 106
 permalink: episode-WTL106
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 106
 tags:
 

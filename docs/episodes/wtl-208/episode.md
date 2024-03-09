@@ -3,8 +3,8 @@ layout: posts
 title: "#2.8 Money, Kids and Blending Families"
 number: 208
 permalink: episode-WTL208
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 208
 tags:
 

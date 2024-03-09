@@ -3,8 +3,8 @@ layout: posts
 title: "#1.38 An Attitude of Gratitude"
 number: 138
 permalink: episode-WTL138
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 138
 tags:
 

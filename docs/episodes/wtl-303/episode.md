@@ -3,8 +3,8 @@ layout: posts
 title: "#3.3 Pass the Xanax : Dealing with Anxiety in a Blended Family"
 number: 303
 permalink: episode-WTL303
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 303
 tags:
 

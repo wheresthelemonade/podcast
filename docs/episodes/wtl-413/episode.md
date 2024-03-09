@@ -3,8 +3,8 @@ layout: posts
 title: "#4.13 Wise Considerations before Blending Families"
 number: 413
 permalink: episode-WTL413
+parent: Episodes
 lang: en
-nav_exclude: true
 nav_order: 413
 tags:
 
