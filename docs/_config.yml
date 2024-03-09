@@ -1,0 +1,23 @@
+remote_theme: just-the-docs/just-the-docs
+title: Embracing Digital Transformation Podcast
+tagline: Investigating effective change leveraging people, process, and technology.
+description: Which digital trends are a flash in the pan—and which will form the foundations of lasting change? With in-depth discussion and expert interviews, Embracing Digital Transformation finds the signal in the noise of the digital revolution. Embracing Digital Transformation is about bringing people, processes, and technology together for effective digital transformation.
+logo: "./full-logo.png"
+search_enabled: true
+author: Darren W Pulsipher
+aux_links:
+  "Shop": "https://www.etsy.com/shop/DaisyBlossomCreation"
+  "Podcast Site": "https://wheresthelemonade.transistor.fm/"
+  "Youtube": "https://www.youtube.com/@wheresthelemonade"
+  "Facebook Group": "https://www.facebook.com/100063490226908/"
+google_analytics: G-SDCPXLJ9YG
+twitter:
+  username: darrenpulsipher
+  card: summary
+social:
+  name: Darren Pulsipher
+  links:
+    - https://www.etsy.com/shop/DaisyBlossomCreation
+    - https://wheresthelemonade.transistor.fm/
+    - https://www.youtube.com/@wheresthelemonade
+    - https://www.facebook.com/100063490226908/

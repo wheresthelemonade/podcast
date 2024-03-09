@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+<!-- GA: Universal Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-29316505-1', {'siteSpeedSampleRate': 10});
+ga('send', 'pageview', '/'); </script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<!-- GA: Google Analytics 4 (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7TCQ9R274J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7TCQ9R274J', {
+    page_location: 'https://www.custodyxchange.com/'
+  });
+</script>
+
+
+
+
+<!-- begin Convert Experiences code-->
+<script type="text/javascript" src="//cdn-4.convertexperiments.com/js/10007679-10007226.js"></script>
+<!-- end Convert Experiences code -->
+
+<!-- Hotjar Tracking Code for https://www.custodyxchange.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3115697,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script>
+// Install this entire snippet AFTER the Hotjar tracking code.
+var userId = '' || null;
+window.hj('identify', userId, {
+	 'hasTriedApp': false,
+	 'isAnonymous': false,
+	 'isFree': false,
+	 'isSubscriber': false,
+	 'isParent': false,
+	 'isProfessional': false,
+});
+</script>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!-- mobile viewport settings -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Custody X Change: The Trusted Software for Parenting Schedules</title>
+<meta name="description" content="Use Custody X Change today and take control of your custody situation. Eliminate scheduling confusion, include necessary provisions, and keep track of what actually happens." />
+<link rel="canonical" href="https://www.custodyxchange.com/" />
+ 
+<style type="text/css">
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 400;
+	src: url(/css/fonts/raleway.woff) format('woff');
+}
+</style>
+<style type="text/css">
+@font-face{font-family:cxc-icons;src:url("data:application/font-woff;base64,d09GRgABAAAAAAWoAAsAAAAABVwAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABCAAAAGAAAABgDxIFtGNtYXAAAAFoAAAAXAAAAFzpcenUZ2FzcAAAAcQAAAAIAAAACAAAABBnbHlmAAABzAAAAZAAAAGQmNe9m2hlYWQAAANcAAAANgAAADYi3cU1aGhlYQAAA5QAAAAkAAAAJAehA8dobXR4AAADuAAAABgAAAAYDgAAIWxvY2EAAAPQAAAADgAAAA4A8ACWbWF4cAAAA+AAAAAgAAAAIAAJAEJuYW1lAAAEAAAAAYYAAAGGmUoJ+3Bvc3QAAAWIAAAAIAAAACAAAwAAAAMDVQGQAAUAAAKZAswAAACPApkCzAAAAesAMwEJAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAQAAA6TUDwP/AAEADwABAAAAAAQAAAAAAAAAAAAAAIAAAAAAAAwAAAAMAAAAcAAEAAwAAABwAAwABAAAAHAAEAEAAAAAMAAgAAgAEAAEAIOki6TX//f//AAAAAAAg6SLpNf/9//8AAf/jFuIW0AADAAEAAAAAAAAAAAAAAAAAAQAB//8ADwABAAAAAAAAAAAAAgAANzkBAAAAAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAACAAD/zQPGA80AIgA/AAAFAT4BNTQmJy4BIyIGBw4BFRQWFx4BMzI2NwEeATMyNjc+AQE0Nz4BNzYzMhceARcWFRQHDgEHBiMiJy4BJyY1A8b+0DM3OjY3jE1NjDc2Ojo2N4xNQnszATAECgUFCQMIAfxmGhtaPTxFRTw9WhsaGhtaPTxFRTw9WhsaCAFMNYlLTYw2Nzo6NzaMTU2MNzY6Kyn+tAQEAwQHFQJdRTw9WhobGxpaPTxFRT08WxoaGhpbPD1FAAAAAAEAIf/NA98DkgAmAAAJATY0JyYiBwkBJiIHBhQXCQEGFBceATMyNjcJAR4BMzI2NzY0JwECJAG7BwcIFQf+Rf5FBxUIBwcBu/5FBwcECQUFCgMBuwG7AwoFBQkEBwf+RQGzAbsHFgcICP5FAbsICAcWB/5F/kYIFQgDBAQDAbv+RQMEBAMIFQgBugAAAQAAAAEAAHX1FC9fDzz1AAsEAAAAAADf78BPAAAAAN/vwE8AAP/NA98DzQAAAAgAAgAAAAAAAAABAAADwP/AAAAEAAAAAAAD3wABAAAAAAAAAAAAAAAAAAAABgQAAAAAAAAAAAAAAAIAAAAEAAAABAAAIQAAAAAACgAUAB4AggDIAAAAAQAAAAYAQAACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA4ArgABAAAAAAABAAcAAAABAAAAAAACAAcAYAABAAAAAAADAAcANgABAAAAAAAEAAcAdQABAAAAAAAFAAsAFQABAAAAAAAGAAcASwABAAAAAAAKABoAigADAAEECQABAA4ABwADAAEECQACAA4AZwADAAEECQADAA4APQADAAEECQAEAA4AfAADAAEECQAFABYAIAADAAEECQAGAA4AUgADAAEECQAKADQApGljb21vb24AaQBjAG8AbQBvAG8AblZlcnNpb24gMS4wAFYAZQByAHMAaQBvAG4AIAAxAC4AMGljb21vb24AaQBjAG8AbQBvAG8Abmljb21vb24AaQBjAG8AbQBvAG8AblJlZ3VsYXIAUgBlAGcAdQBsAGEAcmljb21vb24AaQBjAG8AbQBvAG8AbkZvbnQgZ2VuZXJhdGVkIGJ5IEljb01vb24uAEYAbwBuAHQAIABnAGUAbgBlAHIAYQB0AGUAZAAgAGIAeQAgAEkAYwBvAE0AbwBvAG4ALgAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=") format("woff");font-weight:400;font-style:normal}[class*=" icon-"]:before,[class^=icon-]:before{font-family:cxc-icons;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1.4;display:inline-block;width:20px;margin-right:.25em;text-align:center;vertical-align:bottom;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-magnifier:before{content:"\e922"}.icon-cross:before{content:"\e935"}body,header{background:#fff}a,p a,p a:visited{line-height:inherit}.button,.column,.columns,.nav-bar>li,.nav-bar>li>a:first-child,body{position:relative}.nav-bar,div.button-bar ul.button-group:last-child{margin-left:0}.block-grid.eight-up>li:nth-child(8n+1),.block-grid.eleven-up>li:nth-child(11n+1),.block-grid.five-up>li:nth-child(5n+1),.block-grid.four-up>li:nth-child(4n+1),.block-grid.nine-up>li:nth-child(9n+1),.block-grid.seven-up>li:nth-child(7n+1),.block-grid.six-up>li:nth-child(6n+1),.block-grid.ten-up>li:nth-child(10n+1),.block-grid.three-up>li:nth-child(3n+1),.block-grid.twelve-up>li:nth-child(12n+1),.block-grid.two-up>li:nth-child(odd),.row:after,header:after,hr{clear:both}#exit-intent-thank-you,.article .meta a:hover,a:hover{text-decoration:underline}.blue-table,.data-table{border-collapse:collapse}*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:62.5%}body{font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;font-weight:400;font-style:normal;line-height:1;color:#333;-webkit-font-smoothing:antialiased}.nav-bar>li,h2{font-weight:300}.raleway{font-family:Raleway,"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif}.helvetica,h1,h2,h3,h4,h5,h6{font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif}a{color:#0e4db3}.breadcrumbs a,.button,.button:hover,.dynamic-list ul li a,.meta a,.nav-bar>li>a:first-child,.nav-side a,.nav-side li,.quote a,.quote a:hover,.scroll-to,.scroll-to:hover,.top-left-callout-btn,footer a{text-decoration:none}a:visited{color:#639}a img{border:none}.left{float:left}.right,[class*=column]+[class*=column]:last-child{float:right}header{height:67px;border-bottom:2px solid #eee;z-index:9999;position:fixed;width:100%;left:0;top:0;display:block;-webkit-transform:translateZ(0)}header .logo a,header .logo a:active,header .logo a:visited{color:#0b3d8f;display:block}header .logo a img,header .logo a:active img,header .logo a:visited img{width:100%;height:auto;vertical-align:top;margin-top:6px;min-width:204px;min-height:53px;max-width:204px;max-height:53px}header:after,header:before{content:"";display:table}blockquote,body,dd,div,dl,dt,form,h1,h2,h3,h4,h5,h6,li,ol,p,pre,td,th,ul{margin:0;padding:0;font-size:16px;direction:ltr}h1,h2,h3{font-size:32px}h1,h2,h3,h4,h5,h6{font-weight:300;font-style:normal;text-rendering:optimizeLegibility;line-height:1.3;margin-bottom:14px;margin-top:14px}.content h1,.content h2,.content h3,.content h4,.content h5,.content h6,.flyout :last-child,.nav-bar>li ul{margin-bottom:0}.button,h5{font-weight:700}h2.section-title{color:#333;margin-bottom:40px}h4{font-size:24px}h5,h6{font-size:18px}h6{font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif}dl,ol,p,ul{font-size:100%;line-height:1.6;font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif}dl,ol,ul{margin-bottom:17px;list-style-position:outside}ul li ol,ul li ul{margin-left:20px;margin-bottom:0}ol{margin-left:20px}img{-ms-interpolation-mode:bicubic!important;height:auto;max-width:100%}p{font-weight:400;margin-bottom:10px}.blue{background-color:#0b3d8f;color:#fff}.blue h3,.button:visited{color:#fff!important}.scroll-to,.scroll-to:visited{color:#0b3d8f}.column,.columns{float:left;min-height:1px;padding:0 5px}.section{padding:52px 0 30px}#subnav{margin-bottom:-25px}.content ul{margin-left:25px}.content ul li{margin-bottom:5px}.block-grid{display:block;overflow:hidden;padding:0}.block-grid>li{display:block;height:auto;float:left}.block-grid.one-up,.quote-meta p,.row .row.collapse,.row form .row.collapse,h2.logo{margin:0}.block-grid.one-up>li{width:100%;padding:0 0 15px}.block-grid.two-up{margin:0 -15px}.block-grid.two-up>li{width:50%;padding:0 15px 15px}.block-grid.three-up{margin:0 -12px}.block-grid.three-up>li{width:33.33333%;padding:0 12px 12px}.block-grid.four-up{margin:0 -5px}.block-grid.four-up>li,.row .three,.three{width:25%}.block-grid.eight-up,.block-grid.eleven-up,.block-grid.five-up,.block-grid.nine-up,.block-grid.seven-up,.block-grid.six-up,.block-grid.ten-up,.block-grid.twelve-up{margin:0 -8px}.block-grid.five-up>li{width:20%;padding:0 8px 8px}.block-grid.six-up>li{width:16.66667%;padding:0 8px 8px}.block-grid.seven-up>li{width:14.28571%;padding:0 8px 8px}.block-grid.eight-up>li{width:12.5%;padding:0 8px 8px}.block-grid.nine-up>li{width:11.11111%;padding:0 8px 8px}.block-grid.ten-up>li{width:10%;padding:0 8px 8px}.block-grid.eleven-up>li{width:9.09091%;padding:0 8px 8px}.block-grid.twelve-up>li{width:8.33333%;padding:0 8px 8px}.button,.button-group button.button,.button-group input[type=submit].button{width:auto;padding:10px 20px 11px}.nav-bar .vertical-separator{background-color:#eee;width:1px;height:40px;margin:13px 0 0}.nav-bar{display:inline-flex;gap:25px;height:67px;padding:0;margin-bottom:-10px;max-width:700px}.button,h2.logo a{display:inline-block}.nav-bar>li{float:left;display:block;padding:0;border-right:none;line-height:65px;border-bottom:2px solid transparent;-webkit-transition:border-bottom .15s ease-in-out;-moz-transition:border-bottom .15s ease-in-out;-o-transition:border-bottom .15s ease-in-out;transition:border-bottom .15s ease-in-out}.nav-bar>li.active,.nav-bar>li:hover,body.calculate li.calculate,body.download li.download,body.faq li.faq,body.feature li.features,body.p-plan li.p-plan,body.pricing li.pricing,body.schedule li.schedule,body.search li.search{border-bottom:2px solid #c63}.nav-bar>li>a,.nav-side a:visited{color:#333}.nav-bar>.button{margin:13px 0;font-size:20px;font-weight:500;padding:10px 20px 11px;width:171px}.nav-bar>li .flyout,.search-btn .icon-cross,.search.toggled .search-btn .icon-magnifier,.ytplayer.show-mobile,span.emailprotect{display:none}.nav-bar>li.has-flyout>a:first-child{padding-right:40px;position:relative}.nav-bar>li.has-flyout>a:first-child:after{content:"";display:block;width:0;height:0;border:4px solid;border-color:#e6e6e6 transparent transparent;position:absolute;right:20px;top:17px}.nav-bar>li.has-flyout>a.flyout-toggle{border-left:0!important;position:absolute;right:0;top:0;padding:20px;z-index:2;display:block}.nav-bar>li.has-flyout.is-touch>a:first-child{padding-right:55px}.nav-bar>li.has-flyout.is-touch>a.flyout-toggle{border-left:1px dashed #333}.nav-bar>li>a:first-child{display:block;font-size:20px}.nav-bar>li>input{margin:0 10px}.nav-bar.vertical{height:auto;margin-top:0}.nav-bar.vertical>li{float:none;border-bottom:none;border-right:1px solid #333;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}.nav-bar.vertical>li.has-flyout>a:first-child:after{content:"";display:block;width:0;height:0;border:4px solid;border-color:transparent transparent transparent #e6e6e6}.nav-bar.vertical>li .flyout{left:100%;top:-1px}.nav-bar.vertical>li .flyout.right{left:auto;right:100%}.nav-bar.vertical>li.active{border-right:1px solid #2284a1}.nav-bar.vertical>li:last-child{border-bottom:1px solid #333}.flyout :first-child,.payment-form h4:first-child{margin-top:0}.nav-bar li ul,ul.flyout{padding:0;list-style:none}.nav-bar li ul li,ul.flyout li{border-left:3px solid #ccc}.nav-bar li ul li a,ul.flyout li a{background:#f2f2f2;border:1px solid #e6e6e6;border-width:1px 1px 0 0;color:#555;display:block;font-size:14px;height:auto;line-height:1;padding:15px 20px;-webkit-box-shadow:0 1px 0 rgba(255,255,255,.5) inset;-moz-box-shadow:0 1px 0 rgba(255,255,255,.5) inset;box-shadow:0 1px 0 rgba(255,255,255,.5) inset}.nav-bar li ul li a:focus,.nav-bar li ul li a:hover,ul.flyout li a:focus,ul.flyout li a:hover{background:#ebebeb;color:#333}.nav-bar li ul li.active,ul.flyout li.active{margin-top:0;border-top:1px solid #4d4d4d;border-left:4px solid #1a1a1a}.nav-bar li ul li.active a,ul.flyout li.active a{background:#4d4d4d;border:none;color:#fff;height:auto;margin:0;position:static;top:0;-webkit-box-shadow:0 0 0;-moz-box-shadow:0 0 0;box-shadow:0 0 0}.button{nowhitespace:afterproperty;background:#0b3d8f;color:#fff;cursor:pointer;font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;font-size:14px;line-height:1;margin:0;text-align:center;border-style:none;border-radius:10px;-webkit-transition:background-color .15s ease-in-out;-moz-transition:background-color .15s ease-in-out;-o-transition:background-color .15s ease-in-out;transition:background-color .15s ease-in-out}.button.white-button,.button.white-button:focus,.button.white-button:visited{background-color:#fff;color:#999;font-weight:400}.button.white-button.active,.button.white-button:active,.button.white-button:hover{background-color:#fff;-webkit-box-shadow:0 1px 5px rgba(0,0,0,.43) inset;-moz-box-shadow:0 1px 5px rgba(0,0,0,.3) inset;box-shadow:0 1px 5px rgba(0,0,0,.3) inset;color:#999}.button.white-button.active,.button.white-button:active{padding:11px 20px 10px}.button.large.submit,.button.large.submit:active{background:#09c}.button.large.submit:hover{background:#00ace6}.button.large.download,.button.large.submit{margin-right:20px;padding-right:70px;padding-left:70px}.button:focus,.button:hover{color:#fff;background-color:#093377}.button:active{-webkit-box-shadow:0 1px 5px rgba(0,0,0,.4) inset;-moz-box-shadow:0 1px 5px rgba(0,0,0,.4) inset;box-shadow:0 1px 5px rgba(0,0,0,.4) inset;background:#0b3d8f}.button.large{font-size:24px;padding:19px 30px;font-weight:500;float:left}.button.large:active{padding-top:20px;padding-bottom:18px}.button.medium,.overview p,.row.tips p{font-size:14px}.button.primary,.button.primary:active{background-color:#09c}.button.primary:focus,.button.primary:hover{background-color:#00ace6}.button.success:focus,.button.success:hover{background-color:#457a1a}.button.alert:focus,.button.alert:hover{background-color:#970b0e}.button.secondary:focus,.button.secondary:hover{background-color:#c63;color:#fff}.button.disabled,.button[disabled]{opacity:.6;cursor:default;background:#668cb9;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}.cta-arrow-big::after,.cta-arrow::after{content:' ';background-image:url(/images/css/arrow-white.svg);background-repeat:no-repeat;background-position:center;background-size:7px;width:10px;height:14px;margin-left:10px;top:52%;position:absolute}.nav-side-items .button,.shadow{box-shadow:1px 1px 3px rgba(0,0,0,.3)}.button.disabled:hover,.button[disabled]:hover{background:#668cb9}.button.disabled.success:focus,.button.disabled.success:hover,.button[disabled].success:focus,.button[disabled].success:hover{background-color:#5da423;outline:0}.button.disabled.alert:focus,.button.disabled.alert:hover,.button[disabled].alert:focus,.button[disabled].alert:hover{background-color:#c60f13;outline:0}.button.disabled.secondary:focus,.button.disabled.secondary:hover,.button[disabled].secondary:focus,.button[disabled].secondary:hover{background-color:#e9e9e9;outline:0}button.button,input[type=submit].button{-webkit-appearance:none}.button-group.even button.button,.button-group.even input[type=submit].button{width:100%;padding-left:0;padding-right:0}.cta-arrow::after{transform:translateY(-62%)}.cta-arrow-big::after{transform:translateY(-50%)}@-moz-document url-prefix(){button::-moz-focus-inner,input[type=button]::-moz-focus-inner,input[type=file]>input[type=button]::-moz-focus-inner,input[type=reset]::-moz-focus-inner,input[type=submit]::-moz-focus-inner{border:none;padding:0}input[type=submit].tiny.button{padding:3px 10px 4px}input[type=submit].small.button{padding:5px 14px 6px}input[type=submit].button,input[type=submit].medium.button{padding:8px 20px 9px}input[type=submit].large.button{padding:13px 30px 14px}}.quote-content,.quote-meta img{border:1px solid #ccc}.row form .row{margin:0 -6px}.row form .row .column,.row form .row .columns{padding:0 6px}.row form .row.collapse .column,.row form .row.collapse .columns,.row.collapse .column,.row.collapse .columns{padding:0}.row{width:960px;margin:0 auto}.row .row{width:auto;max-width:none;min-width:0;margin:0 -5px}.one,.row .one{width:8.33333%}.row .two,.two{width:16.66667%}.four,.row .four{width:33.33333%}.five,.row .five{width:41.66667%}.row .six,.six{width:50%}.row .seven,.seven{width:58.33333%}.eight,.row .eight{width:66.66667%}.nine,.row .nine{width:75%}.eleven,.row .eleven{width:91.66667%}.row .twelve,.twelve{width:100%}.row .offset-by-one{margin-left:8.33333%}.row .offset-by-two{margin-left:16.66667%}.row .offset-by-three{margin-left:25%}.row .offset-by-four{margin-left:33.33333%}.row .offset-by-five{margin-left:41.66667%}.row .offset-by-six{margin-left:50%}.row .offset-by-seven{margin-left:58.33333%}.row .offset-by-eight{margin-left:66.66667%}.row .offset-by-nine{margin-left:75%}.row .offset-by-ten{margin-left:83.33333%}.row:after,.row:before{content:" ";display:table}.shadow-large{box-shadow:0 0 7px rgba(0,0,0,.3)}h2.logo a{font-weight:600;font-size:1.9rem;line-height:65px}.more{position:absolute;right:0;bottom:0}.quote{position:relative;padding:50px 0 55px;margin-bottom:30px}.quote h3{margin:0;font-weight:500}.quote-content{padding:25px 20px;position:relative;float:right}.nav-push,.nav-side{padding-top:67px}.quote-content p{font-size:22px;color:#999;margin:0;line-height:35px}.quote-content .arrow-down{width:35px;height:54px;background:url("/images/css/left_quote_arrow.png") no-repeat;position:absolute;top:20px;left:-35px}.quote-meta{text-align:right;padding-right:60px}.nav-side-items,.search-box{text-align:center}.article h1,.white h1{font-size:26px;font-weight:700;line-height:1.3;color:#333;margin-top:0;padding:0 0 20px}.article h1 span,.white h1 span{font-size:24px;color:#c63}.article h1+h2,.white h1+h2{margin-top:6px}.article h2,.white h2{font-size:22px;font-weight:700;line-height:1.3;color:#333;margin-top:30px;margin-bottom:15px}.article h3,.white h3{font-size:18px;font-weight:700;color:#333;margin-top:20px;margin-bottom:10px}.nav-row{display:flex;display:-webkit-flex}.nav-side{height:100%;width:0;position:fixed;z-index:100;left:0;background-color:rgba(255,255,255,.9);overflow-x:hidden;transition:.5s}.nav-side li{padding:8px;font-size:25px;display:block;transition:.5s;white-space:nowrap}.nav-side .separator{border-bottom:1px solid #999;margin-bottom:10px;padding-bottom:20px}.nav-side a{color:#333}.nav-side hr{border:1px solid #bbb;width:80%;margin:1em auto}.nav-side-items .make-my-plan{display:grid;place-items:center}.nav-side-items .button{font-size:24px;font-weight:500;padding:19px 30px;color:#fff}.video-wrapper{width:80%;position:relative}.flex-video{position:relative;padding-bottom:56.25%;height:0;margin-bottom:16px}.flex-video iframe,.ytplayer{position:absolute;top:0;left:0;width:100%;height:100%}.learn h2{color:#c63;font-size:28px}.row.tips{padding-top:2em}.row.tips h3{font-size:20px}.row.tips img{margin-bottom:10px;width:300px;height:auto}.hamburger{position:absolute;top:10px;right:5px;display:inline-block;width:45px;color:#444}.privacy-policy li span,.search-btn,.search.toggled .search-btn .icon-cross,label{display:block}.hamburger>span{position:absolute;top:35px;font-size:12px;font-weight:700;margin-left:7px}.hamburger>div{width:65%;height:2px;background-color:#444;margin:8px auto;transition:.3s}.hamburger-x>div:first-child{-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg);margin-top:20px}.hamburger-x>div:nth-child(2){opacity:0}.hamburger-x>div:nth-child(3){-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);margin-top:-20px}.logo-container{flex-grow:1}.cxc-logo{vertical-align:top!important;margin-top:5px;margin-left:5px;min-width:138px;min-height:36px;max-width:138px;max-height:36px}.cta-button{border-radius:20px;margin-top:7px;right:7px;-webkit-animation:5s infinite btnWiggle;-moz-animation:5s infinite btnWiggle;-o-animation:5s infinite btnWiggle;animation:5s infinite btnWiggle}.search-btn{color:#333;width:20px;height:65px;cursor:pointer}.search-btn>span{position:relative;top:-22px;font-size:15px}.search-box{width:0;height:65px;overflow:hidden;position:absolute;right:40px;top:0;z-index:100;background-color:#dfdfdf;-webkit-transition:width .5s ease-in-out;-moz-transition:width .5s ease-in-out;transition:width .5s ease-in-out}.article .meta,.blue-table,.data-table th{text-align:left}.search-box input[type=search]{margin:10px auto;padding:10px 0 10px 5px;border:none;border-radius:none;color:#333;-webkit-appearance:none;background:#fff;line-height:1}.search.toggled .search-box{width:374px}.article .column.article-content{float:right;margin-left:0}.article .column.article-content .callout{border:5px solid #c63;border-width:5px 0;padding:20px;margin:20px 0}.article .column.article-content .callout p{font-size:17px;line-height:1.3}.callout .button{background-color:#0b3d8f;color:#fff!important}.button-exit-intent:hover,.callout .button:hover{background-color:#093377}.article .meta{padding:20px;margin-bottom:30px;width:285px;float:left!important}.article .meta p{font-size:16px;font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;line-height:1.6;margin:0 0 10px}.article .meta h3{font-size:20px;font-weight:700;font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;line-height:1.2;margin:0 0 20px}.article .meta h4{font-size:18px;font-weight:700;font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;line-height:1.2;margin:20px 0 10px}.article .meta .button,.button-exit-intent{background-color:#0b3d8f}.gray,.notify-box,footer{background-color:#eee}.article .meta .button:hover{background-color:#093377;text-decoration:none}.article .meta li{line-height:1.6;font-size:14px}hr{border:solid #ddd;border-width:1px 0 0;margin:22px 0 21px;height:0}.breadcrumbs{line-height:1.2;margin-top:-2px;font-size:14px;max-height:16px;overflow:hidden;margin-bottom:13px;white-space:nowrap;text-overflow:ellipsis;margin-right:-3px}#learn,#nosidebar{padding-top:92px}.overview{margin-bottom:40px}.section.article{padding-left:0;padding-right:0}blockquote,blockquote p{line-height:1.5;color:#6f6f6f}blockquote{margin:0 0 17px;padding:9px 20px 0 19px;border-left:1px solid #ddd}blockquote cite:before{content:"\2014 \0020"}blockquote cite a,blockquote cite a:visited{color:#555}.sub-header{font-weight:700;margin-bottom:10px;margin-top:20px;color:#333}.notify-box{border:3px solid #c63;padding:10px;margin:10px 0 40px;line-height:1.2}form{margin:0 0 19.41641px}#exit-intent>ul,label{margin-bottom:20px}label{cursor:pointer;font-weight:500}.form-actions{margin-bottom:30px;float:left}.form-actions input{font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;font-weight:500}input[type=email],input[type=number],input[type=password],input[type=search],input[type=text]{background-color:#fff;border:1px solid #2f3237;display:block;font-size:16px;margin:15px 0 12px;padding:6px;line-height:35px;width:90%;font-weight:300;-webkit-transition:.15s linear;-moz-transition:.15s linear;-o-transition:.15s linear;transition:.15s linear;outline-style:none;color:#000}input[type=number],input[type=password][disabled],input[type=search],input[type=text][disabled]{background-color:#ddd}.payment-form input[type=password],.payment-form input[type=text]{background:#fff;border:1px solid #2f3237;color:#000;font-family:"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;font-size:18px;width:100%;height:53px;margin:10px 0 0;font-weight:300;vertical-align:middle;outline:0}.payment-form h4{font-size:20px;color:#999;font-weight:500;margin-top:40px}.blue-table{border:2px solid #aabcfe}.blue-table th{font-weight:400;padding:8px 12px;background:#fff;border-bottom:2px solid #aabcfe;color:#039}#exit-intent>p,.data-table th,footer li .bold{font-weight:700}.blue-table td{padding:8px 12px;background:#e8edff;border-bottom:1px solid #fff;color:#669;border-top:1px solid transparent}footer,footer .row{padding-bottom:10px}.blue-table tr:hover td{background:#d0dafd;color:#339}.privacy-policy li span{font-style:italic;color:#999}.dynamic-list-container{margin-top:20px}.dynamic-list ul li a{color:#0e4db3}.dynamic-list ul li ul{margin-top:5px;list-style:disc}footer li{font-size:13px}footer .row{padding-top:30px}footer .row>ul>li{font-size:13px;color:#999}footer .row>ul>li .menu{list-style-type:none;width:80%;line-height:26px}footer .row>ul>li .menu a{color:#999}footer .row>ul>li .menu a:hover{color:#0e4db3;text-decoration:underline}#exit-intent-wrapper,#youtube-video-wrapper{position:fixed;background:rgba(0,0,0,.4);top:0;left:0;z-index:10000;width:100%;height:100%;transition:opacity .3s linear;opacity:0;display:none}#youtube-video{position:relative;top:max(calc(50vh - (min(90vw,1920px)/ 16 * 9)/ 2),0px);width:fit-content;margin:0 auto;text-align:center}#exit-intent>.close-btn,#youtube-video>.close-btn{position:absolute;right:-5px;top:-5px;width:25px;height:25px;border:1px solid #666;border-radius:25px;padding-left:1px;background:#fff;cursor:pointer;font-size:20px}#youtube-iframe-container{max-width:90vw;max-height:100vh;height:auto;aspect-ratio:16/9}#exit-intent{position:relative;top:50%;width:600px;height:auto;margin:-185px auto 0;max-width:100%;background:#fff;text-align:center;color:#333;-webkit-box-shadow:0 0 10px 0 rgba(0,0,0,.9);-moz-box-shadow:0 0 10px 0 rgba(0,0,0,.9);box-shadow:0 0 10px 0 rgba(0,0,0,.9)}#exit-intent>.logo{position:relative;width:320px;margin:0 auto;padding-top:25px}#exit-intent>ul>li{list-style:none;font-size:18px;margin-top:5px}#exit-intent>p{width:450px;margin:15px auto;font-size:18px}#exit-intent-thank-you{font-weight:400;cursor:pointer;font-size:14px;color:#666}#exit-intent-thank-you:hover{color:#06c}.top-left-callout-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px}.top-left-callout-btn{padding:10px 20px 11px;color:#fff!important;background-color:#008862;font-size:14px;font-weight:700;text-align:center;border-radius:10px}.top-left-callout-btn:hover{text-decoration:none!important;background-color:#007151}.callout-button{display:inline-flex;justify-content:center;line-height:1.3!important;margin-top:6px;float:right;min-width:200px;padding:8px 20px 9px}@media only screen and (min-width:500px){.cta-button-margin{margin-bottom:0}}@media only screen and (min-width:990px){.button-exit-intent,.callout .button{padding-left:40px;padding-right:40px}.show-mobile{display:none}}@media only screen and (max-width:989px){#exit-intent,#youtube-video{top:0;height:100%;margin-top:0;box-shadow:none}.row{margin:0 auto;overflow-x:hidden;overflow-y:hidden}.row.quote{margin-bottom:-10px}header .nine{position:static}#exit-intent>.close-btn,#youtube-video>.close-btn,.hide-mobile-tablet,.search-btn,.show-desktop{display:none}.section{padding-right:20px;padding-left:20px}.nav-bar,.search-box{position:absolute;left:0;top:75px;background:#eee;width:100%;height:0;overflow:hidden;box-shadow:none;-moz-transition:height .5s;-webkit-transition:height .5s}.close-intent>div,.close-youtube>div{width:65%;height:2px;margin:8px auto;transition:.3s}.nav-bar.toggled,.search.toggled .search-box{min-height:75px;width:100%;box-shadow:0 5px 5px rgba(0,0,0,.5)}.search-btn-mobile{background-color:#eee;color:#333;width:50px;height:50px;display:block;border:none}.search-btn-mobile:hover{background-color:#ccc}.search-btn-mobile .icon-magnifier{font-size:18px;position:relative;top:-2px;left:3px}#cse-search-box-mobile{width:100vw}#cse-search-box-mobile>input[type=search]{background-color:#fff;color:#333;margin:0;width:calc(100% - 50px);float:left;height:50px;border:none;border-bottom:1px solid #ddd;-webkit-appearance:none}.article .column.article-content{width:100%;margin-left:0}.article .meta{float:none!important;width:100%;margin-left:0;text-align:left;margin-bottom:15px}.content{display:flex;flex-direction:column}.cre-top-left{order:0}.article-content,.help-sidebar{order:1}.cre-mid-sidebar{order:2}.cre-left-sidebar{order:3}.top-left-callout-buttons{display:inline-flex;flex-wrap:wrap;gap:5px}.close-intent,.close-youtube{position:absolute;top:10px;right:5px;display:inline-block;width:45px;z-index:10;cursor:pointer}footer .row>ul>li,footer li{font-size:16px;margin-bottom:5px}#exit-intent-wrapper,#youtube-video-wrapper{background:#fff}#youtube-video{width:100%;padding-top:calc(50vh - (100vw / 16 * 9)/ 2)}#youtube-iframe-container{max-width:100%}.close-youtube{color:#999}.close-youtube>div{background-color:#999}.close-intent>div:first-child,.close-youtube>div:first-child{-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg);margin-top:20px}.close-intent>div:nth-child(2),.close-youtube>div:nth-child(2){opacity:0}.close-intent>div:nth-child(3),.close-youtube>div:nth-child(3){-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);margin-top:-20px}#exit-intent{width:100%;padding-top:calc(50vh - 225px)}#exit-intent-thank-you{width:100px;margin:30px auto}#exit-intent>p{max-width:90%}.close-intent{color:#666}.close-intent>div{background-color:#666}.block-grid.mobile-one-up>li,.row,.video-wrapper,body{width:100%}.column:last-child,.columns:last-child,.left,.right,[class*=column]+[class*=column]:last-child{float:none}.article .column,.article .column.article-content{float:none!important}body{-webkit-text-size-adjust:none;-ms-text-size-adjust:none;min-width:0;margin-left:0;margin-right:0;padding-left:0;padding-right:0}header .logo a img,header .logo a:active img,header .logo a:visited img{height:40px;width:auto}.button{display:block}.nav-bar>li{float:none;display:block;border-right:none}.nav-bar>li>a.main{text-align:left;border-top:1px solid #ddd;border-right:none}.nav-bar>li:first-child>a.main{border-top:none}.nav-bar>li.has-flyout>a.flyout-toggle{position:absolute;right:0;top:0;padding:22px;z-index:2;display:block}.nav-bar>li.has-flyout.is-touch>a.flyout-toggle span{content:"";width:0;height:0;display:block}.nav-bar>li.has-flyout>a.flyout-toggle:hover span{border-top-color:#141414}.nav-bar.vertical>li.has-flyout>.flyout{left:0}.nav-bar{height:0}.nav-bar>li.active,body.calculate li.calculate,body.download li.download,body.faq li.faq,body.feature li.features,body.p-plan li.p-plan,body.pricing li.pricing,body.schedule li.schedule,body.search li.search{border-bottom:none}.block-grid.mobile>li{float:none;width:100%;margin-left:0}.block-grid>li{clear:none}.block-grid.mobile-two-up>li:nth-child(odd){clear:both;margin-right:10px}.block-grid.mobile-three-up>li{width:33.33333%}.block-grid.mobile-eight-up>li:nth-child(8n+1),.block-grid.mobile-eleven-up>li:nth-child(11n+1),.block-grid.mobile-five-up>li:nth-child(5n+1),.block-grid.mobile-four-up>li:nth-child(4n+1),.block-grid.mobile-nine-up>li:nth-child(9n+1),.block-grid.mobile-seven-up>li:nth-child(7n+1),.block-grid.mobile-six-up>li:nth-child(6n+1),.block-grid.mobile-ten-up>li:nth-child(10n+1),.block-grid.mobile-three-up>li:nth-child(3n+1),.block-grid.mobile-twelve-up>li:nth-child(12n+1),.column:after,.columns:after{clear:both}.block-grid.mobile-four-up>li{width:25%}.block-grid.mobile-five-up>li{width:20%}.block-grid.mobile-six-up>li{width:16.66667%}.block-grid.mobile-seven-up>li{width:14.28571%}.block-grid.mobile-eight-up>li{width:12.5%}.block-grid.mobile-nine-up>li{width:11.11111%}.block-grid.mobile-ten-up>li{width:10%}.block-grid.mobile-eleven-up>li{width:9.09091%}.block-grid.mobile-twelve-up>li{width:8.33333%}.block-grid.mobile-two-up>li{margin-bottom:10px;width:48%}.block-grid.mobile-two-up>li h5{font-size:14px;margin-left:5px}button.button,input[type=reset].button,input[type=submit].button{width:100%;padding-left:0;padding-right:0}input.button.cancel,input[type=reset].button,input[type=submit].button{font-size:16px}.column,.columns{width:auto!important;float:none}.column:after,.column:before,.columns:after,.columns:before{content:"";display:table}.more{position:relative;width:90%;margin:10px auto}.section.article{padding:24px 0 0}.article .column{margin:10px!important;width:auto!important}.quote-content{width:95%!important;margin-right:auto;margin-left:auto}.quote-content p{font-size:16px;line-height:1.2}.quote-content .arrow-down{-moz-transform:rotate(-90deg);-webkit-transform:rotate(-90deg);transform:rotate(-90deg);bottom:-44px;right:20px;top:auto;left:auto}.quote-meta{margin-top:20px;margin-right:20px}.quote-meta img{float:right;margin-left:20px}.offset-by-eight,.offset-by-five,.offset-by-four,.offset-by-nine,.offset-by-one,.offset-by-seven,.offset-by-six,.offset-by-ten,.offset-by-three,.offset-by-two{margin-left:0!important}.button-exit-intent{width:500px;margin:20px auto}}@media only screen and (max-device-width:1280px){.touch .nav-bar li.has-flyout>a{padding-right:36px!important}}@media only screen and (max-width:1279px) and (min-width:768px){.touch .nav-bar li a{font-size:13px}.touch .nav-bar li.has-flyout>a.flyout-toggle{padding:20px!important}.touch .nav-bar li.has-flyout>a{padding-right:36px!important}}@media (min-width:990px){.nav-row{margin-top:5px}.cxc-logo{vertical-align:top!important;margin-top:-2px;margin-left:5px;min-width:204px;min-height:53px;max-width:204px;max-height:53px}.close-intent,.close-youtube,.hamburger{display:none}}@media only screen and (max-width:545px){#exit-intent{width:100%;padding-left:5%;padding-right:5%}.button-exit-intent{width:90%;margin:20px auto}.button.large.button-exit-intent{font-size:18px}}@media (max-width:370px){.button{padding:10px 10px 11px}.nav-side li{font-size:21px;padding:6px}.top-left-callout-btn{padding:10px 14px 11px}}@media (max-width:340px){.cxc-logo{margin-top:7px;margin-left:2px;min-width:125px;min-height:32px;max-width:125px;max-height:32px}.cta-button{font-size:13px}#exit-intent>.logo>img{height:60px!important;max-width:90%;margin-left:-30px}}@media only screen and (max-width:320px){.nav-bar.toggled{height:274px;overflow:scroll}.nav-bar>li{line-height:44px}}.data-table{border-spacing:0;border:1px solid #ddd;margin-bottom:15px}.data-table tr:nth-child(2n){background:#f9f9f9}.data-table td,th{padding:8px 10px 9px}@media only screen and (max-width:400px){.sub-header{font-size:12px}#exit-intent>ul>li,.button-exit-intent{font-size:16px}.data-table td{font-size:15px;padding:8px}}@media only screen and (max-width:350px){.data-table td{font-size:14px;padding:4px}}.screenshot{background-color:#f2f2f2;margin-bottom:5px;cursor:pointer;border:1px solid #aaa}.testimonial-wrapper{background-image:url('/images/testimonials/quote.png');background-position:left;background-repeat:no-repeat;padding-left:85px}.checklist li{margin-left:-5px;padding-left:5px}.checklist li::marker{content:'✓';color:#29a829}.ytplayer-container{position:relative;width:630px;height:354px;margin-bottom:10px}@media screen and (max-width:768px){.ytplayer.show-desktop{display:none}.ytplayer.show-mobile{display:block}}@media screen and (max-width:660px){.ytplayer-container{width:100%;height:0;padding-bottom:56.25%}}.cxc-t-39-cta{border-radius:10px}@media only screen and (min-width:601px){.cxc-t-39-cta{padding-left:40px!important;padding-right:40px!important}}@media only screen and (max-width:600px){.download{width:100%}.cxc-t-39-cta{max-width:none!important;text-align:center}}.slide,.slide-wrapper{overflow:hidden}.slide-content,.slide-wrapper{position:relative;height:100%}.see-how-it-works>.icon-play,.slide-content .section-link span{background-image:url(/images/css/sprites-home.png);background-repeat:no-repeat}.four-ways-cta,.slide-content h1{background-color:#0b3d8f;color:#fff}.feature-cta,.four-ways-cta{border-radius:10px;-webkit-transition:background-color .15s ease-in-out;-moz-transition:background-color .15s ease-in-out;-o-transition:background-color .15s ease-in-out}#four-ways h1,#parents h1,.feature-wrapper,.get-cta{text-align:center}#features h1,#professionals h1{font-family:Arial,"Helvetica Neue",Helvetica,Helvetica,sans-serif}.mobile-page{display:none}h1{font-size:40px}.slide{height:600px}.slide-content{z-index:10;padding-top:30px;width:920px;margin:0 auto}.slide-content h1{display:inline;font-size:50px;line-height:62px;padding:2px 0 9px}.slide-content h1 span{padding-left:12px;padding-right:10px}.slide-content h1 span:first-of-type{padding-left:10px}.slide-content .section-link{display:inline-block;background-color:#fff;font-size:40px;line-height:62px;padding:3px 10px;margin-top:5px;font-weight:300}.slide-content .section-link.first{margin-top:12px}.slide-content .section-link span{width:29px;height:16px;display:inline-block;position:relative;top:-3px;margin:0 10px;background-position:1px -72px;-webkit-background-size:70px 88px;background-size:70px 88px}.slide-content .buttons{position:absolute;bottom:50px;left:0;display:inline-flex;gap:20px}.slide-content .buttons .button{display:inline-flex;justify-content:center;align-items:center;height:62px}.four-ways-btn,.four-ways-btn-container{justify-content:center;display:inline-flex;width:100%}.see-how-it-works{display:inline-flex;gap:10px}.see-how-it-works>.icon-play{width:32px;height:32px;display:inline-block;position:relative;background-position:-38px 0;-webkit-background-size:70px 88px;background-size:70px 88px}.background{width:100%;height:100%;position:absolute;top:0;right:0;z-index:5;object-fit:cover}#four-ways{padding:0 35px}#four-ways h1{margin:50px auto 60px}#four-ways h3{line-height:25px;font-size:22px;margin-top:0;font-weight:700}#four-ways img{max-width:500px}.four-ways-container{max-width:1054px;margin:0 auto}.four-ways-container .accurate-container,.four-ways-container .guide-container,.four-ways-container .need-container,.four-ways-container .schedule-container{display:flex;gap:40px;padding-bottom:50px}.need-container ul{padding-left:20px;margin-top:16px;margin-left:20px}.need-container ul li{margin-top:6px}.four-ways-btn{margin:30px 0}.four-ways-cta{display:inline-flex;justify-content:center;padding:15px 70px;text-decoration:none;width:100%;max-width:335px;position:relative;transition:background-color .15s ease-in-out}.feature-cta:hover,.four-ways-cta:hover{text-decoration:none;background-color:#093377}.feature-cta:visited,.four-ways-cta:visited,.get-cta:visited{color:#fff}#parents{padding-top:30px;padding-bottom:25px}#parents h1{font-weight:500;max-width:830px;margin:30px auto 60px}#parents h2{font-weight:700;font-size:18px;margin-top:20px;margin-bottom:10px;line-height:24px}.feature-wrapper{display:flex;flex-direction:row;justify-content:space-between;align-items:flex-start;row-gap:25px;padding:20px;flex-wrap:wrap;max-width:1054px;margin:0 auto}.feature-inner-box{display:flex;flex-direction:column;align-items:center;width:calc(100% / 3)}.feature-inner-box p{padding:0 10px;line-height:25px}.feature-icon{width:67px;height:67px}.feature-cta,.get-cta{background-color:#0b3d8f;width:335px;color:#fff;text-decoration:none;position:relative}.feature-btn{display:flex;margin:30px auto}.feature-cta{padding:15px 70px;margin-bottom:35px;max-width:100%;transition:background-color .15s ease-in-out}#professionals>div,.quote-wrapper{margin:0 auto;max-width:960px}#quotes,#quotes-2{padding:80px 20px}.quote-wrapper{position:relative;border:3px solid #0b3d8f;padding:70px 50px 70px 110px}.quote-wrapper p{font-style:italic;font-weight:500;font-size:18px;line-height:26px;padding:0 12px}.quote-wrapper span{line-height:25px}.quote-wrapper::after{content:' ';position:absolute;background-image:url(/images/homepage/double-quotes.svg);background-size:50px;width:50px;height:50px;left:65px;top:40px}#professionals{padding:30px 20px}#professionals h4{font-style:italic;font-weight:500;color:#000;line-height:25px;font-size:22px;padding-top:20px}#professionals ul{padding:5px 20px}#professionals ul li{padding-top:6px}#professionals .get-wrapper{display:flex;margin:30px 0 40px}.get-cta{padding:15px 70px;border-radius:10px;-webkit-transition:background-color .15s ease-in-out;-moz-transition:background-color .15s ease-in-out;-o-transition:background-color .15s ease-in-out;transition:background-color .15s ease-in-out}.get-cta:hover{background-color:#093377;text-decoration:none}#features{padding:40px 0 50px;max-width:960px;margin:0 auto 23px}#features h1{margin:20px auto 20px 0}#features ul{cursor:pointer}#features ul li{list-style:none;border:1px solid #ccc;border-bottom:none;position:relative}#features>ul>li:last-child{border-bottom:1px solid #ccc}#features ul li h6{font-weight:700;font-size:16px;line-height:16px;margin:0;padding:15px}#features ul li h6::after{position:absolute;content:'';background-image:url(/images/css/accordion-icon.png);background-position:center right;background-repeat:no-repeat;background-size:12px;width:15px;height:12px;right:20px;top:19px}#features ul .show-submenu h6::after{transform:rotate(180deg);right:15px}#features ul li ul{display:none;margin:5px 0 0 45px;padding:0 0 10px;cursor:auto}#features ul li ul li{border:none;padding:5px;list-style:disc}#features ul li.show-submenu ul{display:block}.accordion-menu{-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.accordion-menu:focus{outline:0!important}@media only screen and (max-width:991px){#four-ways{padding:0 20px}#four-ways h1{margin-top:30px;margin-bottom:20px;font-size:25px;padding:0}#four-ways h3{font-size:18px}#four-ways img{width:100%}.four-ways-container .accurate-container,.four-ways-container .guide-container,.four-ways-container .need-container,.four-ways-container .schedule-container{gap:20px;flex-direction:column;padding-bottom:30px}.four-ways-container .image-container{margin:auto}.need-container ul{margin-left:0}}@media only screen and (max-width:989px){#parents h1,.slide-content .section-link.first{margin-top:0}.quote-wrapper,h1{text-align:center}#features,#professionals{padding:20px}.mobile-page{display:block}.desktop-page,.feature-inner-box-extra,.slide-content h1{display:none}h1{color:#333;font-size:25px;font-weight:500;padding:0 38px;margin-top:20px;line-height:34px}.slide{height:465px}.slide-content{width:94%;padding-top:20px}.slide-content .content-hero{line-height:50px;color:#fff;max-width:500px;margin-top:15px}.slide-content .content-hero p{font-weight:700;font-size:32px;padding:0 15px;background-color:#0b3d8f;display:inline-block;margin:-7px 0 0;letter-spacing:.5px}.slide-content .section-link{font-size:24px;line-height:50px}.slide-content .section-link span{margin-right:0;top:0}.slide-content .buttons{top:350px}.slide-content .buttons .button{font-size:18px;height:56px}#parents h1{max-width:none;padding-top:20px;margin-bottom:14px}.feature-wrapper{align-items:center;padding-bottom:40px}.feature-inner-box{width:50%}.feature-inner-box-wrapper{display:flex;flex-direction:column;row-gap:25px}.feature-inner-box h2{font-weight:700;font-size:18px;line-height:24px;margin-bottom:10px}.feature-inner-box p{padding:0 16px;text-align:center}.feature-btn{flex-direction:column;align-items:center;margin:0 auto;width:100%}.feature-cta{margin-bottom:0}#parents{padding:0}.quote-wrapper{padding:0 12px;border:none}.quote-wrapper p{line-height:25px;font-size:16px;padding:0}.quote-wrapper span{font-size:14px}.quote-wrapper::after{background-position:left;background-size:20px;background-repeat:no-repeat;width:24px;height:12px;left:-5px;top:0}#quotes,#quotes-2{padding:50px 20px}#professionals>div{max-width:960px;margin:0 auto}#features h1,#professionals h1{text-align:left;padding:0}#professionals h4{font-size:16px;padding-top:0}#features h2,#professionals h2{font-size:24px;line-height:28px;font-weight:400}#professionals h2{margin:0 0 15px}#professionals ul{margin:0 auto 35px;padding:0 20px}#professionals ul li{padding:13px 0 0;line-height:19px}#professionals .quote-wrapper{margin-bottom:20px}#professionals .get-wrapper{max-width:100%;justify-content:center;margin-bottom:20px}#features{margin-bottom:40px;max-width:none}#features h2{padding-bottom:10px}#features ul{margin:0}#features ul li h6{font-size:14px;padding:10px}#features ul li h6::after{right:10px;top:14px}#features ul li.show-submenu ul{margin-left:25px}#features ul .show-submenu h6::after{right:7px}#features ul li ul li{font-size:13px;line-height:15px}}@media only screen and (max-width:767px){.slide{height:360px}.slide-content h1{font-size:24px;line-height:1.4;padding-bottom:20px}.slide-content .buttons{top:275px}.slide-content .content-hero{line-height:38px}.slide-content .content-hero p{font-size:24px;line-height:28px;padding:8px 10px}.slide-content .section-link{font-size:20px;line-height:36px}.slide-content .section-link.first{margin-top:5px}.slide-content .section-link span{top:1px;transform:scale(.8)}.slide-content .buttons .button{font-size:16px;padding:10px 20px;height:36px}.see-how-it-works>.icon-play{transform:scale(.7)}h2{font-size:30px}.feature-inner-box{width:100%}.feature-inner-box p{padding:0}}@media only screen and (max-width:576px){.slide{height:300px}.slide-content{padding-top:0}.slide-content .buttons{top:210px;height:100%;gap:10px}.slide-content .buttons .button{padding:8px 20px;height:32px}.slide-content .content-hero{margin-top:30px;line-height:1;max-width:300px}.slide-content .content-hero p{font-size:20px;line-height:26px;padding:6px 10px}.slide-content .section-link{font-size:18px;line-height:30px;padding-right:5px}.slide-content .section-link span{transform:scale(.7)}.feature-inner-box h2{padding:0}}@media only screen and (max-width:420px){.slide{height:290px}.slide-content .buttons{top:173px;flex-direction:column;gap:5px}.slide-content .content-hero{margin-top:25px}.slide-content .content-hero p{font-size:18px;line-height:22px}.background{right:-23px;transform:scale(1.3)}.slide-content .section-link{font-size:16px;line-height:27px;padding-right:5px}.slide-content .section-link span{top:2px}#features ul li h6{font-size:13px}}@media only screen and (max-width:320px){.slide-content .buttons .button{font-size:16px;width:100%}.background{top:23px;right:-32px;transform:scale(1.2)}}</style>
+ 
+<script>
+window.addEventListener('load', function() {
+    !function(){function e(e){return document.querySelector(e)}const t=e("#hamburger"),i=e("#nav-side"),s=e("#content"),n=e("#query"),l=e("#search-btn-mobile"),r=document.documentElement,a=document.body;var o=!0;t&&t.addEventListener("click",function(){var e,n;o?(n="hamburger-x",(e=t).classList?e.classList.add(n):e.className+=" "+n,i&&(i.style.width="100%"),s&&(s.style.filter="blur(5px)"),a.style.overflow="hidden",r.style.position="relative"):(!function(e,t){e.classList?e.classList.remove(t):e.className=e.className.replace(new RegExp("(^|\\b)"+t.split(" ").join("|")+"(\\b|$)","gi")," ")}(t,"hamburger-x"),i&&(i.style.width="0"),s&&(s.style.filter="blur(0px)"),a.style.overflow="initial",r.style.position="initial"),o=!o}),n&&n.addEventListener("input",function(e){if(l){if(this.value.trim().length>0)return l.disabled=!1;l.disabled=!0}})}();    !function(){"use strict";function o(){var o=window,t=document;if(!("scrollBehavior"in t.documentElement.style&&!0!==o.__forceSmoothScrollPolyfill__)){var l,e=o.HTMLElement||o.Element,r=468,i={scroll:o.scroll||o.scrollTo,scrollBy:o.scrollBy,elementScroll:e.prototype.scroll||n,scrollIntoView:e.prototype.scrollIntoView},s=o.performance&&o.performance.now?o.performance.now.bind(o.performance):Date.now,c=(l=o.navigator.userAgent,new RegExp(["MSIE ","Trident/","Edge/"].join("|")).test(l)?1:0);o.scroll=o.scrollTo=function(){void 0!==arguments[0]&&(!0!==f(arguments[0])?h.call(o,t.body,void 0!==arguments[0].left?~~arguments[0].left:o.scrollX||o.pageXOffset,void 0!==arguments[0].top?~~arguments[0].top:o.scrollY||o.pageYOffset):i.scroll.call(o,void 0!==arguments[0].left?arguments[0].left:"object"!=typeof arguments[0]?arguments[0]:o.scrollX||o.pageXOffset,void 0!==arguments[0].top?arguments[0].top:void 0!==arguments[1]?arguments[1]:o.scrollY||o.pageYOffset))},o.scrollBy=function(){void 0!==arguments[0]&&(f(arguments[0])?i.scrollBy.call(o,void 0!==arguments[0].left?arguments[0].left:"object"!=typeof arguments[0]?arguments[0]:0,void 0!==arguments[0].top?arguments[0].top:void 0!==arguments[1]?arguments[1]:0):h.call(o,t.body,~~arguments[0].left+(o.scrollX||o.pageXOffset),~~arguments[0].top+(o.scrollY||o.pageYOffset)))},e.prototype.scroll=e.prototype.scrollTo=function(){if(void 0!==arguments[0])if(!0!==f(arguments[0])){var o=arguments[0].left,t=arguments[0].top;h.call(this,this,void 0===o?this.scrollLeft:~~o,void 0===t?this.scrollTop:~~t)}else{if("number"==typeof arguments[0]&&void 0===arguments[1])throw new SyntaxError("Value could not be converted");i.elementScroll.call(this,void 0!==arguments[0].left?~~arguments[0].left:"object"!=typeof arguments[0]?~~arguments[0]:this.scrollLeft,void 0!==arguments[0].top?~~arguments[0].top:void 0!==arguments[1]?~~arguments[1]:this.scrollTop)}},e.prototype.scrollBy=function(){void 0!==arguments[0]&&(!0!==f(arguments[0])?this.scroll({left:~~arguments[0].left+this.scrollLeft,top:~~arguments[0].top+this.scrollTop,behavior:arguments[0].behavior}):i.elementScroll.call(this,void 0!==arguments[0].left?~~arguments[0].left+this.scrollLeft:~~arguments[0]+this.scrollLeft,void 0!==arguments[0].top?~~arguments[0].top+this.scrollTop:~~arguments[1]+this.scrollTop))},e.prototype.scrollIntoView=function(){if(!0!==f(arguments[0])){var l=function(o){for(;o!==t.body&&!1===(e=p(l=o,"Y")&&a(l,"Y"),r=p(l,"X")&&a(l,"X"),e||r);)o=o.parentNode||o.host;var l,e,r;return o}(this),e=l.getBoundingClientRect(),r=this.getBoundingClientRect();l!==t.body?(h.call(this,l,l.scrollLeft+r.left-e.left,l.scrollTop+r.top-e.top),"fixed"!==o.getComputedStyle(l).position&&o.scrollBy({left:e.left,top:e.top,behavior:"smooth"})):o.scrollBy({left:r.left,top:r.top,behavior:"smooth"})}else i.scrollIntoView.call(this,void 0===arguments[0]||arguments[0])}}function n(o,t){this.scrollLeft=o,this.scrollTop=t}function f(o){if(null===o||"object"!=typeof o||void 0===o.behavior||"auto"===o.behavior||"instant"===o.behavior)return!0;if("object"==typeof o&&"smooth"===o.behavior)return!1;throw new TypeError("behavior member of ScrollOptions "+o.behavior+" is not a valid value for enumeration ScrollBehavior.")}function p(o,t){return"Y"===t?o.clientHeight+c<o.scrollHeight:"X"===t?o.clientWidth+c<o.scrollWidth:void 0}function a(t,l){var e=o.getComputedStyle(t,null)["overflow"+l];return"auto"===e||"scroll"===e}function d(t){var l,e,i,c,n=(s()-t.startTime)/r;c=n=n>1?1:n,l=.5*(1-Math.cos(Math.PI*c)),e=t.startX+(t.x-t.startX)*l,i=t.startY+(t.y-t.startY)*l,t.method.call(t.scrollable,e,i),e===t.x&&i===t.y||o.requestAnimationFrame(d.bind(o,t))}function h(l,e,r){var c,f,p,a,h=s();l===t.body?(c=o,f=o.scrollX||o.pageXOffset,p=o.scrollY||o.pageYOffset,a=i.scroll):(c=l,f=l.scrollLeft,p=l.scrollTop,a=n),d({scrollable:c,method:a,startTime:h,startX:f,startY:p,x:e,y:r})}}"object"==typeof exports&&"undefined"!=typeof module?module.exports={polyfill:o}:o()}();window.isYoutubeWrapperOpen=!1,(()=>{window.addEventListener("hashchange",function(){var e,s=window.location.hash;if("#go-"==s.substr(0,4)){e=s.substr(4);var t=document.getElementById(e);window.scroll({top:t.offsetTop-67,behavior:"smooth"})}}),window.location.hash&&window.dispatchEvent(new Event("hashchange"));let e=document.getElementsByClassName("submenu"),s="show-submenu";for(let t of e)t.addEventListener("click",()=>{t.parentElement.classList.contains(s)?t.parentElement.classList.remove(s):t.parentElement.classList.add(s)})})();});
+</script>
+
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/180.png">
+<link rel="apple-touch-icon-precomposed" href="/images/favicons/180.png" />
+<link rel="manifest" href="/images/favicons/site.webmanifest"> 
+    <meta name="google-site-verification" content="qBQODxNWxcobMpAk09qfWziylPpZEGQmPqRLDxyWOW0" />
+    <meta name="verify-a" value="eab8fb60af9564628967"> 
+</head>
+<body
+    class="home "
+    style="overflow-x: hidden; ">
+
+
+            <header>
+            <div class="row">
+                <div class="three columns">
+                    <div class="logo"><a href="/" style="display:inline"><img width="204" height="53" src="/images/logo.png" alt="Custody X Change Logo"></a></div>
+                    <div id="hamburger" class="hamburger">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <span>menu</span>
+                    </div>
+                </div>
+                <div class="nine columns">
+                    <ul class="nav-bar right">
+                            <li class="schedule"><a href="/topics/software/calendar.php">Schedule</a></li>
+                        <li class="calculate"><a href="/topics/software/timeshare-overnight-calculator.php">Calculate</a></li>
+                        <li class="p-plan"><a href="/topics/software/parenting-plan-template.php">Plan</a></li>
+                        <li class="pricing"><a href="/signedup/portal.php?pricing">Pricing</a></li>
+                        <li class="vertical-separator"></li>
+                        <li class="search" id="search-container">
+                            <div id="search-btn" class="search-btn">
+                                <span class="icon-magnifier"></span>
+                                <span class="icon-cross"></span>
+                            </div>
+                            <div class="search-box">
+                                <form action="/misc/search.php" method="get" id="cse-search-box">
+                                    <input type="search" placeholder="Search Custody X Change" name="q" id="q" autocomplete="off" >
+                                </form>
+                            </div>
+                        </li>
+                        <li class="login"><a href="https://app.custodyxchange.com/login">Sign In</a></li>
+                        <a href="/signedup/portal.php" class="button">Make My Plan</a>    
+                        </ul>
+                </div>
+            </div>
+        </header>
+    <script>
+        const searchIcon = document.getElementById('search-btn');
+        const searchContainer = document.getElementById('search-container');
+        searchIcon.addEventListener('click', function() {
+            searchContainer.classList.toggle('toggled');
+        });
+	</script>
+    
+    <style>
+    #screenshot-modal-external {
+        display: none;
+        position: fixed;
+        background: rgba(0, 0, 0, 0.4);
+        top: 0px;
+        left: 0px;
+        width: 100vw;
+        height: 100vh;
+        z-index: 10000;
+    }
+
+    #screenshot-modal-popup {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #screenshot-modal-inner {
+        position: relative;
+    }
+
+    #screenshot-modal-close-btn {
+        position: absolute;
+        right: -5px;
+        top: -5px;
+        width: 25px;
+        height: 25px;
+        border: 1px solid #666;
+        border-radius: 25px;
+        padding-left: 6px;
+        background-color: #fff;
+        cursor: pointer;
+        font-size: 20px;
+    }
+
+    #screenshot-modal-close-btn>div {
+        width: 65%;
+        height: 2px;
+        background-color: #999999;
+        margin: 8px auto;
+        transition: all 0.3s;
+    }
+
+    #screenshot-modal-close-btn>div:nth-child(1) {
+        -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+        margin-top: 20px;
+    }
+
+    #screenshot-modal-close-btn>div:nth-child(2) {
+        opacity: 0;
+    }
+
+    #screenshot-modal-close-btn>div:nth-child(3) {
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+        margin-top: -20px;
+    }
+
+    #screenshot-modal-image-container {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        max-width: 98vw;
+        max-height: calc(100vh - 162px);
+        background: #fff;
+    }
+
+    #screenshot-modal-image-container img {
+        display: block;
+        margin: 20px;
+        width: auto;
+        max-width: calc(98vw - 40px);
+        max-height: calc(100vh - 202px);
+        border: 1px solid #aaa;
+    }
+
+    #screenshot-captions {
+        padding: 0px 20px 20px;
+        text-align: center;
+        background-color: #fff;
+    }
+
+    #screenshot-captions a {
+        padding-left: 40px;
+        padding-right: 40px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #screenshot-captions .cta-arrow {
+        padding-right: 15px;
+        float: right;
+    }
+
+    .external #screenshot-captions {
+        display: none;
+    }
+
+    @media screen and (max-width: 600px) {
+        #screenshot-captions a {
+            padding-left: 0px;
+            padding-right: 0px;
+        }
+
+        #screenshot-modal-image-container img {
+            margin: 10px 10px 20px;
+        }
+
+        .external #screenshot-modal-image-container img {
+            margin: 10px;
+        }
+    }
+</style>
+
+<div id="screenshot-modal-external">
+    <div id="screenshot-modal-popup">
+        <div id="screenshot-modal-inner">
+            <span id="screenshot-modal-close-btn">x</span>
+            <div id="screenshot-modal-image-container">
+            </div>
+            <div id="screenshot-captions">
+                <a href="/signedup/portal.php" class="button medium blue download">
+                    <span>
+                        Try this with Custody X Change                    </span>
+                    <span class="cta-arrow"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+	<div id="nav-side" class="nav-side">
+        <ul class="nav-side-items">
+            <form action="/misc/search.php" method="get" id="cse-search-box-mobile">
+                <input type="hidden" name="cx" value="006794036550043950306:76jvehrs_28" />
+                <input type="hidden" name="cof" value="FORID:11;NB:1" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <input type="search" placeholder="Search" name="q" id="query" autocomplete="off">
+                <button type="submit" id="search-btn-mobile" class="search-btn-mobile" disabled="true">
+                    <span class="icon-magnifier"></span>
+                </button>
+            </form>
+            <li class="make-my-plan"><a href="/signedup/portal.php" class="button" style="padding-right: 40px">Make My Plan<span class="cta-arrow-big"></span></a></li>
+            <li><a href="/topics/software/calendar.php">Schedule</a></li>
+            <li><a href="/topics/software/timeshare-overnight-calculator.php">Calculate</a></li>
+            <li><a href="/topics/software/parenting-plan-template.php">Plan</a></li>
+            <li><a href="/signedup/portal.php?pricing">Pricing</a></li>
+            <hr />
+            <li><a href="https://app.custodyxchange.com/login">Sign In</a></li>
+        </ul>
+	</div>
+
+    <style>
+        .screenshot-container {
+            display: inline;
+        }
+    </style>
+
+    <div id="content">
+
+<style>
+	a.cre-t-95BTN p {
+		color: #333 !important;
+	}
+</style>
+<script type="application/ld+json">
+{
+    "@context" : "https://schema.org",
+    "@type" : "WebSite",
+    "name" : "Custody X Change",
+    "alternateName" : "CustodyXChange",
+    "url" : "https://www.custodyxchange.com"
+}
+</script>
+
+<div class="nav-push">
+    <div class="slide">
+        <div class="slide-wrapper">
+            <div class="slide-content">
+                <div class="mobile-page content-hero">
+                    <p class="raleway"> The leading software for</p></br>
+                    <p class="raleway"> creating and managing</p></br>
+                    <p class="raleway"> custody agreements</p></br>
+                </div>
+                <div class="desktop-page">
+                    <h1 class="desktop-page raleway">
+                        <span>The leading software</span><br>
+                        <span>for creating</span><br>
+                        <span>and managing custody</span><br>
+                        <span>agreements</span>
+                    </h1>
+                    <br>
+                </div>
+                                <a href="#go-parents" class="raleway section-link first scroll-to">for
+                    parents<span></span></a>
+                <br>
+                <a href="#go-professionals" class="raleway section-link scroll-to go-professionals">for
+                    legal professionals<span></span></a>
+                <div class="buttons">
+                    <a href="/signedup/portal.php" class="large button">
+                        <span class="cta-arrow-big" style="padding-left: 5px; padding-right: 15px">
+                            Make My Plan                        </span>
+                    </a>
+                </div>
+            </div>
+            <img src="/images/homepage/kids-bubbles.jpg" class="background" width="1698" height="1131">
+        </div>
+    </div>
+</div>
+
+<div id="four-ways">
+    <h1>4 Ways Custody X Change Simplifies Your Life</h1>
+    <div class="four-ways-container">
+        <div class="schedule-container">
+            <div>
+                <h3>1. Brings your custody schedule to life with an interactive calendar</h3>
+                <p>A visual calendar allows parents, lawyers, mediators, and judges to make sense of a schedule
+                    at a glance.</p>
+                <p>Our calendar autosaves changes, syncs with popular calendars like Google Calendar, and
+                    provides professional-looking printouts to help you win in court.
+                </p>
+            </div>
+            <div class="image-container">
+                <img src="/images/topics/schedules/50-50/alternating-2-days.png" class="screenshot" width="630px" height="299.3px">            </div>
+        </div>
+        <div class="accurate-container">
+            <div>
+                <h3>2. Accurately calculates your parenting time</h3>
+                <p>An accurate record of your parenting time is crucial throughout the custody process. It helps
+                    determine how much child support you pay or receive and shows the judge how closely you and
+                    your ex are following your parenting plan. Custody X Change instantly calculates your exact
+                    parenting time for any period, past or future.</p>
+            </div>
+            <div class="image-container">
+                <img src="/images/help/calculations/report.png" class="screenshot" width="630px" height="269.8px">            </div>
+        </div>
+        <div class="guide-container">
+            <div>
+                <h3>3. Provides a step-by-step guide for creating a parenting plan</h3>
+                <p>Most custody cases result in a parenting plan, which outlines how the children will be cared
+                    for. A plan becomes a court order once signed by a judge.</p>
+                <p>Custody X Change takes the guesswork out of the equation by walking you through each step of
+                    creating a comprehensive plan.</p>
+            </div>
+            <div class="image-container">
+                <img src="/images/help/parenting-plans/step-2.png" class="screenshot" width="630px" height="219.8px">            </div>
+        </div>
+        <div class="need-container">
+            <div>
+                <h3>4. Keeps everything you need in one place</h3>
+                <p>Custody X Change is the only tool that combines everything you need to make co-parenting
+                    easier, including:</p>
+                <ul>
+                    <li>A journal to record what happens</li>
+                    <li>An expense tracker</li>
+                    <li>All of your child's activities and info</li>
+                    <li>A messaging platform with a hostile language detector</li>
+                    <li>Calendar, parenting plan, and custody calculator </li>
+                </ul>
+            </div>
+            <div class="image-container">
+                <img src="/images/topics/software/journal-report.png" class="screenshot" width="630px" height="438.2px">            </div>
+        </div>
+    </div>
+    <div class="four-ways-btn-container">
+        <div class="four-ways-btn">
+            <a href="/signedup/portal.php" class="four-ways-cta">
+                <span class="cta-arrow">
+                    Make My Plan                </span>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div id="parents">
+    <h1>Join the 60,000+ other parents who have used our co-parenting tools since 2005</h1>
+    <div class="feature-wrapper">
+        <div class="feature-inner-box">
+            <div class="feature-icon">
+                <img src="/images/homepage/icon-money.svg">
+            </div>
+            <h2>Save up to $50,000 by avoiding court</h2>
+            <p>Write up your parenting agreement<br class="desktop-page">without involving lawyers. Our templates<br
+                    class="desktop-page"> walk you
+                through each step.</p>
+        </div>
+        <div class="feature-inner-box">
+            <div class="feature-icon">
+                <img src="/images/homepage/icon-messages.svg">
+            </div>
+            <h2>Co-parent civilly</h2>
+            <p>Our parent-to-parent messaging system,<br class="desktop-page"> which detects hostile language, lets
+                you<br class="desktop-page">
+                collaborate without the drama.</p>
+        </div>
+        <div class="feature-inner-box">
+            <div class="feature-icon">
+                <img src="/images/homepage/icon-calculator.svg">
+            </div>
+            <h2>Get an accurate child support order</h2>
+            <p>Child support is based on parenting time<br class="desktop-page"> or overnights in most jurisdictions.<br
+                    class="desktop-page"> Calculate
+                time instead of estimating.</p>
+        </div>
+        <div class="feature-inner-box">
+            <div class="feature-icon">
+                <img src="/images/homepage/icon-justice.svg">
+            </div>
+            <h2>Succeed by negotiating</h2>
+            <p>Explore options together with visual<br class="desktop-page"> calendars and detailed parenting plans.<br
+                    class="desktop-page"> Present
+                alternatives and reach agreement.</p>
+        </div>
+        <div class="feature-inner-box">
+            <div class="feature-icon">
+                <img src="/images/homepage/icon-bell.svg">
+            </div>
+            <h2>Never forget an exchange or activity</h2>
+            <p>Get push notifications and email<br class="desktop-page"> reminders, sync with other calendar apps<br
+                    class="desktop-page"> and share with
+                the other parent.</p>
+        </div>
+        <div class="feature-inner-box">
+            <div class="feature-icon">
+                <img src="/images/homepage/icon-inbox.svg">
+            </div>
+            <h2>Organize your evidence</h2>
+            <p>Track your expenses, journal what<br class="desktop-page"> happens, and record actual time. Print<br
+                    class="desktop-page"> organized,
+                professional documents.</p>
+        </div>
+        <div class="feature-btn">
+            <a href="/signedup/portal.php" class="feature-cta">
+                <span class="cta-arrow">
+                    Make My Plan                </span>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div id="quotes" class="gray">
+    <div class="quote-wrapper">
+        <p>I'm a stay-at-home mom and I've been stressing over my husband trying to pay as little as possible
+            for child support. Your software has been more helpful than you will ever know.</p>
+        <span>— Gena McLellan, Rio Rancho, NM</span>
+    </div>
+</div>
+
+<div id="professionals">
+    <div>
+        <h4>Are you a <b>legal professional</b> looking for a tool to help clients?</h4>
+        <h1>We can help you improve client satisfaction<br class="desktop-page"> with less time and effort</h1>
+        <ul>
+            <li>Perform advanced calculations easily</li>
+            <li>Create court-ready plans and reports</li>
+            <li>Show clients multiple scheduling options</li>
+            <li>Share the calendar and data with clients</li>
+            <li>Stay up-to-date with clients' plans</li>
+            <li>Use phone, tablet and computer apps</li>
+        </ul>
+        <div class="get-wrapper">
+            <a href="/signedup/portal.php" class="get-cta">
+                <span class="cta-arrow">
+                    Make My Plan                </span>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div id="quotes-2" class="gray">
+    <div class="quote-wrapper">
+        <p>Our partnership with Custody X Change has been invaluable...It's a very thorough platform that can save
+            thousands of dollars in legal fees. It also lets our clients make it easier for the (overburdened)
+            judge, custody evaluator, or any other professional involved in their case to take their side by making
+            their jobs easier. <b>Highly recommended!</b></p>
+        <span>— Chris Barry, BeenThereGotOut.com</span>
+    </div>
+</div>
+
+<div id="features">
+    <h1>Explore our site:</h1>
+    <ul class="accordion-menu">
+        <li>
+            <h6 class="submenu">How to get the most out of Custody X Change</h6>
+            <ul>
+                <li><a href="/topics/plans/overview/negotiating.php">Succeed by
+                        negotiating</a></li>
+                <li><a href="/topics/custody/steps/mediation.php">Prepare for
+                        mediation</a></li>
+                <li><a href="/topics/custody/steps/court.php">Get ready for
+                        court</a>
+                </li>
+                <li><a href="/topics/software/timeshare-overnight-calculator.php">Calculate
+                        time &amp; overnights</a></li>
+                <li><a href="/topics/software/journal.php">Journal what
+                        happens</a>
+                </li>
+                <li><a href="/topics/software/tracking-time.php">Set up parenting
+                        time tracking</a></li>
+                <li><a href="/topics/software/expenses.php">Set up expense
+                        tracking</a></li>
+                <li><a href="/topics/software/calendar.php">Print your
+                        calendars</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <h6 class="submenu">Template schedules &amp; plans</h6>
+            <ul>
+                <li><a href="/topics/schedules/50-50/7-examples.php">50/50 time
+                        (even split)</a></li>
+                <li><a href="/topics/schedules/60-40/3-examples.php">60/40 time
+                        split</a></li>
+                <li><a href="/topics/schedules/70-30/5-examples.php">70/30 time
+                        split</a></li>
+                <li><a href="/topics/schedules/80-20/5-examples.php">80/20 time
+                        split</a></li>
+                <li><a href="/topics/schedules/special-circumstances/long-distance.php">Long
+                        distance schedules</a></li>
+                <li><a href="/topics/schedules/overview/3rd-party-time.php">Third
+                        party schedules</a></li>
+                <li><a href="/topics/schedules/overview/summer-break.php">Holidays
+                        &amp; summer breaks</a></li>
+                <li><a href="/topics/plans/provisions/">Parenting provisions</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <h6 class="submenu">How to make a schedule</h6>
+            <ul>
+                <li><a href="/topics/schedules/overview/schedule.php">How to make
+                        a schedule</a></li>
+                <li><a href="/topics/schedules/overview/schedule-considerations.php">Factors
+                        to consider</a></li>
+                <li><a href="/topics/schedules/overview/schedules-by-location.php">State-specific
+                        guidelines for scheduling</a></li>
+            </ul>
+        </li>
+        <li>
+            <h6 class="submenu">How to make a parenting plan</h6>
+            <ul>
+                <li><a href="/topics/plans/overview/parenting-plan.php">Making a
+                        parenting plan 101</a></li>
+                <li><a href="/topics/custody/steps/modify.php">Changing your
+                        plan</a>
+                </li>
+                <li><a href="/topics/custody/special-circumstances/interstate.php">Create
+                        interstate &amp; long distance plans</a></li>
+                <li><a href="/topics/plans/overview/temporary.php">Create
+                        temporary plans</a></li>
+                <li><a href="/topics/plans/overview/parenting-plans-by-location.php">State-specific
+                        guidelines for parenting plans</a></li>
+            </ul>
+        </li>
+        <li>
+            <h6 class="submenu">Age guidelines</h6>
+            <ul>
+                <li><a href="/topics/custody/ages/baby.php">Birth to 18 months</a>
+                </li>
+                <li><a href="/topics/custody/ages/toddler.php">18 months to 3
+                        years</a></li>
+                <li><a href="/topics/custody/ages/preschooler.php">3 to 5
+                        years</a>
+                </li>
+                <li><a href="/topics/custody/ages/school-age-child.php">5 to 13
+                        years</a></li>
+                <li><a href="/topics/custody/ages/teenager.php">13 to 18 years</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <h6 class="submenu">Helpful terms</h6>
+            <ul>
+                <li><a href="/topics/custody/types/joint-physical-custody.php">Joint
+                        physical custody</a></li>
+                <li><a href="/topics/custody/types/sole-physical-custody.php">Sole
+                        physical custody</a></li>
+                <li><a href="/topics/custody/types/joint-legal-custody.php">Joint
+                        legal custody</a></li>
+                <li><a href="/topics/custody/types/sole-legal-custody.php">Sole
+                        legal custody</a></li>
+            </ul>
+        </li>
+        <li>
+            <h6 class="submenu">Guides by location</h6>
+            <ul>
+                <li><a href="/locations/usa/">US states</a></li>
+                <li><a href="/locations/canada/">Canadian provinces</a></li>
+                <li><a href="/locations/australia/">Australia</a></li>
+                <li><a href="/locations/uk/">UK</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+</div>
+
+<script>
+setTimeout(()=>{let e=document.getElementById("screenshot-modal-external"),t=document.getElementById("screenshot-modal-inner"),n=document.getElementById("screenshot-modal-image-container"),s=document.getElementById("screenshot-modal-close-btn"),l=document.body,r=document.documentElement;if(!e)return;function i(){window.isScreenshotWrapperOpen=!1,e.style.display="none",e.classList.remove("external"),l.style.overflow="initial",r.style.position="initial"}function a(){window.isScreenshotWrapperOpen=!0,e.style.display="block",l.style.overflow="hidden",r.style.position="relative"}e.addEventListener("click",e=>{let n=e.target;t.contains(n)||i()}),s.addEventListener("click",i);let c=Array(...document.getElementsByClassName("screenshot")),[o,d]=c.reduce((e,t)=>(t.classList.contains("external")?e[0].push(t):e[1].push(t),e),[[],[]]);d.forEach(e=>{e.addEventListener("click",e=>{let t=e.target.currentSrc,s=document.createElement("img");s.src=t,n.innerHTML="",n.appendChild(s),a()})}),o.forEach(t=>{t.addEventListener("click",t=>{let s=t.target.currentSrc,l=document.createElement("img");l.src=s,n.innerHTML="",n.appendChild(l),e.classList.add("external"),a()})})},0);</script>
+
+
+<footer>
+	<div class="row">
+		<ul class="block-grid three-up mobile">
+			<li class="no-disc">
+				<ul class="tertiary menu">
+					<li class="bold">About:</li>
+					<li><a href="/misc/about-us.php">About us</a></li>
+					<li><a href="/misc/testimonials.php">Testimonials</a></li>
+          <li><a href="/misc/sitemap.php">Sitemap</a></li>
+				</ul>
+			</li>
+
+			<li class="tutorial-list">
+        <ul class="tertiary menu">
+					<li class="bold">Help:</li>
+          <li><a href="/help/">Help center</a></li>
+          <li><a href="/help/faq.php">Frequently asked questions</a></li>
+          <li><a href="/help/contact-us.php">Contact us</a></li>
+        </ul>
+			</li>
+
+			<li class="resource-list">
+        <ul class="tertiary menu">
+					<li class="bold">Legal:</li>
+					<li><a href="/misc/privacy-policy.php">Privacy policy</a></li>
+					<li><a href="/misc/terms-of-use.php">Terms of use</a></li>
+					<li><a href="javascript:void(0);" onclick="alert('This website and software are not intended or offered as legal advice.' + '\n\n' + 'These materials have been prepared for educational and information purposes only.' + '\n\n' + 'Please consult a qualified legal professional if you have legal questions.' + '\n\n' + 'See our Terms of Use for more information.');">Not legal advice</a></li>
+        </ul>
+			</li>
+		</ul>
+ 	</div>
+
+</footer>
+
+
+
+<div id="youtube-video-wrapper">
+	<div id="close-youtube" class="close-intent">
+		<div></div>
+		<div></div>
+		<div></div>
+	</div>
+    <div id="youtube-video">
+        <div id="youtube-iframe-container">
+        </div>
+    </div>
+</div>
+<script>
+(()=>{let e=e=>document.querySelector(e),t=document.createElement("script");t.src="https://www.youtube.com/iframe_api";let o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o);let a=e("#see-how-it-works"),u=e("#youtube-video-wrapper"),y=e("#close-youtube");function i(){window.youtubePlayer&&window.youtubePlayer.pauseVideo&&window.youtubePlayer.pauseVideo(),window.isYoutubeWrapperOpen=!1,u.style.opacity=0,setTimeout(function(){u.style.display="none"},300)}function r(){window.youtubePlayer&&window.youtubePlayer.playVideo&&window.youtubePlayer.playVideo(),window.isYoutubeWrapperOpen=!0,u.style.display="block",setTimeout(()=>{u.style.opacity=1},30)}u.addEventListener("click",e=>{e.target===u&&i()}),y.addEventListener("click",i),a.addEventListener("click",()=>{r()})})();function onYouTubeIframeAPIReady(){window.youtubePlayer=new YT.Player("youtube-iframe-container",{height:"1080",width:"1920",videoId:"NXT21ovCGQw",events:{onReady(e){},onStateChange(e){}}})}</script>
+
+<div id="exit-intent-wrapper">
+	<div id="close-intent" class="close-intent">
+		<div></div>
+		<div></div>
+		<div></div>
+	</div>
+    <div id="exit-intent">
+		<span id="exit-intent-x" class="close-btn">x</span>
+        <div class="logo">
+            <img src="/images/logo.png" alt="Custody X Change Logo" style="height: 67px">
+        </div>
+        <p>Bring calm to co&#8209;parenting. Agree on a schedule and plan. Be prepared with everything documented.</p>
+        <ul>
+            <li>1. Visualize your schedule</li>
+            <li>2. Get a written parenting plan</li>
+            <li>3. Calculate your parenting time</li>
+		</ul>
+		<a href="/signedup/portal.php" class="button button-exit-intent" style="float: none;"><span class="cta-arrow" style="padding-right: 15px">Make My Plan</span></a>
+		<p style="padding-bottom: 25px;"><span id="exit-intent-thank-you">No thanks, I don't need a parenting plan</span></p>
+    </div>
+</div>
+<script>
+!function(){function e(e,t,n){var i=new Date;i.setTime(i.getTime()+864e5*n);var l="expires="+i.toUTCString();document.cookie=e+"="+t+";"+l+";path=/"}function t(e){return document.querySelector(e)}function n(t){localStorage&&localStorage.setItem("exit-intent-mobile",t),2==t&&e("exit-intent",!0,7)}function i(){return localStorage&&localStorage.getItem("exit-intent")}function l(t){localStorage&&localStorage.setItem("exit-intent",t),e("exit-intent",!0,7)}function o(){u.style.opacity=0,setTimeout(function(){u.style.display="none",$.style.overflow="initial",r.style.position="initial",c.style.filter="blur(0px)",s.style.filter="blur(0px)"},300)}let r=document.documentElement,$=document.body,s=document.getElementsByTagName("header")[0],c=t("#content"),u=t("#exit-intent-wrapper"),a=t("#exit-intent-x"),p=t("#exit-intent-thank-you"),y=t("#close-intent");if(u.addEventListener("click",function(e){e.target===u&&o()}),a.addEventListener("click",o),p.addEventListener("click",o),y.addEventListener("click",o),void 0!==window.orientation||-1!==navigator.userAgent.indexOf("IEMobile")){var f;let d=i();d&&d<new Date().getTime()-6048e5&&n(0);let m=localStorage&&localStorage.getItem("exit-intent-mobile");m&&"0"!=m||(n(1),f=15e3),"1"==m&&(f=15e3),"2"!=m&&setTimeout(function(){!window.isYoutubeWrapperOpen&&!window.isScreenshotWrapperOpen&&(u.style.display="block",setTimeout(function(){u.style.opacity=.9,$.style.overflow="hidden",r.style.position="relative",c.style.filter="blur(5px)",s.style.filter="blur(5px)"},30)),n(2),l(new Date().getTime())},f)}else setTimeout(function(){document.addEventListener("mouseout",function(e){if(e.clientY<50){let t=i();(!t||t<new Date().getTime()-6048e5)&&(!window.isYoutubeWrapperOpen&&!window.isScreenshotWrapperOpen&&(u.style.display="block",setTimeout(function(){u.style.opacity=1},30)),l(new Date().getTime()))}})},5e3)}();</script>
+
+
+</body>
+</html>
