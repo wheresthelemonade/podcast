@@ -21,9 +21,9 @@ description: "The Christmas clutter leads us to start an early spring cleaning a
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="1f850fe3" title="#22 #2.2 Getting Organized in the New Year" %}
+{% include_relative _includes/transistor.html id="1f850fe3" title="#22 #2.2 Getting Organized in the New Year" %}
 
-{% include_relative _includes/_includes/youtube.html id="N3as0NStWws" %}
+{% include_relative _includes/youtube.html id="N3as0NStWws" %}
 </div>
 
 ---

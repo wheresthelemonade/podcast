@@ -21,9 +21,9 @@ description: "This week, Darren and Paige discuss tips and tricks to help with a
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="cb20c7b2" title="#410 #4.10 How to handle co-parenting with an ex you don't see eye to eye with." %}
+{% include_relative _includes/transistor.html id="cb20c7b2" title="#410 #4.10 How to handle co-parenting with an ex you don't see eye to eye with." %}
 
-{% include_relative _includes/_includes/youtube.html id="OpUr_6e3fIs" %}
+{% include_relative _includes/youtube.html id="OpUr_6e3fIs" %}
 </div>
 
 ---

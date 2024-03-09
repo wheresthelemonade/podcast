@@ -21,9 +21,9 @@ description: "In this episode learn how a trip to the Oregon Coast quickly turne
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="31ebd4f5" title="#119 #1.19 Flexibility in Travelling Together" %}
+{% include_relative _includes/transistor.html id="31ebd4f5" title="#119 #1.19 Flexibility in Travelling Together" %}
 
-{% include_relative _includes/_includes/youtube.html id="mOqxYrNd6x0" %}
+{% include_relative _includes/youtube.html id="mOqxYrNd6x0" %}
 </div>
 
 ---

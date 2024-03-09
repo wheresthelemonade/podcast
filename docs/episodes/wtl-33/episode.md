@@ -21,9 +21,9 @@ description: "Blended families bring lots of new stressors into a relationship. 
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="27369379" title="#33 #3.3 Pass the Xanax : Dealing with Anxiety in a Blended Family" %}
+{% include_relative _includes/transistor.html id="27369379" title="#33 #3.3 Pass the Xanax : Dealing with Anxiety in a Blended Family" %}
 
-{% include_relative _includes/_includes/youtube.html id="EfgffEf7fcc" %}
+{% include_relative _includes/youtube.html id="EfgffEf7fcc" %}
 </div>
 
 ---

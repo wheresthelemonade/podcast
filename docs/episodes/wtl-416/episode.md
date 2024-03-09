@@ -21,9 +21,9 @@ description: "Ok, so here we are again in the summertime!! It is a beautiful tim
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="3a889006" title="#416 #4.16 It's Summer Time!! Screen Time How Much is Too Much?" %}
+{% include_relative _includes/transistor.html id="3a889006" title="#416 #4.16 It's Summer Time!! Screen Time How Much is Too Much?" %}
 
-{% include_relative _includes/_includes/youtube.html id="GKf4LXvcTDo" %}
+{% include_relative _includes/youtube.html id="GKf4LXvcTDo" %}
 </div>
 
 ---

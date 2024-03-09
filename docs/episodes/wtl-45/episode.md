@@ -21,9 +21,9 @@ description: "Madeline and Paige were talking the other day about different pare
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="0f90e169" title="#45 #4.5 Balancing Act Between Fun and Strict Parenting" %}
+{% include_relative _includes/transistor.html id="0f90e169" title="#45 #4.5 Balancing Act Between Fun and Strict Parenting" %}
 
-{% include_relative _includes/_includes/youtube.html id="8sDdoRmmtMU" %}
+{% include_relative _includes/youtube.html id="8sDdoRmmtMU" %}
 </div>
 
 ---

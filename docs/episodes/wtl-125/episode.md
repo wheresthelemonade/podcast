@@ -25,9 +25,9 @@ In this episode, we talk about the pitfalls and traps and how to avoid them."
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="9d954b81" title="#125 #1.25 Friends and Divorce" %}
+{% include_relative _includes/transistor.html id="9d954b81" title="#125 #1.25 Friends and Divorce" %}
 
-{% include_relative _includes/_includes/youtube.html id="" %}
+{% include_relative _includes/youtube.html id="" %}
 </div>
 
 ---

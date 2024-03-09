@@ -21,9 +21,9 @@ description: "The first episode of the Where's the Lemonade podcast where we tal
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="4e2b74b8" title="#11 #1.1 When life gives you lemons" %}
+{% include_relative _includes/transistor.html id="4e2b74b8" title="#11 #1.1 When life gives you lemons" %}
 
-{% include_relative _includes/_includes/youtube.html id="DQqPGf4vkLQ" %}
+{% include_relative _includes/youtube.html id="DQqPGf4vkLQ" %}
 </div>
 
 ---

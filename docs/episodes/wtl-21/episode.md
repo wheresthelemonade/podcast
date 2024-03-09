@@ -21,9 +21,9 @@ description: "We have been setting goals with our kids every year at the beginni
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="9f634341" title="#21 #2.1 Goal Setting in a Blended Family" %}
+{% include_relative _includes/transistor.html id="9f634341" title="#21 #2.1 Goal Setting in a Blended Family" %}
 
-{% include_relative _includes/_includes/youtube.html id="O5Us4E4J1V8" %}
+{% include_relative _includes/youtube.html id="O5Us4E4J1V8" %}
 </div>
 
 ---

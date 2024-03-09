@@ -21,9 +21,9 @@ description: "How do you discipline children in a blended family? How do you com
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="d1695d6e" title="#118 #1.18 Discipline in Blended Families" %}
+{% include_relative _includes/transistor.html id="d1695d6e" title="#118 #1.18 Discipline in Blended Families" %}
 
-{% include_relative _includes/_includes/youtube.html id="72T-xSFfv8g" %}
+{% include_relative _includes/youtube.html id="72T-xSFfv8g" %}
 </div>
 
 ---

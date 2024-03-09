@@ -21,9 +21,9 @@ description: "In this episode, Darren and Paige spend some time together alone. 
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="64169e70" title="#135 #1.35 Our time to reconnect in Greece" %}
+{% include_relative _includes/transistor.html id="64169e70" title="#135 #1.35 Our time to reconnect in Greece" %}
 
-{% include_relative _includes/_includes/youtube.html id="tVigtKXwmu0" %}
+{% include_relative _includes/youtube.html id="tVigtKXwmu0" %}
 </div>
 
 ---

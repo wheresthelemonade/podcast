@@ -25,9 +25,9 @@ Will anger and anxiousness take over or are there some things they have found wo
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="e9d3585f" title="#213 #2.13 Quarantine Fatigue (Week 8 of COVID Pandemic)" %}
+{% include_relative _includes/transistor.html id="e9d3585f" title="#213 #2.13 Quarantine Fatigue (Week 8 of COVID Pandemic)" %}
 
-{% include_relative _includes/_includes/youtube.html id="WQXLg_mWYSo" %}
+{% include_relative _includes/youtube.html id="WQXLg_mWYSo" %}
 </div>
 
 ---

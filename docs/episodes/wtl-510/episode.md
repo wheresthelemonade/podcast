@@ -21,9 +21,9 @@ description: "Ok, so we all hear the saying, Don't go to bed Angry. You probably
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="6c622f44" title="#510 #5.10 Marriage Myth: Don't Go To Bed Angry" %}
+{% include_relative _includes/transistor.html id="6c622f44" title="#510 #5.10 Marriage Myth: Don't Go To Bed Angry" %}
 
-{% include_relative _includes/_includes/youtube.html id="sT58SXxrKyM" %}
+{% include_relative _includes/youtube.html id="sT58SXxrKyM" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "Sometimes in our very busy lives we lose that connection and spark
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="611637ef" title="#46 #4.6 How to Reconnect With Your Spouse" %}
+{% include_relative _includes/transistor.html id="611637ef" title="#46 #4.6 How to Reconnect With Your Spouse" %}
 
-{% include_relative _includes/_includes/youtube.html id="" %}
+{% include_relative _includes/youtube.html id="" %}
 </div>
 
 ---

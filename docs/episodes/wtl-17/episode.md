@@ -21,9 +21,9 @@ description: "It can be really difficult blending families, imagine what is like
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="ca03d8de" title="#17 #1.7 Being part of a Bigger Extended Family (Blending into your spouse's family)" %}
+{% include_relative _includes/transistor.html id="ca03d8de" title="#17 #1.7 Being part of a Bigger Extended Family (Blending into your spouse's family)" %}
 
-{% include_relative _includes/_includes/youtube.html id="77sBE8MI2SQ" %}
+{% include_relative _includes/youtube.html id="77sBE8MI2SQ" %}
 </div>
 
 ---

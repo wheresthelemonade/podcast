@@ -21,9 +21,9 @@ description: "This week Darren & Paige are in Portugal. Why Portugal? You have t
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="89dda6c9" title="#414 #4.14 Travel Tips from Portugal" %}
+{% include_relative _includes/transistor.html id="89dda6c9" title="#414 #4.14 Travel Tips from Portugal" %}
 
-{% include_relative _includes/_includes/youtube.html id="gsF6hRlO5kM" %}
+{% include_relative _includes/youtube.html id="gsF6hRlO5kM" %}
 </div>
 
 ---

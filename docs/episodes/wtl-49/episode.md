@@ -21,9 +21,9 @@ description: "This week Darren and Paige talk about how to maintain perspective 
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="19c17d2e" title="#49 #4.9 Perspective...Hard to Maintain!!" %}
+{% include_relative _includes/transistor.html id="19c17d2e" title="#49 #4.9 Perspective...Hard to Maintain!!" %}
 
-{% include_relative _includes/_includes/youtube.html id="hZ4vY0JBlJw" %}
+{% include_relative _includes/youtube.html id="hZ4vY0JBlJw" %}
 </div>
 
 ---

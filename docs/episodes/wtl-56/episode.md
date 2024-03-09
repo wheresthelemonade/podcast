@@ -21,9 +21,9 @@ description: "This week Darren and Paige asked their listeners to submit questio
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="eb01ae82" title="#56 #5.6 You Asked, We Answered" %}
+{% include_relative _includes/transistor.html id="eb01ae82" title="#56 #5.6 You Asked, We Answered" %}
 
-{% include_relative _includes/_includes/youtube.html id="rzl8url54-k" %}
+{% include_relative _includes/youtube.html id="rzl8url54-k" %}
 </div>
 
 ---

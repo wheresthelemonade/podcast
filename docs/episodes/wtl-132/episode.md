@@ -21,9 +21,9 @@ description: "Many times we are searching for the perfect lemonade when we are d
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="5183cb94" title="#132 #1.32 Making your own Lemonade, Overcoming hardship" %}
+{% include_relative _includes/transistor.html id="5183cb94" title="#132 #1.32 Making your own Lemonade, Overcoming hardship" %}
 
-{% include_relative _includes/_includes/youtube.html id="qxgnraYu0PM" %}
+{% include_relative _includes/youtube.html id="qxgnraYu0PM" %}
 </div>
 
 ---

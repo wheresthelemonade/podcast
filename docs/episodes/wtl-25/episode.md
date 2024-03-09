@@ -21,9 +21,9 @@ description: "When we first got married we believed that love would conquer all.
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="04623008" title="#25 #2.5 Why Blended Families Fail" %}
+{% include_relative _includes/transistor.html id="04623008" title="#25 #2.5 Why Blended Families Fail" %}
 
-{% include_relative _includes/_includes/youtube.html id="ENlL9hn2fGk" %}
+{% include_relative _includes/youtube.html id="ENlL9hn2fGk" %}
 </div>
 
 ---

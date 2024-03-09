@@ -21,9 +21,9 @@ description: "Establishing traditions is important to give your family (blended 
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="978d1f06" title="#13 #1.3 Egg's Benedict and Sausage Fondue - Building foundations through traditions" %}
+{% include_relative _includes/transistor.html id="978d1f06" title="#13 #1.3 Egg's Benedict and Sausage Fondue - Building foundations through traditions" %}
 
-{% include_relative _includes/_includes/youtube.html id="fDlm93tNyPs" %}
+{% include_relative _includes/youtube.html id="fDlm93tNyPs" %}
 </div>
 
 ---

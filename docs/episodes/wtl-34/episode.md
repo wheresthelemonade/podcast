@@ -21,9 +21,9 @@ description: "We recently had facebook and google give us reminders of where we 
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="b42fd102" title="#34 #3.4 It all began in Panama" %}
+{% include_relative _includes/transistor.html id="b42fd102" title="#34 #3.4 It all began in Panama" %}
 
-{% include_relative _includes/_includes/youtube.html id="7lEB5BA1quI" %}
+{% include_relative _includes/youtube.html id="7lEB5BA1quI" %}
 </div>
 
 ---

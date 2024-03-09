@@ -21,9 +21,9 @@ description: "In this episode we discuss how hard it is to be a step-mom on Moth
 ---
 
 <div>
-{% include_relative _includes/_includes/transistor.html id="ac1ad273" title="#116 #1.16 Step Mother's Day" %}
+{% include_relative _includes/transistor.html id="ac1ad273" title="#116 #1.16 Step Mother's Day" %}
 
-{% include_relative _includes/_includes/youtube.html id="YbnXS7sP7jM" %}
+{% include_relative _includes/youtube.html id="YbnXS7sP7jM" %}
 </div>
 
 ---
