@@ -21,9 +21,9 @@ description: "The fall brings kids going back to school or even leaving home to 
 ---
 
 <div>
-{% include transistor.html id="5f3bd8e3" title="#127 #1.27 Back to School Boohoo Woohoo" %}
+{% include_relative ../../_includes/transistor.html id="5f3bd8e3" title="#127 #1.27 Back to School Boohoo Woohoo" %}
 
-{% include youtube.html id="QUGMasVpIqQ" %}
+{% include_relative ../../_includes/youtube.html id="QUGMasVpIqQ" %}
 </div>
 
 ---

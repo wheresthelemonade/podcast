@@ -21,9 +21,9 @@ description: "How do you extend your blending family through the generations? Ou
 ---
 
 <div>
-{% include transistor.html id="af19d2e2" title="#14 #1.4 There is No Step in Grandma and Grandpa - Extending the blended family across multiple generations" %}
+{% include_relative ../../_includes/transistor.html id="af19d2e2" title="#14 #1.4 There is No Step in Grandma and Grandpa - Extending the blended family across multiple generations" %}
 
-{% include youtube.html id="Nw5ib_cjfyg" %}
+{% include_relative ../../_includes/youtube.html id="Nw5ib_cjfyg" %}
 </div>
 
 ---

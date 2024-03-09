@@ -21,9 +21,9 @@ description: "In this episode, Darren and Paige look at a 30-day relationship ch
 ---
 
 <div>
-{% include transistor.html id="7a4f4419" title="#38 #3.8 30 Day Relationship Challenge" %}
+{% include_relative ../../_includes/transistor.html id="7a4f4419" title="#38 #3.8 30 Day Relationship Challenge" %}
 
-{% include youtube.html id="JId-fwNpkfs" %}
+{% include_relative ../../_includes/youtube.html id="JId-fwNpkfs" %}
 </div>
 
 ---

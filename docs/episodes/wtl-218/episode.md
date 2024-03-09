@@ -21,9 +21,9 @@ description: "Darren & Paige talk about the big decision on where to educate the
 ---
 
 <div>
-{% include transistor.html id="4211423b" title="#218 #2.18 Back to School with COVID and Blended Families" %}
+{% include_relative ../../_includes/transistor.html id="4211423b" title="#218 #2.18 Back to School with COVID and Blended Families" %}
 
-{% include youtube.html id="gpdQvOc5Lfo" %}
+{% include_relative ../../_includes/youtube.html id="gpdQvOc5Lfo" %}
 </div>
 
 ---

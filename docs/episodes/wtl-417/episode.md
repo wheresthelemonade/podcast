@@ -21,9 +21,9 @@ description: "Most marriage difficulties center around one fact, that men and wo
 ---
 
 <div>
-{% include transistor.html id="03315eb7" title="#417 #4.17 Understanding the Differences between Men and Women" %}
+{% include_relative ../../_includes/transistor.html id="03315eb7" title="#417 #4.17 Understanding the Differences between Men and Women" %}
 
-{% include youtube.html id="azG-sfmdNO4" %}
+{% include_relative ../../_includes/youtube.html id="azG-sfmdNO4" %}
 </div>
 
 ---

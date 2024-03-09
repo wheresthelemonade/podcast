@@ -21,9 +21,9 @@ description: "In this episode, Darren & Paige discuss how to resolve conflict in
 ---
 
 <div>
-{% include transistor.html id="bafb9d65" title="#220 #2.20 Resolving Conflict in Marriage" %}
+{% include_relative ../../_includes/transistor.html id="bafb9d65" title="#220 #2.20 Resolving Conflict in Marriage" %}
 
-{% include youtube.html id="OYlhDS3GPvo" %}
+{% include_relative ../../_includes/youtube.html id="OYlhDS3GPvo" %}
 </div>
 
 ---

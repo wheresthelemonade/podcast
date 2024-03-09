@@ -21,9 +21,9 @@ description: "In this episode, Darren and Paige cover the importance of Girl's t
 ---
 
 <div>
-{% include transistor.html id="4e0dc64d" title="#129 #1.29 Girl's Trips? Heck yes!" %}
+{% include_relative ../../_includes/transistor.html id="4e0dc64d" title="#129 #1.29 Girl's Trips? Heck yes!" %}
 
-{% include youtube.html id="u7Z55yX9BEo" %}
+{% include_relative ../../_includes/youtube.html id="u7Z55yX9BEo" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "It is week 2 of the Shelter in Place order from the state of Calif
 ---
 
 <div>
-{% include transistor.html id="41b55133" title="#210 #2.10 Week 2 of COVID-19 (Finding lemonade)" %}
+{% include_relative ../../_includes/transistor.html id="41b55133" title="#210 #2.10 Week 2 of COVID-19 (Finding lemonade)" %}
 
-{% include youtube.html id="CHChBjvVojo" %}
+{% include_relative ../../_includes/youtube.html id="CHChBjvVojo" %}
 </div>
 
 ---

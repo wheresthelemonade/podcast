@@ -21,9 +21,9 @@ description: "This week Darren & Paige explore selfishness in Marriage with a qu
 ---
 
 <div>
-{% include transistor.html id="ba08342e" title="#48 #4.8 Selfishness in Marriage" %}
+{% include_relative ../../_includes/transistor.html id="ba08342e" title="#48 #4.8 Selfishness in Marriage" %}
 
-{% include youtube.html id="MysMHK95Dfw" %}
+{% include_relative ../../_includes/youtube.html id="MysMHK95Dfw" %}
 </div>
 
 ---

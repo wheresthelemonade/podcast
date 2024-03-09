@@ -21,9 +21,9 @@ description: "This week Paige continues to teach Darren what she learned at Educ
 ---
 
 <div>
-{% include transistor.html id="ce983681" title="#130 #1.30 Managing Unsolvable and Solvable Problems" %}
+{% include_relative ../../_includes/transistor.html id="ce983681" title="#130 #1.30 Managing Unsolvable and Solvable Problems" %}
 
-{% include youtube.html id="ZR3WknookTw" %}
+{% include_relative ../../_includes/youtube.html id="ZR3WknookTw" %}
 </div>
 
 ---

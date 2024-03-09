@@ -21,9 +21,9 @@ description: "When people get divorces there is a huge financial explosion. All 
 ---
 
 <div>
-{% include transistor.html id="3c241a0d" title="#124 #1.24 Dealing with Child Support and Alimony" %}
+{% include_relative ../../_includes/transistor.html id="3c241a0d" title="#124 #1.24 Dealing with Child Support and Alimony" %}
 
-{% include youtube.html id="" %}
+{% include_relative ../../_includes/youtube.html id="" %}
 </div>
 
 ---

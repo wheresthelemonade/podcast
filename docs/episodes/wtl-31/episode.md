@@ -21,9 +21,9 @@ description: "In this episode, we review what happened in 2020. What our plans w
 ---
 
 <div>
-{% include transistor.html id="36d18d68" title="#31 #3.1 What a year 2020 in review" %}
+{% include_relative ../../_includes/transistor.html id="36d18d68" title="#31 #3.1 What a year 2020 in review" %}
 
-{% include youtube.html id="CiPitufrJ1g" %}
+{% include_relative ../../_includes/youtube.html id="CiPitufrJ1g" %}
 </div>
 
 ---

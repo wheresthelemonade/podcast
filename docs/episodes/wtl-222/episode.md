@@ -21,9 +21,9 @@ description: "Blended families get judged. No doubt about it. The kids get judge
 ---
 
 <div>
-{% include transistor.html id="4f7f4a47" title="#222 #2.22 Don't Judge Me" %}
+{% include_relative ../../_includes/transistor.html id="4f7f4a47" title="#222 #2.22 Don't Judge Me" %}
 
-{% include youtube.html id="" %}
+{% include_relative ../../_includes/youtube.html id="" %}
 </div>
 
 ---

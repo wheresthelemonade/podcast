@@ -21,9 +21,9 @@ description: "On this episode, Darren and Paige recap the crazy year of 2022 wit
 ---
 
 <div>
-{% include transistor.html id="419ec368" title="#501 What happened in 2022" %}
+{% include_relative ../../_includes/transistor.html id="419ec368" title="#501 What happened in 2022" %}
 
-{% include youtube.html id="SXh-J6HcCSI" %}
+{% include_relative ../../_includes/youtube.html id="SXh-J6HcCSI" %}
 </div>
 
 ---

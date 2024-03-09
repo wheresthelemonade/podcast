@@ -21,9 +21,9 @@ description: "Darren & Paige look at how kindness or lack thereof can shape a ma
 ---
 
 <div>
-{% include transistor.html id="b0a4c418" title="#310 #3.10 Kindness in Marriage" %}
+{% include_relative ../../_includes/transistor.html id="b0a4c418" title="#310 #3.10 Kindness in Marriage" %}
 
-{% include youtube.html id="tu_jdGbdAB4" %}
+{% include_relative ../../_includes/youtube.html id="tu_jdGbdAB4" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "It has been six months since our last episode. Where have we been?
 ---
 
 <div>
-{% include transistor.html id="50d93547" title="#41 #4.1 We're Back!! Kick off to 2022 " %}
+{% include_relative ../../_includes/transistor.html id="50d93547" title="#41 #4.1 We're Back!! Kick off to 2022 " %}
 
-{% include youtube.html id="ViaUTZemVqE" %}
+{% include_relative ../../_includes/youtube.html id="ViaUTZemVqE" %}
 </div>
 
 ---

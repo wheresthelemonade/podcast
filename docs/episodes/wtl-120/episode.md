@@ -21,9 +21,9 @@ description: "Triggers exist from previous marriages, childhood trauma and just 
 ---
 
 <div>
-{% include transistor.html id="61c4386f" title="#120 #1.20 Triggers, How to Avoid and Deal with Them" %}
+{% include_relative ../../_includes/transistor.html id="61c4386f" title="#120 #1.20 Triggers, How to Avoid and Deal with Them" %}
 
-{% include youtube.html id="sv9kE5mWrSM" %}
+{% include_relative ../../_includes/youtube.html id="sv9kE5mWrSM" %}
 </div>
 
 ---

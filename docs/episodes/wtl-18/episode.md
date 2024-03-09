@@ -21,9 +21,9 @@ description: "Transparency in Marriage is a hot topic in social media right now.
 ---
 
 <div>
-{% include transistor.html id="c9a560b6" title="#18 #1.8 Transparency or Privacy in Marriage" %}
+{% include_relative ../../_includes/transistor.html id="c9a560b6" title="#18 #1.8 Transparency or Privacy in Marriage" %}
 
-{% include youtube.html id="IdNJGgt14Rg" %}
+{% include_relative ../../_includes/youtube.html id="IdNJGgt14Rg" %}
 </div>
 
 ---

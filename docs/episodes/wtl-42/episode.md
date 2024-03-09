@@ -21,9 +21,9 @@ description: "Are you effectively communicating your expectations to your spouse
 ---
 
 <div>
-{% include transistor.html id="a892cedb" title="#42 #4.2 Expectations in Marriage: What to do with them" %}
+{% include_relative ../../_includes/transistor.html id="a892cedb" title="#42 #4.2 Expectations in Marriage: What to do with them" %}
 
-{% include youtube.html id="yv4XpEVnuJk" %}
+{% include_relative ../../_includes/youtube.html id="yv4XpEVnuJk" %}
 </div>
 
 ---

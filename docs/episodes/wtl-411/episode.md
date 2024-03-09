@@ -21,9 +21,9 @@ description: "Darren and Paige had a different podcast subject planned for today
 ---
 
 <div>
-{% include transistor.html id="f2b82f90" title="#411 #4.11 Why is Mother's Day so hard??" %}
+{% include_relative ../../_includes/transistor.html id="f2b82f90" title="#411 #4.11 Why is Mother's Day so hard??" %}
 
-{% include youtube.html id="JwkYDbY2zeY" %}
+{% include_relative ../../_includes/youtube.html id="JwkYDbY2zeY" %}
 </div>
 
 ---

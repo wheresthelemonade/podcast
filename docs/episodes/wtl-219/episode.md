@@ -21,9 +21,9 @@ description: "In this episode, Darren and Paige discuss how things in a marriage
 ---
 
 <div>
-{% include transistor.html id="d6d09685" title="#219 #2.19 Unity not Equality in Marriage" %}
+{% include_relative ../../_includes/transistor.html id="d6d09685" title="#219 #2.19 Unity not Equality in Marriage" %}
 
-{% include youtube.html id="LpQQEF0l27s" %}
+{% include_relative ../../_includes/youtube.html id="LpQQEF0l27s" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "On today's episode Darren & Paige talk about their excursion into 
 ---
 
 <div>
-{% include transistor.html id="7a39f1d8" title="#47 #4.7 K-Drama" %}
+{% include_relative ../../_includes/transistor.html id="7a39f1d8" title="#47 #4.7 K-Drama" %}
 
-{% include youtube.html id="hPWQCIW6N3c" %}
+{% include_relative ../../_includes/youtube.html id="hPWQCIW6N3c" %}
 </div>
 
 ---
