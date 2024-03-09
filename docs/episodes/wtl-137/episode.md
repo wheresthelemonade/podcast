@@ -21,9 +21,9 @@ description: "Divorce can bring out the worst in people. Competition between ex(
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="d37cfe62" title="#137 #1.37 Competing with your Ex to be the Favorite" %}
+{% include_relative _includes/_includes/transistor.html id="d37cfe62" title="#137 #1.37 Competing with your Ex to be the Favorite" %}
 
-{% include_relative ../../_includes/youtube.html id="gSmgcguB0Kc" %}
+{% include_relative _includes/_includes/youtube.html id="gSmgcguB0Kc" %}
 </div>
 
 ---

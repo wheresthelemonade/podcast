@@ -21,9 +21,9 @@ description: "Nine years ago when we got married we had the perfect vision of bl
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="b88fc3ef" title="#212 #2.12 Feeling like Multiple Families" %}
+{% include_relative _includes/_includes/transistor.html id="b88fc3ef" title="#212 #2.12 Feeling like Multiple Families" %}
 
-{% include_relative ../../_includes/youtube.html id="r2NMTi7mvVw" %}
+{% include_relative _includes/_includes/youtube.html id="r2NMTi7mvVw" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: " When a relationship is new, you see the world through rose-color
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="d3212c05" title="#507 Let's Stay in Love" %}
+{% include_relative _includes/_includes/transistor.html id="d3212c05" title="#507 Let's Stay in Love" %}
 
-{% include_relative ../../_includes/youtube.html id="BdWlV4MFREM" %}
+{% include_relative _includes/_includes/youtube.html id="BdWlV4MFREM" %}
 </div>
 
 ---

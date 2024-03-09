@@ -21,9 +21,9 @@ description: "In this episode, Darren talks to three of his kids about what it i
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="b928c6cb" title="#44 #4.4 Living in Two Households" %}
+{% include_relative _includes/_includes/transistor.html id="b928c6cb" title="#44 #4.4 Living in Two Households" %}
 
-{% include_relative ../../_includes/youtube.html id="MIBHpAjpTYc" %}
+{% include_relative _includes/_includes/youtube.html id="MIBHpAjpTYc" %}
 </div>
 
 ---

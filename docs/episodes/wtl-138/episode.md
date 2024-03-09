@@ -21,9 +21,9 @@ description: "In this episode find out how gratitude helps fight depression and 
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="94cd008d" title="#138 #1.38 An Attitude of Gratitude" %}
+{% include_relative _includes/_includes/transistor.html id="94cd008d" title="#138 #1.38 An Attitude of Gratitude" %}
 
-{% include_relative ../../_includes/youtube.html id="CrA79VrkObQ" %}
+{% include_relative _includes/_includes/youtube.html id="CrA79VrkObQ" %}
 </div>
 
 ---

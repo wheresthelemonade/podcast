@@ -21,9 +21,9 @@ description: "Darren and Paige spend a week away from the world with the family.
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="511a586d" title="#216 #2.16 Taking a Break from COVID" %}
+{% include_relative _includes/_includes/transistor.html id="511a586d" title="#216 #2.16 Taking a Break from COVID" %}
 
-{% include_relative ../../_includes/youtube.html id="kHDAAWwvcFM" %}
+{% include_relative _includes/_includes/youtube.html id="kHDAAWwvcFM" %}
 </div>
 
 ---

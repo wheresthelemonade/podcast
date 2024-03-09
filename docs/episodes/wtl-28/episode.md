@@ -21,9 +21,9 @@ description: "Money and kids can be hard in any family. When you throw two famil
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="295f48fd" title="#28 #2.8 Money, Kids and Blending Families" %}
+{% include_relative _includes/_includes/transistor.html id="295f48fd" title="#28 #2.8 Money, Kids and Blending Families" %}
 
-{% include_relative ../../_includes/youtube.html id="awURPqPjMxU" %}
+{% include_relative _includes/_includes/youtube.html id="awURPqPjMxU" %}
 </div>
 
 ---

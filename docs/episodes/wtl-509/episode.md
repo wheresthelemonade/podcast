@@ -21,9 +21,9 @@ description: "Let's start with a frequently asked question in divorced household
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="5c3cd73f" title="#509 Two Households, Two Sets of Rules" %}
+{% include_relative _includes/_includes/transistor.html id="5c3cd73f" title="#509 Two Households, Two Sets of Rules" %}
 
-{% include_relative ../../_includes/youtube.html id="Fp9S03zZ3dY" %}
+{% include_relative _includes/_includes/youtube.html id="Fp9S03zZ3dY" %}
 </div>
 
 ---

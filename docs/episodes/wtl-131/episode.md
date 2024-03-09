@@ -21,9 +21,9 @@ description: "Find out how Darren & Paige handle Middle Schoolers that are going
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="c95e7caf" title="#131 #1.31 Surviving Middle School Kids in a Blended Family" %}
+{% include_relative _includes/_includes/transistor.html id="c95e7caf" title="#131 #1.31 Surviving Middle School Kids in a Blended Family" %}
 
-{% include_relative ../../_includes/youtube.html id="5AL-DaadCe4" %}
+{% include_relative _includes/_includes/youtube.html id="5AL-DaadCe4" %}
 </div>
 
 ---

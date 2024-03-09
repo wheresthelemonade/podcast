@@ -21,9 +21,9 @@ description: "In this episode, we talk about the key things that you can do to d
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="abf6dde5" title="#27 #2.7 How to Destroy Your Marriage" %}
+{% include_relative _includes/_includes/transistor.html id="abf6dde5" title="#27 #2.7 How to Destroy Your Marriage" %}
 
-{% include_relative ../../_includes/youtube.html id="0ab4e6yO7CA" %}
+{% include_relative _includes/_includes/youtube.html id="0ab4e6yO7CA" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "Your history has a profound effect on who you are. When you are in
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="0fa3964b" title="#113 #1.13 You Previous Life in your current marriage" %}
+{% include_relative _includes/_includes/transistor.html id="0fa3964b" title="#113 #1.13 You Previous Life in your current marriage" %}
 
-{% include_relative ../../_includes/youtube.html id="xqjulFRKreA" %}
+{% include_relative _includes/_includes/youtube.html id="xqjulFRKreA" %}
 </div>
 
 ---

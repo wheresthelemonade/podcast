@@ -21,9 +21,9 @@ description: "Have you ever wondered why Valentine's Day is so stressful? We can
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="c4efaffd" title="#36 #3.6 Valentine's Day Reboot" %}
+{% include_relative _includes/_includes/transistor.html id="c4efaffd" title="#36 #3.6 Valentine's Day Reboot" %}
 
-{% include_relative ../../_includes/youtube.html id="-lBAjYzokH8" %}
+{% include_relative _includes/_includes/youtube.html id="-lBAjYzokH8" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "Darren and Paige have been thinking a lot about 2023. There is so 
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="409493f0" title="#502 Coping with Uncertainty" %}
+{% include_relative _includes/_includes/transistor.html id="409493f0" title="#502 Coping with Uncertainty" %}
 
-{% include_relative ../../_includes/youtube.html id="cLdGy1gx1EM" %}
+{% include_relative _includes/_includes/youtube.html id="cLdGy1gx1EM" %}
 </div>
 
 ---

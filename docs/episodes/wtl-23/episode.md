@@ -21,9 +21,9 @@ description: "After years of marriage, our date night consisted of finding a rom
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="7b68e4eb" title="#23 #2.3 Dating your Spouse" %}
+{% include_relative _includes/_includes/transistor.html id="7b68e4eb" title="#23 #2.3 Dating your Spouse" %}
 
-{% include_relative ../../_includes/youtube.html id="GcrqHF8PA8Y" %}
+{% include_relative _includes/_includes/youtube.html id="GcrqHF8PA8Y" %}
 </div>
 
 ---

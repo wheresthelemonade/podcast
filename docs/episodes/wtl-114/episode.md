@@ -21,9 +21,9 @@ description: "Sandwiches might have nothing to do with treating kids as individu
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="132ac186" title="#114 #1.14 Sandwiches (Mustard/Mayo) - Making kids feel special in a Large Family" %}
+{% include_relative _includes/_includes/transistor.html id="132ac186" title="#114 #1.14 Sandwiches (Mustard/Mayo) - Making kids feel special in a Large Family" %}
 
-{% include_relative ../../_includes/youtube.html id="Qi4JqSb5D-8" %}
+{% include_relative _includes/_includes/youtube.html id="Qi4JqSb5D-8" %}
 </div>
 
 ---

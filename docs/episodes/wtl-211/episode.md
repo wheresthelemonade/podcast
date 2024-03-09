@@ -21,9 +21,9 @@ description: "We have noticed an uptick on blended families have issues in their
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="77ee5869" title="#211 #2.11 Episode 2:11- Dealing with Stress (Covid-19 Week 3)" %}
+{% include_relative _includes/_includes/transistor.html id="77ee5869" title="#211 #2.11 Episode 2:11- Dealing with Stress (Covid-19 Week 3)" %}
 
-{% include_relative ../../_includes/youtube.html id="3YTIYG4YuvA" %}
+{% include_relative _includes/_includes/youtube.html id="3YTIYG4YuvA" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "Darren & Paige, the hosts of Where's the Lemonade? recently sparke
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="dece9dc4" title="#513 #5.13 How Young is too Young to Leave Your Kids Alone? " %}
+{% include_relative _includes/_includes/transistor.html id="dece9dc4" title="#513 #5.13 How Young is too Young to Leave Your Kids Alone? " %}
 
-{% include_relative ../../_includes/youtube.html id="jX3rXMWnbm0" %}
+{% include_relative _includes/_includes/youtube.html id="jX3rXMWnbm0" %}
 </div>
 
 ---

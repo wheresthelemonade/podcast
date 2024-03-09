@@ -21,9 +21,9 @@ description: "In this episode we revisit traditions. We start questioning some o
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="686fb9c6" title="#37 #3.7 (Don't) Die hard in Traditions" %}
+{% include_relative _includes/_includes/transistor.html id="686fb9c6" title="#37 #3.7 (Don't) Die hard in Traditions" %}
 
-{% include_relative ../../_includes/youtube.html id="lUidqr5-w4k" %}
+{% include_relative _includes/_includes/youtube.html id="lUidqr5-w4k" %}
 </div>
 
 ---

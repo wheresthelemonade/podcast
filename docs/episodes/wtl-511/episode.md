@@ -21,9 +21,9 @@ description: "Darren and Paige have heard about Nacho parenting and always thoug
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="1554fbd5" title="#511 #5.11 Nacho Parenting" %}
+{% include_relative _includes/_includes/transistor.html id="1554fbd5" title="#511 #5.11 Nacho Parenting" %}
 
-{% include_relative ../../_includes/youtube.html id="nenKkZ0JK7E" %}
+{% include_relative _includes/_includes/youtube.html id="nenKkZ0JK7E" %}
 </div>
 
 ---

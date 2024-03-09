@@ -21,9 +21,9 @@ description: "Does your spouse spend too much time on the phone with their Ex? D
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="b6eb5e99" title="#311 #3.11 The Over Communicative Ex" %}
+{% include_relative _includes/_includes/transistor.html id="b6eb5e99" title="#311 #3.11 The Over Communicative Ex" %}
 
-{% include_relative ../../_includes/youtube.html id="qARAp7nbK1g" %}
+{% include_relative _includes/_includes/youtube.html id="qARAp7nbK1g" %}
 </div>
 
 ---

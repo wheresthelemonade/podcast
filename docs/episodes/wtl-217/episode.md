@@ -21,9 +21,9 @@ description: "Find out how to throw a COVID-19 wedding when children of a blende
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="c7441ca7" title="#217 #2.17 When Kids get Married in a Blended Family" %}
+{% include_relative _includes/_includes/transistor.html id="c7441ca7" title="#217 #2.17 When Kids get Married in a Blended Family" %}
 
-{% include_relative ../../_includes/youtube.html id="e-R-uQX5T6g" %}
+{% include_relative _includes/_includes/youtube.html id="e-R-uQX5T6g" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "In this episode learn why it is important to take time to frequent
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="bbbb125b" title="#134 #1.34 Retrospective on 8 years of Blending families" %}
+{% include_relative _includes/_includes/transistor.html id="bbbb125b" title="#134 #1.34 Retrospective on 8 years of Blending families" %}
 
-{% include_relative ../../_includes/youtube.html id="kMU9wcARY2A" %}
+{% include_relative _includes/_includes/youtube.html id="kMU9wcARY2A" %}
 </div>
 
 ---

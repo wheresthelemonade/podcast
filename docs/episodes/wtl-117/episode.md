@@ -21,9 +21,9 @@ description: "Are you having a hard time figuring out custody schedules with you
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="681b5c14" title="#117 #1.17 Custody Scheduling Nightmares and Successes" %}
+{% include_relative _includes/_includes/transistor.html id="681b5c14" title="#117 #1.17 Custody Scheduling Nightmares and Successes" %}
 
-{% include_relative ../../_includes/youtube.html id="RXZOL3pgEYQ" %}
+{% include_relative _includes/_includes/youtube.html id="RXZOL3pgEYQ" %}
 </div>
 
 ---

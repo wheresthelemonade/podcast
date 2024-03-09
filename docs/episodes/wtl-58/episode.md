@@ -21,9 +21,9 @@ description: "March 2020 was the beginning of a new reality for most of us—kid
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="9541de42" title="#58 #5.8 Spending Too Much Time Together" %}
+{% include_relative _includes/_includes/transistor.html id="9541de42" title="#58 #5.8 Spending Too Much Time Together" %}
 
-{% include_relative ../../_includes/youtube.html id="WLTy4KJZsUc" %}
+{% include_relative _includes/_includes/youtube.html id="WLTy4KJZsUc" %}
 </div>
 
 ---

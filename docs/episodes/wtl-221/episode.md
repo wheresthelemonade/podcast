@@ -21,9 +21,9 @@ description: "In this episode, Darren & Paige try to figure out how to keep thin
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="a54d2a7e" title="#221 #2.21 Even Stevens in a Blended Family" %}
+{% include_relative _includes/_includes/transistor.html id="a54d2a7e" title="#221 #2.21 Even Stevens in a Blended Family" %}
 
-{% include_relative ../../_includes/youtube.html id="_TSANmN2IG4" %}
+{% include_relative _includes/_includes/youtube.html id="_TSANmN2IG4" %}
 </div>
 
 ---

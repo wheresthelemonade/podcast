@@ -21,9 +21,9 @@ description: "Paige went to Education Week and attended several marriage relatio
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="d1d3f4ba" title="#128 #1.28 Identifying and Avoiding Toxic Behavior" %}
+{% include_relative _includes/_includes/transistor.html id="d1d3f4ba" title="#128 #1.28 Identifying and Avoiding Toxic Behavior" %}
 
-{% include_relative ../../_includes/youtube.html id="qrA8CbPJbJc" %}
+{% include_relative _includes/_includes/youtube.html id="qrA8CbPJbJc" %}
 </div>
 
 ---

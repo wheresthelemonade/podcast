@@ -21,9 +21,9 @@ description: "Time apart can be hard and taxing on a marriage. But there are man
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="a22def73" title="#126 #1.26 Protecting Your Marriage when You're Apart" %}
+{% include_relative _includes/_includes/transistor.html id="a22def73" title="#126 #1.26 Protecting Your Marriage when You're Apart" %}
 
-{% include_relative ../../_includes/youtube.html id="4z9Eo-rHRcM" %}
+{% include_relative _includes/_includes/youtube.html id="4z9Eo-rHRcM" %}
 </div>
 
 ---

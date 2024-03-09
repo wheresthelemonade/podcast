@@ -21,9 +21,9 @@ description: "Darren & Paige are in Portugal for a week away from work and kids,
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="3f799804" title="#415 #4.15 What Not To Do When you Travel" %}
+{% include_relative _includes/_includes/transistor.html id="3f799804" title="#415 #4.15 What Not To Do When you Travel" %}
 
-{% include_relative ../../_includes/youtube.html id="kn5ArQJO5zc" %}
+{% include_relative _includes/_includes/youtube.html id="kn5ArQJO5zc" %}
 </div>
 
 ---

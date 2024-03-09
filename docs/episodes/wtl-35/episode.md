@@ -21,9 +21,9 @@ description: "Disneyland Dad Syndrome is real and affects blended families every
 ---
 
 <div>
-{% include_relative ../../_includes/transistor.html id="10381e03" title="#35 #3.5 Disneyland Dad Syndrome " %}
+{% include_relative _includes/_includes/transistor.html id="10381e03" title="#35 #3.5 Disneyland Dad Syndrome " %}
 
-{% include_relative ../../_includes/youtube.html id="wglBweG0E7E" %}
+{% include_relative _includes/_includes/youtube.html id="wglBweG0E7E" %}
 </div>
 
 ---
