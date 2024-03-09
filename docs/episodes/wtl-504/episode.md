@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "The Horrible First Year Revisited"
+title: "#5.4 The Horrible First Year Revisited"
 number: 504
 permalink: episode-WTL504
 lang: en
@@ -13,38 +13,25 @@ guests:
     - Darren W Pulsipher
     - Paige Pulsipher
 
-img: 
-image: 
-summary: "The first year of blending families can be pretty tricky and downright horrible. In this episode, we talk about the challenges of throwing two families together and how we dealt with the obstacles we ran into.Listen to this EpisodeLove does not conquer all.For those of you that think everything has been rosy. It has not.This has brought up some tension and memories of the hard times. Sacramento Airport.We were naive enough that we thought love would be able to handle all of the problems we faced. That helped but was not enough.Everything was hard.Meshing kids. We had two 16-year-olds that were completely different from different kinds of friends. One very social and another not very social at all. You cannot force them to be friends; they don’t want to be. Now they are excellent friends.Meshing rules. Is there a double standard for some of the kids? Or is everything the same?Meshing discipline. Understanding boundaries with stepkids was rigid. Older kids and younger kids.Expectations for a clean house.  Darren’s idea of cleaning is picked up. Not clean. Paige wanted things cleaned.Logistics of a blended familyMovingLogistics. What to keep, what to throw out? Where do we fit everything? Two households crammed into one place.Moving kids from schools, friends, and church. Etc.Paige and the kids are trying to overcome feeling like guests in the house.Finances were hardFood was hard, what to cook, what did kids like, what did they not like. How much to cook?Going to church in the same congregation as Darren’s Ex-WifeWhose friends are whose? Who can I talk to? Who do I vent to, etc.?Going out to dinner was a challenge. Soda or water? Why was it contentious?Remember your kids in the changesKids have such little control over the situation, so they want some control over it. Mountain Dew (Jake), Jacob with his long hair.The kids need to feel like they have some control and some say. Marriage counseling and other help got us through it.Marriage Counseling was a big win for us.The night we got engaged was our first counseling session.Consistently working with a counselor allowed us to establish communication patterns faster. Something we needed to navigate all of the stuff we brought with us. Kids, Exes, jobs, debt, etc.Empathy – Get in the trenches with each other. Instead of getting upset with what they are feeling, try to understand it. And why they are feeling that.Give your spouse the benefit of the doubt. Assume the best first.Don’t find fault with your spouse; you will find it.Communication, laughter, alone time, intimacy, not wanting to fail.Lemonade Moment of the WeekDarren and Paige head to Las Vegas, to catch some shows and brave the strip with all the craziness."
+img: thumbnail.jpg
+image: thumbnail.jpg
+summary: "The first year of blending families can be pretty tricky and downright horrible. In this episode, we talk about the challenges of throwing two families together and how we dealt with the obstacles we ran into."
 video: "https://youtu.be/CVzeIRQcXjM"
-description: "The first year of blending families can be pretty tricky and downright horrible. In this episode, we talk about the challenges of throwing two families together and how we dealt with the obstacles we ran into.Listen to this EpisodeLove does not conquer all.For those of you that think everything has been rosy. It has not.This has brought up some tension and memories of the hard times. Sacramento Airport.We were naive enough that we thought love would be able to handle all of the problems we faced. That helped but was not enough.Everything was hard.Meshing kids. We had two 16-year-olds that were completely different from different kinds of friends. One very social and another not very social at all. You cannot force them to be friends; they don’t want to be. Now they are excellent friends.Meshing rules. Is there a double standard for some of the kids? Or is everything the same?Meshing discipline. Understanding boundaries with stepkids was rigid. Older kids and younger kids.Expectations for a clean house.  Darren’s idea of cleaning is picked up. Not clean. Paige wanted things cleaned.Logistics of a blended familyMovingLogistics. What to keep, what to throw out? Where do we fit everything? Two households crammed into one place.Moving kids from schools, friends, and church. Etc.Paige and the kids are trying to overcome feeling like guests in the house.Finances were hardFood was hard, what to cook, what did kids like, what did they not like. How much to cook?Going to church in the same congregation as Darren’s Ex-WifeWhose friends are whose? Who can I talk to? Who do I vent to, etc.?Going out to dinner was a challenge. Soda or water? Why was it contentious?Remember your kids in the changesKids have such little control over the situation, so they want some control over it. Mountain Dew (Jake), Jacob with his long hair.The kids need to feel like they have some control and some say. Marriage counseling and other help got us through it.Marriage Counseling was a big win for us.The night we got engaged was our first counseling session.Consistently working with a counselor allowed us to establish communication patterns faster. Something we needed to navigate all of the stuff we brought with us. Kids, Exes, jobs, debt, etc.Empathy – Get in the trenches with each other. Instead of getting upset with what they are feeling, try to understand it. And why they are feeling that.Give your spouse the benefit of the doubt. Assume the best first.Don’t find fault with your spouse; you will find it.Communication, laughter, alone time, intimacy, not wanting to fail.Lemonade Moment of the WeekDarren and Paige head to Las Vegas, to catch some shows and brave the strip with all the craziness."
+description: "The first year of blending families can be pretty tricky and downright horrible. In this episode, we talk about the challenges of throwing two families together and how we dealt with the obstacles we ran into."
 ---
 
 <div>
-{% include transistor.html id="58f053ce" title="#504 The Horrible First Year Revisited" %}
+{% include transistor.html id="58f053ce" title="#504 #5.4 The Horrible First Year Revisited" %}
 
 {% include youtube.html id="CVzeIRQcXjM" %}
 </div>
 
 ---
 
-Finding lemonade when life gives you lemons.
-
-The first year of blending families can be pretty tricky and downright horrible. In this episode, we talk about the challenges of throwing two families together and how we dealt with the obstacles we ran into.
-
-Love does not conquer all.
-
-Logistics of a blended family
-
-Marriage counseling and other help got us through it.
-
-Lemonade Moment of the WeekDarren and Paige head to Las Vegas, to catch some shows and brave the strip with all the craziness.
-
-darrenpulsipher
-
-Blog at WordPress.com.
-
-
+<html><head></head><body><div>The first year of blending families can be pretty tricky and downright horrible. In this episode, we talk about the challenges of throwing two families together and how we dealt with the obstacles we ran into.</div><div>Listen to this Episode</div><div><br></div><div><strong>Love does not conquer all.</strong></div><ul><li>For those of you that think everything has been rosy. It has not.</li><li>This has brought up some tension and memories of the hard times. Sacramento Airport.</li><li>We were naive enough that we thought love would be able to handle all of the problems we faced. That helped but was not enough.</li><li>Everything was hard.<ul><li>Meshing kids. We had two 16-year-olds that were completely different from different kinds of friends. One very social and another not very social at all. You cannot force them to be friends; they don’t want to be. Now they are excellent friends.</li><li>Meshing rules. Is there a double standard for some of the kids? Or is everything the same?</li><li>Meshing discipline. Understanding boundaries with stepkids was rigid. Older kids and younger kids.</li><li>Expectations for a clean house.&nbsp; Darren’s idea of cleaning is picked up. Not clean. Paige wanted things cleaned.</li></ul></li></ul><div><strong>Logistics of a blended family</strong></div><ul><li>Moving<ul><li>Logistics. What to keep, what to throw out? Where do we fit everything? Two households crammed into one place.</li><li>Moving kids from schools, friends, and church. Etc.</li><li>Paige and the kids are trying to overcome feeling like guests in the house.</li></ul></li><li>Finances were hard<ul><li>Food was hard, what to cook, what did kids like, what did they not like. How much to cook?</li></ul></li><li>Going to church in the same congregation as Darren’s Ex-Wife<ul><li>Whose friends are whose?&nbsp;</li><li>Who can I talk to?&nbsp;</li><li>Who do I vent to, etc.?</li></ul></li><li>Going out to dinner was a challenge. Soda or water? Why was it contentious?</li><li>Remember your kids in the changes<ul><li>Kids have such little control over the situation, so they want some control over it. Mountain Dew (Jake), Jacob with his long hair.</li><li>The kids need to feel like they have some control and some say.&nbsp;</li></ul></li></ul><div><strong>Marriage counseling and other help got us through it.</strong></div><ul><li>Marriage Counseling was a big win for us.</li><li>The night we got engaged was our first counseling session.</li><li>Consistently working with a counselor allowed us to establish communication patterns faster. Something we needed to navigate all of the stuff we brought with us. Kids, Exes, jobs, debt, etc.</li><li>Empathy – Get in the trenches with each other. Instead of getting upset with what they are feeling, try to understand it. And why they are feeling that.</li><li>Give your spouse the benefit of the doubt. Assume the best first.</li><li>Don’t find fault with your spouse; you will find it.</li><li>Communication, laughter, alone time, intimacy, not wanting to fail.</li></ul><div><br></div><div><strong>Lemonade Moment of the Week<br></strong>Darren and Paige head to Las Vegas, to catch some shows and brave the strip with all the craziness.</div>
+<strong>
+  <a href="https://www.patreon.com/wheresthelemonade" target="_donate" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong></body></html>
 
 <details>
 <summary> Podcast Transcript </summary>

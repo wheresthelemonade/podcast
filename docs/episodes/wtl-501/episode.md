@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "What happened in 2022"
+title: "#5.1 What happened in 2022"
 number: 501
 permalink: episode-WTL501
 lang: en
@@ -13,31 +13,25 @@ guests:
     - Darren W Pulsipher
     - Paige Pulsipher
 
-img: 
-image: 
+img: thumbnail.jpg
+image: thumbnail.jpg
 summary: "On this episode, Darren and Paige recap the crazy year of 2022 with major surgery, COVID, three college graduations, two weddings, and constantly changing travel schedules."
 video: "https://youtu.be/SXh-J6HcCSI"
 description: "On this episode, Darren and Paige recap the crazy year of 2022 with major surgery, COVID, three college graduations, two weddings, and constantly changing travel schedules."
 ---
 
 <div>
-{% include transistor.html id="419ec368" title="#501 What happened in 2022" %}
+{% include transistor.html id="419ec368" title="#501 #5.1 What happened in 2022" %}
 
 {% include youtube.html id="SXh-J6HcCSI" %}
 </div>
 
 ---
 
-Finding lemonade when life gives you lemons.
-
-We’re Back!!! 
-
-It has been a while since we have done a podcast, but we are getting back into the swing of things for 2023. It was a busy year! 4 of our kids got engaged in 2022!!! So fortunate to have all these new in-laws join our family. Let’s take a look at all the things that happened this year!! 
-
- A busy but wonderful year, minus Paige’s surgery. Looking forward to 2023!! 2 weddings and a family trip!!
-
-
-
+<html><head></head><body><div>We’re Back!!!</div><div>&nbsp;</div><div>It has been a while since we have done a podcast, but we are getting back into the swing of things for 2023.&nbsp;</div><div>&nbsp;</div><div>It was a busy year! 4 of our kids got engaged in 2022!!! So fortunate to have all these new in-laws join our family.&nbsp;</div><div>&nbsp;</div><div>Let's take a look at all the things that happened this year!!</div><div>&nbsp;</div><div>January – Darren and Paige went to Palm Springs for a short getaway. Super fun!</div><div>&nbsp;</div><div>February – Girls' trip with Ilene and Jill in Sedona and then a quick trip to Utah for Zoey’s birthday before Paige’s surgery!&nbsp;</div><div>&nbsp;</div><div>March – Quick trip to So Cal to see my mom, sister, Dallin and Alex while Darren had work meetings.&nbsp;</div><div>&nbsp;</div><div>April – Saw Journey and Toto! So fun!! Then off to Idaho for Andie and Jacobs's graduation, we were supposed to head to Brazil, but Darren got COVID. So instead, we stayed home; Paige got Covid too and went to Bodega Bay. Mid-April went to Utah for Julianne’s graduation.&nbsp;</div><div>&nbsp;</div><div>June – Portugal, baby!!! And another trip to Utah for Mitchell’s first birthday.</div><div>&nbsp;</div><div>July – We had lots of summer visitors, which we love!!</div><div>&nbsp;</div><div>August – Took the 3 amigos to San Francisco, Alcatraz and China town.</div><div>&nbsp;</div><div>September – Paige had a girls' trip to St George with our daughters. Joseph and His Amazing Technicolor Dreamcoat.&nbsp;</div><div>&nbsp;</div><div>October – 2 weddings!! Anna and Matthew in Atlanta worried about the rain, but it was a beautiful day. Then McKayli and Jake were married here in California. Worried about rain again, but ended up perfect.&nbsp;</div><div>&nbsp;</div><div>November – Footloose baby!!!! So fun seeing Sam in the play. Loved all the performances!! Then Thanksgiving week in Europe with Andie and Jacob. Wonderful trip.</div><div>&nbsp;</div><div>December – Trip to Utah to watch the grandkids and tortured Boyd when he asked permission to marry Julianne. Then Christmas fun!&nbsp;</div><div>&nbsp;</div><div>A busy but wonderful year, minus Paige’s surgery. Looking forward to 2023!! 2 weddings and a family trip!!</div>
+<strong>
+  <a href="https://www.patreon.com/wheresthelemonade" target="_donate" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong></body></html>
 
 <details>
 <summary> Podcast Transcript </summary>

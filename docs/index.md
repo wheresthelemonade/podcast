@@ -88,6 +88,7 @@ display: table;
 clear: both;
 }
 </style>
+{% include subscribe.html %}
 {% assign sortedEpisodes = site.pages | sort: 'nav_order' | reverse | where: 'layout', 'posts' | where: 'lang', 'en' |
 limit: 10 %}
 
@@ -97,7 +98,7 @@ limit: 10 %}
 <div style="display:flex;">
 <p class="episode">
     <img class="thumbnail" src="../{{ page.path | remove: page.name }}/{{ page.img }}" width="128" height="128">
-    <a href="{{ page.url }}">{{ page.number}} - {{ page.title }}</a><br>
+    <a href="{{ page.url }}">{{ page.title }}</a><br>
     {{ page.summary }}
 </p>
 </div>

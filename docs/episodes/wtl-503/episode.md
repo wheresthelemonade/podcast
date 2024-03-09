@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Why is our Marriage Boring????"
+title: "#5.3 Why is our Marriage Boring????"
 number: 503
 permalink: episode-WTL503
 lang: en
@@ -13,52 +13,25 @@ guests:
     - Darren W Pulsipher
     - Paige Pulsipher
 
-img: 
-image: 
+img: ./thumbnail.jpg
+image: ./thumbnail.jpg
 summary: "Paige approached Darren about a topic for the podcast. Monotony in marriage. He was a little shocked. Is our marriage boring? Is it too monotonous? Where has the excitement and fun gone??"
 video: "https://youtu.be/uN4wBBUh0As"
 description: "Paige approached Darren about a topic for the podcast. Monotony in marriage. He was a little shocked. Is our marriage boring? Is it too monotonous? Where has the excitement and fun gone??"
 ---
 
 <div>
-{% include transistor.html id="b0d68dc4" title="#503 Why is our Marriage Boring????" %}
+{% include transistor.html id="b0d68dc4" title="#503 #5.3 Why is our Marriage Boring????" %}
 
 {% include youtube.html id="uN4wBBUh0As" %}
 </div>
 
 ---
 
-Finding lemonade when life gives you lemons.
-
-
-
-The week after Christmas was boring…. saying.
-
-At the beginning of a marriage, everything feels new and exciting. You’ve got romantic date nights planned for weeks, and what may become future annoyances are just endearing little quirks that make you love your spouse even more. But unfortunately, that honeymoon stage won’t last forever. Eventually, things are going to simmer down, and you might even find yourself feeling, well, bored. You can start feeling that marriage is more like a routine than a relationship.
-
-Luckily, that feeling doesn’t mean your marriage is doomed. All it means is that you might need to devote more time and energy to making things exciting again. Let’s talk about what might be adding to the monotony of your marriage:
-
-It doesn’t have to be anything extravagant, but finding ways to surprise your spouse, whether a gift or a thoughtful act, can keep your marriage fresh. “What do you and your partner need to feel loved?” Make sure your surprises match their needs and personality.
-
-You need to share more with your partner, OR you are joined at the hip! You need to bond with your partner and be vulnerable. Sharing can be the exchange of information, emotions, and experiences. Try discussing some of your fav shared experiences. It will remind you of great times and give you ideas. On the other hand, you need to be your person. Couples who spend too much time together can quickly start to feel bored. Find new hobbies of your own and have experiences away from your spouse sometimes. Then share about those.
-
-Ok, people. Get off your phones!! This is for us as well. To avoid “phubbing,” institute some phone free time each day. Be present!!!
-
-We initially go through our romantic stage, but a few years in, that can start to ebb a little. You need to reinvent and rekindle your relationship constantly. Be more deliberate about giving your marriage the care and attention it deserves, even after the butterflies die.
-
-It’s pivotal to establish new goals to strive for. If not, you’re bound to feel unenthused about the future. Supporting and encouraging each other – whether solo or as a couple – increases love. “Happiness comes from moving toward what you want, not necessarily getting it.”
-
-Having a humdrum daily routine can make any relationship feel boring. Try new restaurants, new hobbies, and new places to visit. Get out of your comfort zone.
-
-There are a lot of other examples in the articles of why we are bored and how to alleviate the boredom. We will keep you posted on how we are doing.
-
-I enjoyed visiting family and grandkids. At my aunt’s 80th birthday party, I saw many cousins we hadn’t seen in a while. Fun dancing! Not boring!!
-
-darrenpulsipher
-
-Blog at WordPress.com.
-
-
+<html><head></head><body><div><br>The week after Christmas was boring…. saying.<br><br></div><div><br>At the beginning of a marriage, everything feels new and exciting. You've got romantic date nights planned for weeks, and what may become future annoyances are just endearing little quirks that make you love your spouse even more. But unfortunately, that honeymoon stage won't last forever. Eventually, things are going to simmer down, and you might even find yourself feeling, well, bored. You can start feeling that marriage is more like a routine than a relationship.<br><br></div><div><strong><br>Fighting the Monotony<br></strong><br></div><div><br>Luckily, that feeling doesn't mean your marriage is doomed. All it means is that you might need to devote more time and energy to making things exciting again. Let's talk about what might be adding to the monotony of your marriage:<br><br></div><div><strong><br>You don’t surprise each other.<br></strong><br></div><div><br>It doesn’t have to be anything extravagant, but finding ways to surprise your spouse, whether a gift or a thoughtful act, can keep your marriage fresh. “What do you and your partner need to feel loved?” Make sure your surprises match their needs and personality.<br><br></div><div><strong><br>Sharing too much or not enough.<br></strong><br></div><div><br>You need to share more with your partner, OR you are joined at the hip! You need to bond with your partner and be vulnerable. Sharing can be the exchange of information, emotions, and experiences. Try discussing some of your fav shared experiences. It will remind you of great times and give you ideas. On the other hand, you need to be your person. Couples who spend too much time together can quickly start to feel bored. Find new hobbies of your own and have experiences away from your spouse sometimes. Then share about those.<br><br></div><div><strong><br>Technology is consuming you.<br></strong><br></div><div><br>Ok, people. Get off your phones!! This is for us as well. To avoid “phubbing,” institute some phone free time each day. Be present!!!<br><br></div><div><strong><br>Your not putting energy into your relationship.<br></strong><br></div><div><br>We initially go through our romantic stage, but a few years in, that can start to ebb a little. You need to reinvent and rekindle your relationship constantly. Be more deliberate about giving your marriage the care and attention it deserves, even after the butterflies die.<br><br></div><div><strong><br>Your not setting goals for your relationship.<br></strong><br></div><div><br>It's pivotal to establish new goals to strive for. If not, you’re bound to feel unenthused about the future. Supporting and encouraging each other – whether solo or as a couple – increases love. “Happiness comes from moving toward what you want, not necessarily getting it.”<br><br></div><div><strong><br>We are too routine.<br></strong><br></div><div><br>Having a humdrum daily routine can make any relationship feel boring. Try new restaurants, new hobbies, and new places to visit. Get out of your comfort zone.<br><br></div><div><strong><br>Help available<br></strong><br></div><div><br>There are a lot of other examples in the articles of why we are bored and how to alleviate the boredom. We will keep you posted on how we are doing.<br><br></div><div><strong><br>Lemonade moment of the week<br></strong><br></div><div><br>I enjoyed visiting family and grandkids. At my aunt's 80th birthday party, I saw many cousins we hadn’t seen in a while. Fun dancing! Not boring!!<br><br></div><div><strong><br>Links this Week<br></strong><br></div><ul><li><a href="https://bestlifeonline.com/boring-marriage-tips/">Boring Marriage Tips</a></li><li><a href="https://www.startmarriageright.com/2016/03/marriage-monontony-reducing-relational-boredom">MARRIAGE MONOTONY: REDUCING RELATIONAL BOREDOM</a></li></ul>
+<strong>
+  <a href="https://www.patreon.com/wheresthelemonade" target="_donate" rel="payment" title="★ Support this podcast on Patreon ★">★ Support this podcast on Patreon ★</a>
+</strong></body></html>
 
 <details>
 <summary> Podcast Transcript </summary>
