@@ -21,9 +21,9 @@ description: "In this episode, we talk about setting and sticking to boundaries 
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="778d0717" title="#136 #1.36 Step Parent Boundries" %}
+{% include transistor.html id="778d0717" title="#136 #1.36 Step Parent Boundries" %}
 
-{% include_relative _includes/youtube.html id="iaP10n-kiW0" %}
+{% include youtube.html id="iaP10n-kiW0" %}
 </div>
 
 ---

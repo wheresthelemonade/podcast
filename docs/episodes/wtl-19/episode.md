@@ -21,9 +21,9 @@ description: "We thought the topic of depression and anxiety was important to co
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="2438cf8d" title="#19 #1.9 Working together thru Depression and Anxiety" %}
+{% include transistor.html id="2438cf8d" title="#19 #1.9 Working together thru Depression and Anxiety" %}
 
-{% include_relative _includes/youtube.html id="OskaGHS8n98" %}
+{% include youtube.html id="OskaGHS8n98" %}
 </div>
 
 ---

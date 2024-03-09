@@ -21,9 +21,9 @@ description: "In this episode find out how Darren & Paige handle the first week 
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="4e481580" title="#29 #2.9 Adjusting to Everyone at Home (Covid 19)" %}
+{% include transistor.html id="4e481580" title="#29 #2.9 Adjusting to Everyone at Home (Covid 19)" %}
 
-{% include_relative _includes/youtube.html id="SB1b9S3bYTM" %}
+{% include youtube.html id="SB1b9S3bYTM" %}
 </div>
 
 ---

@@ -23,9 +23,9 @@ description: "COVID-19 and the corresponding quarantine has brought out some int
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="903958a8" title="#214 #2.14 Fighting the Stereotypes of Divorce and Blended Families" %}
+{% include transistor.html id="903958a8" title="#214 #2.14 Fighting the Stereotypes of Divorce and Blended Families" %}
 
-{% include_relative _includes/youtube.html id="MOmVFbPNB68" %}
+{% include youtube.html id="MOmVFbPNB68" %}
 </div>
 
 ---

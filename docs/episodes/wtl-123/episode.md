@@ -21,9 +21,9 @@ description: "Right after a divorce is hard for everyone. You and your kids will
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="e043122a" title="#123 #1.23 Divorce Dog, Disneyland and Skydiving" %}
+{% include transistor.html id="e043122a" title="#123 #1.23 Divorce Dog, Disneyland and Skydiving" %}
 
-{% include_relative _includes/youtube.html id="" %}
+{% include youtube.html id="" %}
 </div>
 
 ---

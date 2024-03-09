@@ -21,9 +21,9 @@ description: "Is your marriage stuck in a rut??Darren and Paige have been talkin
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="413c4c61" title="#61 #6.1 We're back and we are not stuck in a rut, or are we?" %}
+{% include transistor.html id="413c4c61" title="#61 #6.1 We're back and we are not stuck in a rut, or are we?" %}
 
-{% include_relative _includes/youtube.html id="tu856ZK_XFM" %}
+{% include youtube.html id="tu856ZK_XFM" %}
 </div>
 
 ---

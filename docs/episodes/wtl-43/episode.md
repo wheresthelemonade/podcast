@@ -23,9 +23,9 @@ description: "How to be happy when my spouse is doing something fun without me??
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="0d539bdb" title="#43 #4.3 Stop Having Fun Without Me!" %}
+{% include transistor.html id="0d539bdb" title="#43 #4.3 Stop Having Fun Without Me!" %}
 
-{% include_relative _includes/youtube.html id="uYIxYuuo0S4" %}
+{% include youtube.html id="uYIxYuuo0S4" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "Paige approached Darren about a topic for the podcast. Monotony in
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="b0d68dc4" title="#53 #5.3 Why is our Marriage Boring????" %}
+{% include transistor.html id="b0d68dc4" title="#53 #5.3 Why is our Marriage Boring????" %}
 
-{% include_relative _includes/youtube.html id="uN4wBBUh0As" %}
+{% include youtube.html id="uN4wBBUh0As" %}
 </div>
 
 ---

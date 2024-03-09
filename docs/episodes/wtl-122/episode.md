@@ -21,9 +21,9 @@ description: "One of the worst days in our lives was telling our kids we were ge
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="d1139274" title="#122 #1.22 Preparing for the Worst Day of Your Life - Navigate Kids Through the Separation." %}
+{% include transistor.html id="d1139274" title="#122 #1.22 Preparing for the Worst Day of Your Life - Navigate Kids Through the Separation." %}
 
-{% include_relative _includes/youtube.html id="5HS48j-75Ok" %}
+{% include youtube.html id="5HS48j-75Ok" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "Decorating for the Holidays is a great tradition that turns a hous
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="5ed6e3db" title="#133 #1.33 Decorating for the Holidays with going Insane" %}
+{% include transistor.html id="5ed6e3db" title="#133 #1.33 Decorating for the Holidays with going Insane" %}
 
-{% include_relative _includes/youtube.html id="CkqaDV8RRoE" %}
+{% include youtube.html id="CkqaDV8RRoE" %}
 </div>
 
 ---

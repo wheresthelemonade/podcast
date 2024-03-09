@@ -21,9 +21,9 @@ description: "Does your ex-spouse communicate with you? Or is it just silence wh
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="6617b4e6" title="#39 #3.9 The Silent Ex Spouse" %}
+{% include transistor.html id="6617b4e6" title="#39 #3.9 The Silent Ex Spouse" %}
 
-{% include_relative _includes/youtube.html id="gsICBd48JhE" %}
+{% include youtube.html id="gsICBd48JhE" %}
 </div>
 
 ---

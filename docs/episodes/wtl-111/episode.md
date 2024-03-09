@@ -22,9 +22,9 @@ description: "Summary"
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="edt111" title="#111 Put the Title Right Here" %}
+{% include transistor.html id="edt111" title="#111 Put the Title Right Here" %}
 
-{% include_relative _includes/youtube.html id="url" %}
+{% include youtube.html id="url" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "Is there a magic secret to a happy marriage? If we are told to do 
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="6b85feaf" title="#412 #4.12 Success In Marriage" %}
+{% include transistor.html id="6b85feaf" title="#412 #4.12 Success In Marriage" %}
 
-{% include_relative _includes/youtube.html id="BVUoKIUlHEo" %}
+{% include youtube.html id="BVUoKIUlHEo" %}
 </div>
 
 ---

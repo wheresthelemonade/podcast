@@ -21,9 +21,9 @@ description: "Open communication is important to any relationship. Don't mistake
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="8d1914dc" title="#121 #1.21 Open Communication with your Spouse, Kids, and Exes" %}
+{% include transistor.html id="8d1914dc" title="#121 #1.21 Open Communication with your Spouse, Kids, and Exes" %}
 
-{% include_relative _includes/youtube.html id="otrM4UNu3OQ" %}
+{% include youtube.html id="otrM4UNu3OQ" %}
 </div>
 
 ---

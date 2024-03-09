@@ -21,9 +21,9 @@ description: "Valentine's Day is always a stressful time for people. Expectation
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="7b3e5265" title="#26 #2.6 Valentine's Day Expectations vs Reality" %}
+{% include transistor.html id="7b3e5265" title="#26 #2.6 Valentine's Day Expectations vs Reality" %}
 
-{% include_relative _includes/youtube.html id="_XxtlZnKdNU" %}
+{% include youtube.html id="_XxtlZnKdNU" %}
 </div>
 
 ---

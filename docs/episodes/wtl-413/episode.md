@@ -21,9 +21,9 @@ description: "Darren and Paige decided to tackle, should you blend these two fam
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="5768181c" title="#413 #4.13 Wise Considerations before Blending Families" %}
+{% include transistor.html id="5768181c" title="#413 #4.13 Wise Considerations before Blending Families" %}
 
-{% include_relative _includes/youtube.html id="y5YXO40Ayuc" %}
+{% include youtube.html id="y5YXO40Ayuc" %}
 </div>
 
 ---

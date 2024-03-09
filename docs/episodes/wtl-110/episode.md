@@ -21,9 +21,9 @@ description: "Family Heritage Roadtrips help give your kids a sense of belonging
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="93911496" title="#110 #1.10 Family Heritage Tour" %}
+{% include transistor.html id="93911496" title="#110 #1.10 Family Heritage Tour" %}
 
-{% include_relative _includes/youtube.html id="t5NeFH9F5EE" %}
+{% include youtube.html id="t5NeFH9F5EE" %}
 </div>
 
 ---

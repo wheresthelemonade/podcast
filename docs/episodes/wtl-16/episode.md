@@ -21,9 +21,9 @@ description: "The first year of blending families can be pretty difficult, downr
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="2527ba5b" title="#16 #1.6 The Horrible First Year - Overcoming obstacles when blending families" %}
+{% include transistor.html id="2527ba5b" title="#16 #1.6 The Horrible First Year - Overcoming obstacles when blending families" %}
 
-{% include_relative _includes/youtube.html id="hBfNz-qEX4Y" %}
+{% include youtube.html id="hBfNz-qEX4Y" %}
 </div>
 
 ---

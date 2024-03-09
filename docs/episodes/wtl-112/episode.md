@@ -21,9 +21,9 @@ description: "Every marriage includes different times when you have to compromis
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="adea2938" title="#112 #1.12 Compromise in Blended Families- Know when the hold'm, fold'm and walk away" %}
+{% include transistor.html id="adea2938" title="#112 #1.12 Compromise in Blended Families- Know when the hold'm, fold'm and walk away" %}
 
-{% include_relative _includes/youtube.html id="FOa7l_9IDo4" %}
+{% include youtube.html id="FOa7l_9IDo4" %}
 </div>
 
 ---

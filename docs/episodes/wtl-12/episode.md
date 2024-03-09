@@ -21,9 +21,9 @@ description: "Spending time as a couple (no kids) is very important when you are
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="4d190c86" title="#12 #1.2 Spending Time Alone (Together)" %}
+{% include transistor.html id="4d190c86" title="#12 #1.2 Spending Time Alone (Together)" %}
 
-{% include_relative _includes/youtube.html id="xfoXmBUQZ94" %}
+{% include youtube.html id="xfoXmBUQZ94" %}
 </div>
 
 ---

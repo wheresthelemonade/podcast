@@ -21,9 +21,9 @@ description: "Christmas is a wonderful time to reflect and give thanks. But it i
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="362e832e" title="#139 #1.39 Managing Christmas Stress" %}
+{% include transistor.html id="362e832e" title="#139 #1.39 Managing Christmas Stress" %}
 
-{% include_relative _includes/youtube.html id="_my3wrpjE0Q" %}
+{% include youtube.html id="_my3wrpjE0Q" %}
 </div>
 
 ---

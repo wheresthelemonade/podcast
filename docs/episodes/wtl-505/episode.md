@@ -21,9 +21,9 @@ description: " Are we saying the wrong things to our kids about the divorce??? 
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="c9a93a09" title="#505 Don't Say That!! Dumb Things We Say to Kids of Divorce" %}
+{% include transistor.html id="c9a93a09" title="#505 Don't Say That!! Dumb Things We Say to Kids of Divorce" %}
 
-{% include_relative _includes/youtube.html id="yH_7B3p7B9U" %}
+{% include youtube.html id="yH_7B3p7B9U" %}
 </div>
 
 ---

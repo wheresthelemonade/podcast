@@ -21,9 +21,9 @@ description: "We had to go to marriage counseling to resolve a problem that has 
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="5958c3aa" title="#24 #2.4 Using Counseling to Strengthen Your Marriage" %}
+{% include transistor.html id="5958c3aa" title="#24 #2.4 Using Counseling to Strengthen Your Marriage" %}
 
-{% include_relative _includes/youtube.html id="MVbfStn2zM0" %}
+{% include youtube.html id="MVbfStn2zM0" %}
 </div>
 
 ---

@@ -21,9 +21,9 @@ description: "This was a rough week for Paige & Darren, as Paige's mom is checke
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="323d17bf" title="#115 #1.15 From Bad to Worse. Still Found a Couple Lemon Squares" %}
+{% include transistor.html id="323d17bf" title="#115 #1.15 From Bad to Worse. Still Found a Couple Lemon Squares" %}
 
-{% include_relative _includes/youtube.html id="95UQ87tsksA" %}
+{% include youtube.html id="95UQ87tsksA" %}
 </div>
 
 ---

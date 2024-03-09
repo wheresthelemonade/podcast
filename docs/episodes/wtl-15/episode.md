@@ -21,9 +21,9 @@ description: "This episode is about surviving and maybe even enjoying, road trip
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="4e810f08" title="#15 #1.5 Family Road-trips survival of the fittest" %}
+{% include transistor.html id="4e810f08" title="#15 #1.5 Family Road-trips survival of the fittest" %}
 
-{% include_relative _includes/youtube.html id="Xvul4rv3RtI" %}
+{% include youtube.html id="Xvul4rv3RtI" %}
 </div>
 
 ---

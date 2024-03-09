@@ -21,9 +21,9 @@ description: "COVID-19 is starting to divide our nation and its families. Imagin
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="2170bdbd" title="#215 #2.15 COVID the Great Divide" %}
+{% include transistor.html id="2170bdbd" title="#215 #2.15 COVID the Great Divide" %}
 
-{% include_relative _includes/youtube.html id="o45UiA9ftXE" %}
+{% include youtube.html id="o45UiA9ftXE" %}
 </div>
 
 ---

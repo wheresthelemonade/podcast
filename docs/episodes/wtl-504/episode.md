@@ -21,9 +21,9 @@ description: "The first year of blending families can be pretty tricky and downr
 ---
 
 <div>
-{% include_relative _includes/transistor.html id="58f053ce" title="#504 The Horrible First Year Revisited" %}
+{% include transistor.html id="58f053ce" title="#504 The Horrible First Year Revisited" %}
 
-{% include_relative _includes/youtube.html id="CVzeIRQcXjM" %}
+{% include youtube.html id="CVzeIRQcXjM" %}
 </div>
 
 ---
