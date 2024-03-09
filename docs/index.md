@@ -1,8 +1,7 @@
 ---
 layout: default
-title: English
-nav_order: 2
-has_children: true
+title: Home
+nav_order: 1
 lang: en
 ---
 
@@ -41,25 +40,25 @@ They say when life gives you lemons you should make lemonade. Making lemonade is
 <div>
 <div class="collection">
   <div class="collection-item">
-    <a href="https://www.embracingdigital.org/travel.html">
+    <a href="./travel.html">
       <img src="./travel.jpg" width="128" height="128" alt="Travel">
     </a>
     Travel
   </div>
   <div class="collection-item">
-    <a href="https://www.embracingdigital.org/blending.html">
+    <a href="./blended.html">
       <img src="./blending.jpg" width="128" height="128" alt="Blending Families">
     </a>
     Blending Families
   </div>
   <div class="collection-item">
-    <a href="https://www.embracingdigital.org/relationships.html">
+    <a href="./relationships.html">
       <img src="./relationships.jpg" width="175" height="128" alt="Relationships">
     </a>
     Relationships
   </div>
   <div class="collection-item">
-    <a href="https://www.embracingdigital.org/collections/news.html">
+    <a href="./news.html">
       <img src="./news.jpg" width="175" height="128" alt="Curren Events">
     </a>
     Current Events

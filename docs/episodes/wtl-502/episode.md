@@ -7,6 +7,7 @@ lang: en
 nav_exclude: true
 nav_order: 502
 tags:
+    - news
 
 date: Tue Jan 24 2023 07:00:00 GMT-0800 (Pacific Standard Time)
 guests:

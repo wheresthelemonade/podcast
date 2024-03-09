@@ -5,9 +5,6 @@ description: {{page.summary}}
 author: darrenpulsipher
 tags: {{ page.tag }}
 tag: {{ page.tag }}
-parent: {{ page.parent }}
-grand_parent: {{ page.grand_parent }}
-lang: {{ page.lang }}
 image: {{ page.img }}
 ---
 
@@ -18,7 +15,7 @@ image: {{ page.img }}
 {{ content }}
 
 <h2>Episodes</h2>
-{% assign sortedEpisodes = site.pages | sort: 'nav_order' | reverse | where: 'layout', 'posts' | where: 'lang', page.lang %}
+{% assign sortedEpisodes = site.pages | sort: 'nav_order' | reverse | where: 'layout', 'posts' %}
 {% for spage in sortedEpisodes %}
 {% if spage.tags contains page.tag %}
 <div style="display: flex;">

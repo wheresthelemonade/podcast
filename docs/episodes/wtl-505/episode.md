@@ -7,6 +7,7 @@ lang: en
 nav_exclude: true
 nav_order: 505
 tags:
+    - blended
 
 date: Thu Feb 23 2023 07:16:21 GMT-0800 (Pacific Standard Time)
 guests:

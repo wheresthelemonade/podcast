@@ -7,6 +7,8 @@ lang: en
 nav_exclude: true
 nav_order: 501
 tags:
+    - news
+    - travel
 
 date: Tue Jan 17 2023 14:52:59 GMT-0800 (Pacific Standard Time)
 guests:
