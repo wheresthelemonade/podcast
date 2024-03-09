@@ -88,7 +88,7 @@ display: table;
 clear: both;
 }
 </style>
-{% include subscribe_posts.html %}
+{% include subscribe.html %}
 {% assign sortedEpisodes = site.pages | sort: 'nav_order' | reverse | where: 'layout', 'posts' | where: 'lang', 'en' |
 limit: 10 %}
 
