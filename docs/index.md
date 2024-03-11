@@ -5,8 +5,6 @@ nav_order: 1
 lang: en
 ---
 
-# Where's The Lemonade
-
 <style>
 .collection {
   display: flex;
@@ -32,6 +30,16 @@ lang: en
   height: auto;
 }
 </style>
+<div>
+<div class="collection" style="border: 0px;">
+  <div class="collection-item" style="border: 0px; width:75%; text-align: left;">
+<h1>Where's The Lemonade</h1>
+<h3> Finding lemonade when life gives you lemons.</h3>
+  </div>
+  <div class="collection-item" style="border: 0px;">
+    <img src='./logo.jpg' width="">
+  </div>
+</div>
 
 ![mainimage](./DarrenPaige.jpg)
 
