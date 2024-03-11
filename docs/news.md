@@ -6,9 +6,10 @@ tag: news
 summary: This is a collection of episodes focused on the hot topics of the day and how Darren & Paige navigate them.
 ---
 
-# Different Sides of Current Events
 
 ![news](./news.jpg)
+
+## Different Sides of Current Events
 
 On the "Where's the Lemonade" podcast, current events take center stage in a lively and engaging discussion, akin to
 sipping on a freshly squeezed lemonade while catching up with the world. Darren & Paige inject humor into their

@@ -6,9 +6,10 @@ tag: relationships
 summary: This is a collection of episodes focused on improving marriage relationships.
 ---
 
-# Improving Relationships
 
 ![relationships](./relationships.jpg)
+
+## Improving Relationships
 
 On the "Where's the Lemonade" podcast, improving relationships becomes a playful adventure, much like perfecting a
 lemonade recipe. Darren & Paige share humorous anecdotes about navigating the ups and downs of connections, adding a

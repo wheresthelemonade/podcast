@@ -6,9 +6,10 @@ tag: travel
 summary: This is a collection of episodes focused great adventures travelling near and far.
 ---
 
-# Exploring Travel
 
 ![travel](./travel.jpg)
+
+## Exploring Travel
 
 In the "Where's the Lemonade" podcast, the topic of travel is an exhilarating journey, likened to exploring different
 flavors in a global buffet. Darren & Paige share lively stories and quirky travel mishaps, turning the challenges of

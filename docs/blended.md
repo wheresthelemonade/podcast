@@ -6,9 +6,9 @@ lang: en
 tag: blended
 summary: This is a collection of episodes focused on blending families.
 ---
-# Managing Blended Families
-
 ![blending](./blending.jpg)
+
+## Managing Blended Families
 
 In the "Where's the Lemonade" podcast, blending families is explored with a delightful twist, akin to creating a
 smoothie with different ingredients. Darren & Paige joyfully share anecdotes about navigating the mix of personalities, 

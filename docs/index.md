@@ -34,7 +34,8 @@ lang: en
 <div class="collection" style="border: 0px;">
   <div class="collection-item" style="border: 0px; width:75%; text-align: left;">
 <h1>Where's The Lemonade</h1>
-<h3> Finding lemonade when life gives you lemons.</h3>
+<h3><i>Finding lemonade when life gives you lemons.</i></h3>
+<i>with Darren & Paige Pulsipher</i>
   </div>
   <div class="collection-item" style="border: 0px;">
     <img src='./logo.jpg' width="">
