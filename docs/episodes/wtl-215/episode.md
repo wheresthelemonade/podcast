@@ -7,6 +7,7 @@ parent: Episodes
 lang: en
 nav_order: 215
 tags:
+    - news
 
 date: Wed Jun 24 2020 08:00:00 GMT-0700 (Pacific Daylight Time)
 guests:

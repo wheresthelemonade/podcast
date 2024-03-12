@@ -7,6 +7,7 @@ parent: Episodes
 lang: en
 nav_order: 223
 tags:
+    - news
 
 date: Thu Jan 07 2021 11:02:59 GMT-0800 (Pacific Standard Time)
 guests:

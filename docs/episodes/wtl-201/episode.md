@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 201
 tags:
+    - blended
+    - news
 
 date: Wed Jan 08 2020 05:00:00 GMT-0800 (Pacific Standard Time)
 guests:

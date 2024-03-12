@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 301
 tags:
+    - news
+    - travel
 
 date: Thu Jan 07 2021 11:02:59 GMT-0800 (Pacific Standard Time)
 guests:

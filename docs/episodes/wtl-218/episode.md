@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 218
 tags:
+    - blended
+    - news
 
 date: Wed Sep 02 2020 08:10:21 GMT-0700 (Pacific Daylight Time)
 guests:

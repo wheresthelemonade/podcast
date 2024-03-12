@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 110
 tags:
+    - blended
+    - travel
 
 date: Wed Apr 24 2019 21:00:00 GMT-0700 (Pacific Daylight Time)
 guests:

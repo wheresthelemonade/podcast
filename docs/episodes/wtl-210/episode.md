@@ -7,6 +7,7 @@ parent: Episodes
 lang: en
 nav_order: 210
 tags:
+    - news
 
 date: Wed Apr 01 2020 06:00:00 GMT-0700 (Pacific Daylight Time)
 guests:

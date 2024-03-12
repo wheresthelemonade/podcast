@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 132
 tags:
+    - relationships
+    - travel
 
 date: Fri Oct 04 2019 09:00:00 GMT-0700 (Pacific Daylight Time)
 guests:

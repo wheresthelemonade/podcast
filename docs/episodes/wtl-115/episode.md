@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 115
 tags:
+    - news
+    - relationships
 
 date: Wed Jun 05 2019 07:00:00 GMT-0700 (Pacific Daylight Time)
 guests:

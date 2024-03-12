@@ -7,6 +7,7 @@ parent: Episodes
 lang: en
 nav_order: 119
 tags:
+    - travel
 
 date: Wed Jul 03 2019 07:00:00 GMT-0700 (Pacific Daylight Time)
 guests:

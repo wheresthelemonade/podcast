@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 216
 tags:
+    - news
+    - travel
 
 date: Thu Jul 02 2020 08:00:00 GMT-0700 (Pacific Daylight Time)
 guests:

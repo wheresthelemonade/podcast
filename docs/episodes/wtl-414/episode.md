@@ -7,6 +7,7 @@ parent: Episodes
 lang: en
 nav_order: 414
 tags:
+    - travel
 
 date: Sat Jun 04 2022 00:16:28 GMT-0700 (Pacific Daylight Time)
 guests:

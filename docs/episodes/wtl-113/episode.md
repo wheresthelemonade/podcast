@@ -1,12 +1,14 @@
 ---
 layout: posts
-title: "#1.13 You Previous Life in your current marriage"
+title: "#1.13 Your Previous Life in your current marriage"
 number: 113
 permalink: episode-WTL113
 parent: Episodes
 lang: en
 nav_order: 113
 tags:
+    - blended
+    - relationships
 
 date: Wed May 15 2019 07:00:00 GMT-0700 (Pacific Daylight Time)
 guests:
@@ -21,7 +23,7 @@ description: "Your history has a profound effect on who you are. When you are in
 ---
 
 <div>
-{% include transistor.html id="0fa3964b" title="#113 #1.13 You Previous Life in your current marriage" %}
+{% include transistor.html id="0fa3964b" title="#113 #1.13 Your Previous Life in your current marriage" %}
 
 {% include youtube.html id="xqjulFRKreA" %}
 </div>

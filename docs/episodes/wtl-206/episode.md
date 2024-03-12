@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 206
 tags:
+    - relationships
+    - news
 
 date: Wed Feb 12 2020 06:05:00 GMT-0800 (Pacific Standard Time)
 guests:

@@ -7,6 +7,8 @@ parent: Episodes
 lang: en
 nav_order: 130
 tags:
+    - news
+    - relationships
 
 date: Thu Sep 19 2019 17:00:00 GMT-0700 (Pacific Daylight Time)
 guests:
