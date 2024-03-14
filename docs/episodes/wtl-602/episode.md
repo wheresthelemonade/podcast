@@ -10,13 +10,13 @@ tags:
     - travel
     - news
 
-date: 
+date: Thu Mar 14 2024 00:00:00 GMT-0700 (Pacific Daylight Time)
 guests:
     - Darren W Pulsipher
     - Paige Pulsipher
 
-img: ./thumbnail.jpg
-image: ./thumbnail.jpg
+img: thumbnail.jpg
+image: thumbnail.jpg
 summary: "As Paige was searching for a current event to talk about this week, she kept seeing in the news and on social media the debate about plane etiquette. Even Paige and Darren disagree on some plane etiquette. Let’s delve into what the “rules” are for flying. "
 video: "https://youtu.be/k1YZXKxu8wY"
 description: "As Paige was searching for a current event to talk about this week, she kept seeing in the news and on social media the debate about plane etiquette. Even Paige and Darren disagree on some plane etiquette. Let’s delve into what the “rules” are for flying. "
