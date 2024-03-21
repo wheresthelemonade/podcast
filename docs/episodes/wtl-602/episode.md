@@ -23,7 +23,7 @@ description: "As Paige was searching for a current event to talk about this week
 ---
 
 <div>
-{% include transistor.html id="" title="#602 Plane Etiquette" %}
+{% include transistor.html id="e78a1ac7" title="#602 Plane Etiquette" %}
 
 {% include youtube.html id="k1YZXKxu8wY" %}
 </div>
