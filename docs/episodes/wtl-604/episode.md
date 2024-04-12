@@ -75,6 +75,15 @@ Navigating financial responsibilities toward grown-up children as co-parents req
 
  We went to Texas to see the total eclipse. The skies were covered in clouds, and we thought we were not going to see the eclipse after all. Then, the clouds parted just in time, and it was cloudy again right after the eclipse. We were ready to find lemonade even if we didn't see the eclipse. One cute baby made the trip-- totally worth it!
 
+![image1](./image1.jpg)
+Happy Grandson
+
+![imgage2](./image2.jpg)
+The crew watching the eclipse
+
+![image3](./image3.jpg)
+Grandson ready for the eclipse
+
 ## Links
 
 https://newdirectionfamilylaw.com/blog/child-support/what-happens-when-a-child-of-divorced-parents-turns-18/
