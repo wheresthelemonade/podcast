@@ -7,6 +7,7 @@ parent: Episodes
 lang: en
 nav_order: 604
 tags:
+    - blended
     - coparenting
     - financialconsiderations
     - adultchildren
@@ -43,7 +44,7 @@ description: "In the world of blended families, navigating issues related to co-
 ---
 
 <div>
-{% include transistor.html id="episode-WTL604" title="#604 #6.4 Co-parenting, Money, and Adult Children" %}
+{% include transistor.html id="f0945f8f" title="#604 #6.4 Co-parenting, Money, and Adult Children" %}
 
 {% include youtube.html id="joWs_BjibeY" %}
 </div>
