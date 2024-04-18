@@ -25,14 +25,14 @@ guests:
 img: thumbnail.jpg
 image: thumbnail.jpg
 summary: "Darren and Paige report on a trip with their 18 year old getting ready to graduate this spring. His last spring trip before we send him off to college in the Fall. Listen to their tips and tricks to travelling with teens in Europe."
-video: "https://youtu.be/p0jaFKeCgj8"
+video: "https://youtu.be/Zy43T3_JtnY"
 description: "Darren and Paige report on a trip with their 18 year old getting ready to graduate this spring. His last spring trip before we send him off to college in the Fall. Listen to their tips and tricks to travelling with teens in Europe."
 ---
 
 <div>
 {% include transistor.html id="68bdd0b4" title="#605 #6.5 Embarking on an Adventure: Traveling with Teens" %}
 
-{% include youtube.html id="p0jaFKeCgj8" %}
+{% include youtube.html id="Zy43T3_JtnY" %}
 </div>
 
 ---
