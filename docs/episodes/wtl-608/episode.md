@@ -54,27 +54,43 @@ Your partner has an amazing job. They love what they do and they get to travel. 
 ## Tips to cope with being home alone:
 
 * Get up before your kids. Gives you time to get things organized before the chaos begins.
+
 * Hire a sitter or ask a family member for help. It might save your sanity, even if it's just going to the store by yourself.
+
 * Start bedtime early. By the end of the day everyone can be grumpy and tired. Without your partner to help in the nightime routine, it can be very hard. 
+
 * Start early, be patient and get those kids to bed so you can have some alone time.
+
 * Make contact with mom or dad, whoever is gone. It will be helpful for everyone if you can keep them in the loop.
+
 * EASY DINNER!! Yes please. You dont need the stress of having to deal with everything alone and making a complicated dinner. Keep it easy, order out if possible, mac and cheese.
+
 ## Protect your relationship:
+
 * Discuss things beforehand. How long will they be gone? What will they be doing? What are the expectations of communicating while apart? Are there expectations of things to get done? 
+
 * Develop rituals while apart. “Landed” 
+
 Talk daily. You need that time to connect and discuss what's happening on both sides. 
+
 * Take time to have some intimate time before their trip and right after. 
+
 Realize it's not a fairy tale. It's easy to feel like your traveling partner is seeing and doing amazing things during their work trips. It’s not all fun and games. A work trip is not a vacation…unless it is! Your partner is working, and they are tired from jet lag, sick of eating out, missing you and kids, they are lonely. 
+
 * Be understanding. Don't let resentment build up.
 
 ## Take care of yourself:
 
 * Socialize. Set up a playdate with friends if the kids are little. Go out to lunch with your bestie. Get out of the house.
+
 * Look at your time alone as a positive. You don't have to share the TV. You can work on projects you have been putting off. Read a book and relax.
+
 * Escape when they get home. Your partner might not want to manage the kids alone when they first get home, but it's good for them. Sleep in or get out alone.
+
 * Think about the points your partner is racking up for a fun vacation together!!
 
 # Links:
+
 https://intermountainhealthcare.org/blogs/how-to-cope-when-your-partner-travels-often-for-work
 
 # Lemonade moment of the week: 
@@ -84,8 +100,11 @@ Darren was out of town so Paige was lonely, but the lemonade is she got a lot do
 # GenAI Images
 
 ![steampunk](./steampunk.jpg)
+
 ![photowhite](./photowhite.jpg)
+
 ![bw50](./bw50.jpg)
+
 
 
 <details>
