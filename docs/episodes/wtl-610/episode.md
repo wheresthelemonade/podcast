@@ -42,6 +42,7 @@ description: "Darren and Paige have 4 grandkids. 8, 5, 3 and 6 months. They are 
 * Then: Limited prenatal screening options; basic ultrasound and some genetic tests.
 
 * Now: Comprehensive prenatal screenings, including non-invasive prenatal testing (NIPT) for genetic conditions, 
+
   3D/4D ultrasounds, and detailed anomaly scans.
 
 ### Fertility Treatments:
@@ -49,6 +50,7 @@ description: "Darren and Paige have 4 grandkids. 8, 5, 3 and 6 months. They are 
 * Then: Basic fertility treatments like IVF were available but less refined.
 
 * Now: Advanced reproductive technologies, including improved IVF techniques, egg freezing, and genetic screening of 
+
   embryos.
 
 ### Birth Practices:
@@ -56,6 +58,7 @@ description: "Darren and Paige have 4 grandkids. 8, 5, 3 and 6 months. They are 
 * Then: More routine use of episiotomies, less emphasis on natural birth, 1 in 20 births were c section
 
 * Now: Greater emphasis on natural and personalized birth plans, midwifery, and doulas; increased options for pain 
+
   management and labor support.1 in 5 births are c section.
 
 ## Technology
@@ -71,6 +74,7 @@ description: "Darren and Paige have 4 grandkids. 8, 5, 3 and 6 months. They are 
 * Then: Basic baby monitors, fewer technological aids.
 
 * Now: Smart baby monitors with video and health tracking features, wearable devices for babies, and smart nursery 
+
   equipment.
 
 ## Societal and Cultural Changes
@@ -80,6 +84,7 @@ description: "Darren and Paige have 4 grandkids. 8, 5, 3 and 6 months. They are 
 * Then: Shorter and less comprehensive parental leave policies in many places.
 
 * Now: Improved parental leave policies in many regions, with some countries offering extended and paid leave for 
+
   both parents.
 
 ### Work-Life Balance:
@@ -87,6 +92,7 @@ description: "Darren and Paige have 4 grandkids. 8, 5, 3 and 6 months. They are 
 * Then: More traditional roles with often one parent staying at home.
 
 * Now: Increased focus on work-life balance, remote working options, and more fathers taking active roles in 
+
   child-rearing.
 
 ## Lifestyle and Parenting Trends
@@ -94,6 +100,7 @@ description: "Darren and Paige have 4 grandkids. 8, 5, 3 and 6 months. They are 
 ### Parenting Styles:
 
 * Then: More authoritative and traditional parenting styles.
+
 * Now: Emphasis on gentle parenting, attachment parenting, and positive discipline.
 
 ### Health and Safety:
@@ -101,6 +108,7 @@ description: "Darren and Paige have 4 grandkids. 8, 5, 3 and 6 months. They are 
 * Then: Basic safety guidelines and fewer regulations.
 
 * Now: Stringent safety standards for baby products, awareness of safe sleep practices (e.g., back-to-sleep campaign),
+
   and more focus on mental health.
 
 ## Financial and Economic Factors
@@ -126,6 +134,7 @@ David is gone we miss him. But he is working hard trying to become a state lifeg
 ## Links
 
 https://www.takingcharge.csh.umn.edu/how-has-childbirth-changed-century
+
 
 
 <details>
